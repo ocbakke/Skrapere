@@ -1,0 +1,42 @@
+name: Domstolsjekkeren SA
+
+on:
+  schedule:
+    # Kjører hver dag kl. 06:00 UTC (som blir kl. 07:00 norsk vintertid / 08:00 sommertid)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Denne gjør at du kan trykke på en knapp for å teste skriptet manuelt når du vil
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Nødvendig for at boten skal få lov til å oppdatere cache-filen
+
+    steps:
+      - name: Sjekk ut kode
+        uses: actions/checkout@v4
+
+      - name: Sett opp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer avhengigheter
+        run: pip install -r requirements.txt
+
+      - name: Kjør scraper
+        env:
+          EPOST_BRUKER: ${{ secrets.EPOST_BRUKER }}
+          EPOST_PASSORD: ${{ secrets.EPOST_PASSORD }}
+          # Du kan eventuelt legge inn EPOST_MOTTAKER her også om du la den inn i Secrets, 
+          # ellers bruker skriptet standardadressen ("redaksjonen@sa.no")
+        run: python domstolsjekkeren_scraper.py
+
+      - name: Lagre cache tilbake til GitHub
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add cache_sa.json
+          # Lagrer kun hvis cache-filen faktisk er endret (altså hvis den fant nye saker)
+          git diff --quiet && git diff --staged --quiet || git commit -m "Oppdatert cache for SA"
+          git push
