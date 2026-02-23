@@ -1,0 +1,41 @@
+name: Kommunejournalen SA
+
+on:
+  schedule:
+    # Kjører kl 06:15 UTC hver dag (07:15 norsk vintertid / 08:15 sommertid)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Lar deg teste manuelt med "Run workflow"-knappen
+
+jobs:
+  scrape-kommune:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Nødvendig for å lagre text-filen med leste saker
+
+    steps:
+      - name: Sjekk ut kode
+        uses: actions/checkout@v4
+
+      - name: Sett opp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer avhengigheter
+        run: pip install -r requirements.txt
+
+      - name: Kjør kommune-roboten
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EPOST_BRUKER: ${{ secrets.EPOST_BRUKER }}
+          EPOST_PASSORD: ${{ secrets.EPOST_PASSORD }}
+        # HER ER ENDRINGEN: Kjører kommunebotten.py i stedet
+        run: python kommunebotten.py
+
+      - name: Lagre 'sett'-filen tilbake til GitHub
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add sette_dokumenter.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "Oppdatert filter for kommunejournalen"
+          git push
