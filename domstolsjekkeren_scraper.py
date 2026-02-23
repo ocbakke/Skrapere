@@ -46,13 +46,13 @@ def send_epost_liste(nye_saker):
         return
 
     msg = EmailMessage()
-    msg['Subject'] = f"🚨 Nye TSAR-saker i Søndre Østfold tingrett ({len(nye_saker)})"
+    msg['Subject'] = f"🚨 Nye Sarpsborg-saker i Søndre Østfold tingrett ({len(nye_saker)})"
     msg['From'] = EPOST_AVSENDER
     msg['To'] = EPOST_MOTTAKER
 
     html_innhold = """
     <div style="font-family: Arial, sans-serif; color: #333;">
-        <h2>Følgende nye saker med TSAR-endelse er lagt til i berammingslisten:</h2>
+        <h2>Følgende nye saker fra Sarpsborg er lagt til i berammingslisten:</h2>
     """
     
     for sak in nye_saker:
