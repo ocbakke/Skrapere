@@ -13,6 +13,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import TimeoutException
 
 # --- KONFIGURASJON ---
 DOMSTOL_ID = "AAAA2103101754092672012RXHZEG_EJBOrgUnit" # Søndre Østfold tingrett
@@ -25,11 +26,7 @@ SMTP_PORT = 587
 # Henter innloggingsdetaljer fra miljøvariabler (GitHub Secrets)
 EPOST_AVSENDER = os.environ.get("EPOST_BRUKER") 
 EPOST_PASSORD = os.environ.get("EPOST_PASSORD") 
-
-# Hvem skal motta varslene? 
 EPOST_MOTTAKER = os.environ.get("EPOST_MOTTAKER", "redaksjonen@sa.no") 
-
-# E-posten til domstolen for innsynskrav
 TINGRETT_EPOST = "sondre.ostfold.tingrett@domstol.no" 
 
 def les_cache():
@@ -50,12 +47,9 @@ def send_epost_liste(nye_saker):
 
     msg = EmailMessage()
     msg['Subject'] = f"🚨 Nye TSAR-saker i Søndre Østfold tingrett ({len(nye_saker)})"
-    
-    # Sendes rett fra din e-post, med ditt vanlige navn
     msg['From'] = EPOST_AVSENDER
     msg['To'] = EPOST_MOTTAKER
 
-    # Bygger innholdet i e-posten (HTML)
     html_innhold = """
     <div style="font-family: Arial, sans-serif; color: #333;">
         <h2>Følgende nye saker med TSAR-endelse er lagt til i berammingslisten:</h2>
@@ -98,15 +92,14 @@ def send_epost_liste(nye_saker):
 
 def main():
     if not EPOST_AVSENDER or not EPOST_PASSORD:
-        print("ADVARSEL: EPOST_BRUKER eller EPOST_PASSORD mangler i miljøvariablene. E-post vil feile.")
+        print("ADVARSEL: EPOST_BRUKER eller EPOST_PASSORD mangler i miljøvariablene.")
 
-    # --- NYE CHROME-INNSTILLINGER FOR Å UNNGÅ BLOKKERING ---
     options = Options()
-    options.add_argument("--headless=new") # Ny headless-modus som er vanskeligere å oppdage
+    options.add_argument("--headless=new") 
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--window-size=1920,1080") # Tvinger PC-skjerm så tabellen faktisk vises
-    options.add_argument("--disable-blink-features=AutomationControlled") # Skjuler at det er en robot
+    options.add_argument("--window-size=1920,1080") 
+    options.add_argument("--disable-blink-features=AutomationControlled") 
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option('useAutomationExtension', False)
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
@@ -114,25 +107,33 @@ def main():
     driver = webdriver.Chrome(options=options)
     sendte_varsler = les_cache()
     
-    i_dag_str = datetime.now().strftime("%Y-%m-%d")
-    url = f"https://www.domstol.no/no/nar-gar-rettssaken/?fraDato={i_dag_str}&domstolid={DOMSTOL_ID}&sortTerm=rettsmoete&sortAscending=true&pageSize=1000"
+    # --- DYNAMISK DATO OG URL OPPRETTELSE ---
+    i_dag = datetime.now()
+    grense = i_dag + timedelta(days=14)
+    
+    fra_dato_str = i_dag.strftime("%Y-%m-%d")
+    til_dato_str = grense.strftime("%Y-%m-%d")
+    
+    # Har lagt til tilDato og query=TSAR i URLen
+    url = f"https://www.domstol.no/no/nar-gar-rettssaken/?fraDato={fra_dato_str}&tilDato={til_dato_str}&domstolid={DOMSTOL_ID}&sortTerm=rettsmoete&sortAscending=true&pageSize=100&query=TSAR"
     
     funnet_saker = []
 
     try:
         print(f"Henter saker fra: {url}")
         driver.get(url)
-        time.sleep(10) # Venter 10 sek for å la JavaScript bygge tabellen
+        time.sleep(5) # Gir siden tid til å laste
         
-        # Venter til selve tabellen dukker opp i HTML-en (maks 30 sekunder)
-        wait = WebDriverWait(driver, 30)
-        wait.until(EC.presence_of_element_located((By.TAG_NAME, "table")))
-        
+        # Penere feilhåndtering: Hvis det ikke er en tabell der, krasjer vi ikke.
+        try:
+            wait = WebDriverWait(driver, 15)
+            wait.until(EC.presence_of_element_located((By.TAG_NAME, "table")))
+        except TimeoutException:
+            print("Fant ingen tabell på siden. Dette betyr mest sannsynlig at det ikke er noen TSAR-saker i denne perioden.")
+            return # Avslutter scriptet pent uten at det blir rødt kryss i GitHub
+
         rader = driver.find_elements(By.CSS_SELECTOR, "table tr")[1:]
-        i_dag = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
-        grense = i_dag + timedelta(days=14)
-        
-        print(f"Fant {len(rader)} rader i tabellen. Starter filtrering...")
+        print(f"Fant {len(rader)} rader i tabellen. Sjekker for nye saker...")
         
         for rad in rader:
             cols = rad.find_elements(By.TAG_NAME, "td")
@@ -145,11 +146,12 @@ def main():
             try:
                 dato_str = rettsmoete_full.split()[0]
                 sak_dato = datetime.strptime(dato_str, "%d.%m.%Y")
-            except Exception as e:
+            except Exception:
                 continue
             
             cache_id = f"{saksnr}_{dato_str}"
             
+            # Siden vi søker på TSAR i URLen, vil alt i tabellen være TSAR, men vi dobbeltsjekker likevel
             if saksnr.endswith("TSAR") and cache_id not in sendte_varsler:
                 try:
                     try:
@@ -158,7 +160,7 @@ def main():
                     except:
                         sakslenke = url
 
-                    if i_dag <= sak_dato <= grense:
+                    if i_dag.date() <= sak_dato.date() <= grense.date():
                         print(f"Fant ny TSAR-sak: {saksnr}")
                         funnet_saker.append({
                             'rettsmoete': rettsmoete_full,
@@ -176,11 +178,7 @@ def main():
             send_epost_liste(funnet_saker)
             skriv_cache(sendte_varsler)
         else:
-            print("Ingen nye TSAR-saker funnet i dag.")
-            
-    except Exception as e:
-        print(f"Kritisk feil under kjøring: {e}")
-        raise e
+            print("Ingen NYE TSAR-saker funnet i dag (de som lå der var allerede varslet om).")
             
     finally:
         driver.quit()
