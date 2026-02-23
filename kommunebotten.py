@@ -33,7 +33,7 @@ except Exception as e:
 def grovfilter(tekst):
     """Returnerer False hvis teksten inneholder kjedelige ord."""
     kjedelige_ord = [
-        "parkering", "skjenkebevilling", "ferdigattest", "igangsetting",
+        "parkering", "ferdigattest", "igangsetting",
         "sanitær", "feilsortert avfall", "ekstratømming", "gebyr",
         "startlån", "tilleggslån", "motorferdsel", "vigsel", "elevpermisjon",
         "overfylte beholdere", "renovasjonsforskriften", "restavfallsbeholder",
@@ -54,14 +54,14 @@ def analyser_batch_med_gemini(liste_med_saker):
 
     prompt = f"""
     Du er nyhetsjournalist i Sarpsborg Arbeiderblad. Her er en liste over nye dokumenter fra postjournalen.
-    Din oppgave er å plukke ut DE FÅ som er nyhetsverdige. Vær streng.
+    Din oppgave er å plukke ut DE som er nyhetsverdige.
 
     Kriterier for TREFF:
     - Konflikter, klager, lovbrudd, tvangsmulkt, trusler.
     - Konkurs, store pengesummer, erstatningskrav.
     - Alvorlig kritikk fra tilsyn (Statsforvalter, Arbeidstilsyn).
     - Politiske stridstemaer, varslingssaker, habilitet.
-    - "Unntatt offentlighet" hvis tittelen virker dramatisk.
+    - "Unntatt offentlighet" hvis tittelen virker interessant.
 
     Her er listen:
     {tekst_blokk}
@@ -121,8 +121,8 @@ def send_nyhetsvarsel_epost(funn_liste):
 
     html_innhold = """
     <div style="font-family: Arial, sans-serif; color: #333;">
-        <h2 style="color: #0056b3;">Nyhetsroboten har funnet noe interessant! 🗞️</h2>
-        <p>Her er dokumentene Gemini mener er verdt å sjekke ut i Sarpsborg kommunes postjournal:</p>
+        <h2 style="color: #0056b3;">Kommunebotten Jonnyh har funnet noe interessant! 🗞️</h2>
+        <p>Her er dokumentene Jonnyh mener er verdt å sjekke ut i Sarpsborg kommunes postjournal:</p>
     """
     
     for sak in funn_liste:
