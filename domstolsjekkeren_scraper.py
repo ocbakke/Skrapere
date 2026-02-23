@@ -23,7 +23,7 @@ SMTP_SERVER = "smtp.gmail.com"  # F.eks. smtp.gmail.com eller smtp.office365.com
 SMTP_PORT = 587
 EPOST_AVSENDER = os.environ.get("EPOST_BRUKER")  # Hentes fra miljøvariabel for sikkerhet
 EPOST_PASSORD = os.environ.get("EPOST_PASSORD")  # App-passord
-EPOST_MOTTAKER = "journalister@sa.no"  # Legg inn fellesadresse eller en liste med e-poster
+EPOST_MOTTAKER = "ocb@sa.no"  # Legg inn fellesadresse eller en liste med e-poster
 TINGRETT_EPOST = "sondre.ostfold.tingrett@domstol.no"  # E-posten for innsynskrav
 
 
