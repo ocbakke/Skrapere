@@ -186,7 +186,6 @@ def main():
 
     driver = webdriver.Chrome(options=options)
     
-    # Klargjør e-post konfigurasjon globalt slik at funksjonen når dem
     global SMTP_SERVER, SMTP_PORT
     SMTP_SERVER = "smtp.gmail.com"
     SMTP_PORT = 587
@@ -199,10 +198,15 @@ def main():
         driver.get(URL_TIL_LISTEN)
         time.sleep(5)
 
-        sett_ids = set()
+        # 1. Last inn eksisterende ID-er i en LISTE for å bevare rekkefølge
+        gamle_ids = []
         if os.path.exists(SEEN_FILE):
             with open(SEEN_FILE, "r", encoding="utf-8") as f:
-                sett_ids = set(f.read().splitlines())
+                gamle_ids = [line.strip() for line in f.readlines() if line.strip()]
+        
+        # Bruker et SET for superrask oppslag underveis i kjøringen
+        sett_ids_oppslag = set(gamle_ids)
+        nye_ids_funnet_i_dag = []
 
         for side in range(1, MAKS_SIDER + 1):
             if side > 1:
@@ -226,13 +230,15 @@ def main():
             kandidater_til_ai = []
             for sak in alle_saker:
                 fingeravtrykk = sak[:60]
-                if fingeravtrykk not in sett_ids and grovfilter(sak):
-                    kandidater_til_ai.append(sak)
-
-                if fingeravtrykk not in sett_ids:
-                    sett_ids.add(fingeravtrykk)
-                    with open(SEEN_FILE, "a", encoding="utf-8") as f:
-                        f.write(fingeravtrykk + "\n")
+                
+                # Sjekk om vi har sett denne før
+                if fingeravtrykk not in sett_ids_oppslag:
+                    if grovfilter(sak):
+                        kandidater_til_ai.append(sak)
+                    
+                    # Legg til i listen over ting vi har sett i dag
+                    sett_ids_oppslag.add(fingeravtrykk)
+                    nye_ids_funnet_i_dag.append(fingeravtrykk)
 
             print(f"\nSide {side}: Fant {len(alle_saker)} saker. {len(kandidater_til_ai)} sendes til AI-sjekk...", end="")
 
@@ -246,9 +252,19 @@ def main():
             else:
                 print(" (Alt var kjedelig/sett før)", end="")
 
-        # Når alle sidene er bladd gjennom, sendes e-posten hvis vi fant noe
+        # 2. RYDDING: Lagre kun de 500 nyeste dokumentene totalt
+        # Vi tar de gamle, legger til de nye, og beholder kun de siste 500
+        total_liste = gamle_ids + nye_ids_funnet_i_dag
+        begrenset_liste = total_liste[-500:] # Beholder de 500 nyeste
+
+        with open(SEEN_FILE, "w", encoding="utf-8") as f:
+            for fid in begrenset_liste:
+                f.write(fid + "\n")
+        
+        print(f"\nOppdaterte {SEEN_FILE}. Beholder de {len(begrenset_liste)} nyeste ID-ene.")
+
         if alle_ai_funn:
-            print(f"\nSender e-post med totalt {len(alle_ai_funn)} nyhetstips...")
+            print(f"Sender e-post med totalt {len(alle_ai_funn)} nyhetstips...")
             send_nyhetsvarsel_epost(alle_ai_funn)
 
     except Exception as e:
@@ -260,6 +276,3 @@ def main():
     print(f"FERDIG! Lest {totalt_lest} dokumenter.")
     print(f"Fant {len(alle_ai_funn)} potensielle saker.")
     print("=" * 40)
-
-if __name__ == "__main__":
-    main()
