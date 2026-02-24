@@ -3,7 +3,7 @@ name: Domstolsjekkeren SA
 on:
   schedule:
     # Kjører hver dag kl. 06:00 UTC (som blir kl. 07:00 norsk vintertid / 08:00 sommertid)
-    - cron: '0 6 * * *'
+    - cron: '22 5 * * *'
   workflow_dispatch: # Denne gjør at du kan trykke på en knapp for å teste skriptet manuelt når du vil
 
 jobs:
