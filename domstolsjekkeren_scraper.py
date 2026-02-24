@@ -128,7 +128,7 @@ def main():
             wait = WebDriverWait(driver, 15)
             wait.until(EC.presence_of_element_located((By.TAG_NAME, "table")))
         except TimeoutException:
-            print("Fant ingen tabell på siden. Dette betyr at det ikke er noen TSAR-saker i denne perioden.")
+            print("Fant ingen tabell på siden. Dette betyr at det ikke er noen Sarpsborg-saker i denne perioden.")
             return 
 
         rader = driver.find_elements(By.CSS_SELECTOR, "table tr")[1:]
