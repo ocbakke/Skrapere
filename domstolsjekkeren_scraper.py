@@ -159,7 +159,7 @@ def main():
                         sakslenke = url
 
                     if i_dag.date() <= sak_dato.date() <= grense.date():
-                        print(f"Fant ny TSAR-sak: {saksnr}")
+                        print(f"Fant ny Sarpsborg-sak: {saksnr}")
                         funnet_saker.append({
                             'rettsmoete': rettsmoete_full,
                             'saksnr': saksnr,
@@ -176,7 +176,7 @@ def main():
             send_epost_liste(funnet_saker)
             skriv_cache(sendte_varsler)
         else:
-            print("Ingen NYE TSAR-saker funnet i dag (de som lå der var allerede varslet om).")
+            print("Ingen NYE Sarpsborg-saker funnet i dag (de som lå der var allerede varslet om).")
             
     finally:
         driver.quit()
