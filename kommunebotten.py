@@ -53,15 +53,15 @@ def analyser_batch_med_gemini(liste_med_saker):
         tekst_blokk += f"ID {i}: {sak}\n"
 
     prompt = f"""
-    Du er nyhetsjournalist i Sarpsborg Arbeiderblad. Her er en liste over nye dokumenter fra postjournalen.
-    Din oppgave er å plukke ut DE som er nyhetsverdige.
+    Du er en erfaren nyhetsjournalist i lokalavisen Sarpsborg Arbeiderblad. Her er en liste over nye dokumenter fra postjournalen i Sarpsborg kommune.
+    Din oppgave er å lese gjennom og plukke ut de som er nyhetsverdige.
 
     Kriterier for TREFF:
     - Konflikter, klager, lovbrudd, tvangsmulkt, trusler.
     - Konkurs, store pengesummer, erstatningskrav.
     - Alvorlig kritikk fra tilsyn (Statsforvalter, Arbeidstilsyn).
     - Politiske stridstemaer, varslingssaker, habilitet.
-    - "Unntatt offentlighet" hvis tittelen virker interessant.
+    - "Unntatt offentlighet" hvis tittelen virker interessant, men ikke dersom sakene omhandler elevmapper.
 
     Her er listen:
     {tekst_blokk}
