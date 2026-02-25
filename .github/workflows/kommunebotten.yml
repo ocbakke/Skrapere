@@ -3,7 +3,7 @@ name: Kommunejournalen SA
 on:
   schedule:
     # Kjører kl 06:15 UTC hver dag (07:15 norsk vintertid / 08:15 sommertid)
-    - cron: '0 5 * * *'
+    - cron: '12 5 * * *'
   workflow_dispatch: # Lar deg teste manuelt med "Run workflow"-knappen
 
 jobs:
