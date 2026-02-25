@@ -163,4 +163,24 @@ def main():
                 fid = s[:90] # Økt unikhet
                 if fid not in sett_ids_oppslag and grovfilter(s):
                     kandidater.append(s)
-                    sett_
+                    sett_ids_oppslag.add(fid)
+                    nye_ids.append(fid)
+
+            if kandidater:
+                alle_ai_funn.extend(analyser_batch_med_gemini(kandidater))
+
+        # LAGRING MED ROTASJON (Husk kun de siste 500)
+        total_liste = (gamle_ids + nye_ids)[-500:]
+        with open(SEEN_FILE, "w", encoding="utf-8") as f:
+            for i in total_liste: f.write(i + "\n")
+
+        if alle_ai_funn:
+            send_nyhetsvarsel_epost(alle_ai_funn)
+        else:
+            print("DEBUG: Ingen nyhetstips funnet i denne runden.")
+
+    finally:
+        driver.quit()
+
+if __name__ == "__main__":
+    main()
