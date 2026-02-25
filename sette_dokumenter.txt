@@ -28,7 +28,7 @@ Dokumentnummer | 26/00003-81 | Sak | Parkeringsgebyr / kontr
 Dokumentnummer | 26/00003-80 | Sak | Parkeringsgebyr / kontr
 Dokumentnummer | 26/00003-78 | Sak | Parkeringsgebyr / kontr
 Dokumentnummer | 26/01984-76 | Sak | Helsefagarbeider Virkso
-Dokumentnummer | 24/01864-76 | Sak | Elevmappe - Avskjermet 
+Dokumentnummer | 24/01864-76 | Sak | Elevmappe - Avskjermet
 Dokumentnummer | 26/01984-75 | Sak | Helsefagarbeider Virkso
 Dokumentnummer | 26/01984-74 | Sak | Helsefagarbeider Virkso
 Offentlig journal | Hjelp | Viser 31 - 40 av 112662 dokument
@@ -68,26 +68,26 @@ Offentlig journal | Hjelp | Viser 61 - 70 av 112662 dokument
 Dokumentnummer | 26/01941-58 | Sak | Avdelingsleder livsmest
 Dokumentnummer | 26/01984-57 | Sak | Helsefagarbeider Virkso
 Dokumentnummer | 26/01941-57 | Sak | Avdelingsleder livsmest
-Dokumentnummer | 26/01930-57 | Sak | Vernepleier Virksomhet 
+Dokumentnummer | 26/01930-57 | Sak | Vernepleier Virksomhet
 Dokumentnummer | 26/01984-56 | Sak | Helsefagarbeider Virkso
 Dokumentnummer | 26/01941-56 | Sak | Avdelingsleder livsmest
-Dokumentnummer | 26/01930-56 | Sak | Vernepleier Virksomhet 
+Dokumentnummer | 26/01930-56 | Sak | Vernepleier Virksomhet
 Dokumentnummer | 26/01984-55 | Sak | Helsefagarbeider Virkso
 Dokumentnummer | 26/01941-55 | Sak | Avdelingsleder livsmest
-Dokumentnummer | 26/01930-55 | Sak | Vernepleier Virksomhet 
+Dokumentnummer | 26/01930-55 | Sak | Vernepleier Virksomhet
 Offentlig journal | Hjelp | Viser 71 - 80 av 112662 dokument
 Dokumentnummer | 26/01984-54 | Sak | Helsefagarbeider Virkso
 Dokumentnummer | 26/01941-54 | Sak | Avdelingsleder livsmest
-Dokumentnummer | 26/01930-54 | Sak | Vernepleier Virksomhet 
+Dokumentnummer | 26/01930-54 | Sak | Vernepleier Virksomhet
 Dokumentnummer | 26/01984-53 | Sak | Helsefagarbeider Virkso
 Dokumentnummer | 26/01941-53 | Sak | Avdelingsleder livsmest
-Dokumentnummer | 26/01930-53 | Sak | Vernepleier Virksomhet 
+Dokumentnummer | 26/01930-53 | Sak | Vernepleier Virksomhet
 Dokumentnummer | 26/01984-52 | Sak | Helsefagarbeider Virkso
 Dokumentnummer | 26/01941-52 | Sak | Avdelingsleder livsmest
 Dokumentnummer | 26/01984-51 | Sak | Helsefagarbeider Virkso
 Dokumentnummer | 26/01941-51 | Sak | Avdelingsleder livsmest
 Offentlig journal | Hjelp | Viser 81 - 90 av 112662 dokument
-Dokumentnummer | 23/24430-51 | Sak | Fremtidig kjøkkendrift 
+Dokumentnummer | 23/24430-51 | Sak | Fremtidig kjøkkendrift
 Dokumentnummer | 26/01984-50 | Sak | Helsefagarbeider Virkso
 Dokumentnummer | 26/01941-50 | Sak | Avdelingsleder livsmest
 Dokumentnummer | 26/01984-49 | Sak | Helsefagarbeider Virkso
@@ -107,10 +107,10 @@ Dokumentnummer | 26/01984-43 | Sak | Helsefagarbeider Virkso
 Dokumentnummer | 26/01941-43 | Sak | Avdelingsleder livsmest
 Dokumentnummer | 26/01984-42 | Sak | Helsefagarbeider Virkso
 Dokumentnummer | 26/01941-42 | Sak | Avdelingsleder livsmest
-Dokumentnummer | 23/30706-42 | Sak | Elevmappe - Avskjermet 
+Dokumentnummer | 23/30706-42 | Sak | Elevmappe - Avskjermet
 Offentlig journal | Hjelp | Viser 1 - 10 av 113172 dokumente
-Dokumentnummer | 23/24007-116 | Sak | Omsetningsoppgave for 
-Dokumentnummer | 23/24007-115 | Sak | Omsetningsoppgave for 
+Dokumentnummer | 23/24007-116 | Sak | Omsetningsoppgave for
+Dokumentnummer | 23/24007-115 | Sak | Omsetningsoppgave for
 Dokumentnummer | 26/00003-83 | Sak | Parkeringsgebyr / kontr
 Dokumentnummer | 26/01244-5 | Sak | Søknad om startlån - Avs
 Dokumentnummer | 23/28567-2 | Sak | Elevmappe - Avskjermet |
@@ -129,7 +129,7 @@ Dokumentnummer | 26/03356-1 | Sak | Elevmappe - Avskjermet |
 Dokumentnummer | 26/03214-1 | Sak | Elevmappe - Avskjermet |
 Dokumentnummer | 26/03212-1 | Sak | Elevmappe - Avskjermet |
 Dokumentnummer | 26/00002-187 | Sak | Parkeringstillatelse f
-Dokumentnummer | 23/24007-114 | Sak | Omsetningsoppgave for 
+Dokumentnummer | 23/24007-114 | Sak | Omsetningsoppgave for
 Offentlig journal | Hjelp | Viser 21 - 30 av 113172 dokument
 Dokumentnummer | 26/01200-43 | Sak | Ledig avdelingsledersti
 Dokumentnummer | 26/01200-42 | Sak | Ledig avdelingsledersti
@@ -218,3 +218,95 @@ Dokumentnummer | 26/00018-112 | Sak | Feilsortert avfall / o
 Dokumentnummer | 26/00018-111 | Sak | Feilsortert avfall / o
 Dokumentnummer | 26/00018-110 | Sak | Feilsortert avfall / o
 Dokumentnummer | 26/00018-109 | Sak | Feilsortert avfall / o
+Dokumentnummer | 25/04501-143 | Sak | 202502 Områderegulering, Store datasenter Hasle | Ti
+Dokumentnummer | 24/09973-306 | Sak | Tjenestebevis for tidligere ansatte | Til | Avskjerm
+Dokumentnummer | 25/22926-172 | Sak | Helsefagarbeider Tjenester til funksjonshindrede - L
+Dokumentnummer | 25/20199-333 | Sak | Helgestillinger for studenter og helsefagarbeidere V
+Dokumentnummer | 25/22926-173 | Sak | Helsefagarbeider Tjenester til funksjonshindrede - L
+Dokumentnummer | 23/32922-148 | Sak | Avviksbehandling - Sykehuset Østfold - Samhandlingsu
+Dokumentnummer | 25/24790-273 | Sak | Administrasjonskonsulent Team Sarpsborg scene, Sarps
+Dokumentnummer | 26/02179-111 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Dokumentnummer | 26/02179-109 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Dokumentnummer | 23/33647-118 | Sak | Søknad om kreditt ved levering av avfall til Gatedal
+Dokumentnummer | 26/02179-110 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Dokumentnummer | 23/24026-118 | Sak | Søknad om felling/beskjæring av trær eller rydding a
+Dokumentnummer | 26/02179-107 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Dokumentnummer | 26/02179-105 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Offentlig journal | Hjelp | Viser 21 - 30 av 113724 dokumenter | Svar på søknad - Helsefag
+Dokumentnummer | 26/02179-102 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Dokumentnummer | 24/06663-106 | Sak | Vannskade - 2094/155 - Plutoveien 1 - skade / erstat
+Dokumentnummer | 26/02179-104 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Dokumentnummer | 26/02179-106 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Dokumentnummer | 26/02179-101 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Dokumentnummer | 26/02179-103 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Dokumentnummer | 26/02179-100 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Dokumentnummer | 26/02179-108 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
+Dokumentnummer | 24/06663-95 | Sak | Vannskade - 2094/155 - Plutoveien 1 - skade / erstatn
+Offentlig journal | Hjelp | Viser 31 - 40 av 113724 dokumenter | Oversendelse av klage ove
+Dokumentnummer | 26/02179-99 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-94 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 24/06663-98 | Sak | Vannskade - 2094/155 - Plutoveien 1 - skade / erstatn
+Dokumentnummer | 24/06663-100 | Sak | Vannskade - 2094/155 - Plutoveien 1 - skade / erstat
+Dokumentnummer | 26/02179-97 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-96 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-98 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-93 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-95 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-86 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-88 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-92 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-89 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-87 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-91 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-90 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-80 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 23/24021-83 | Sak | Arrangementer - søknadsskjema | Til | DETROIT CARS | 
+Dokumentnummer | 26/02179-83 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-81 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-84 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 25/08606-82 | Sak | Bonden som næringsdrivende | Til | Lars Ingvald Talbe
+Dokumentnummer | 26/02179-85 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 25/08606-81 | Sak | Bonden som næringsdrivende | Til | Camilla Nordmo, Id
+Dokumentnummer | 26/02179-82 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-77 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 25/08606-80 | Sak | Bonden som næringsdrivende | Til | Bent Dangstorp | J
+Dokumentnummer | 26/01984-77 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsbo
+Dokumentnummer | 26/02179-79 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 23/34175-79 | Sak | Hogstrettigheter 1/5010, 1/5011 og 1/5012 - Maugesten
+Dokumentnummer | 26/01984-78 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsbo
+Dokumentnummer | 25/08606-79 | Sak | Bonden som næringsdrivende | Til | Hans Erik Navestad
+Dokumentnummer | 26/02179-78 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/01930-77 | Sak | Vernepleier Virksomhet Livsmestring barn og unge, Sar
+Dokumentnummer | 26/02179-68 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/00004-73 | Sak | Ledsagerbevis 2026 | Til | Avskjermet | Journaldato |
+Dokumentnummer | 26/02179-71 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-74 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-70 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-73 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Offentlig journal | Hjelp | Viser 71 - 80 av 113724 dokumenter | Svar på søknad - Helsefag
+Dokumentnummer | 26/02179-72 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-76 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-75 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-69 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-59 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-65 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-66 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-63 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-64 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-58 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-60 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-61 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-67 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Offentlig journal | Hjelp | Viser 81 - 90 av 113724 dokumenter | Svar på søknad - Helsefag
+Dokumentnummer | 26/02179-62 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-55 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Offentlig journal | Hjelp | Viser 91 - 100 av 113724 dokumenter | Svar på søknad - Helsefa
+Dokumentnummer | 23/34627-55 | Sak | Oppgjør mellom kommunen og helseøkonomiforvaltningen 
+Dokumentnummer | 26/02179-50 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-52 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-56 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-54 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-53 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-57 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02179-51 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 23/34011-55 | Sak | 2073/171/0/0 - Opstadveien 44 - ny tomannsbolig | Fra
