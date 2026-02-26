@@ -260,7 +260,7 @@ Dokumentnummer | 26/02179-87 | Sak | Helsefagarbeider Kommuneområde helse og ve
 Dokumentnummer | 26/02179-91 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/02179-90 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/02179-80 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 23/24021-83 | Sak | Arrangementer - søknadsskjema | Til | DETROIT CARS | 
+Dokumentnummer | 23/24021-83 | Sak | Arrangementer - søknadsskjema | Til | DETROIT CARS |
 Dokumentnummer | 26/02179-83 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/02179-81 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/02179-84 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
@@ -301,7 +301,7 @@ Offentlig journal | Hjelp | Viser 81 - 90 av 113724 dokumenter | Svar på søkna
 Dokumentnummer | 26/02179-62 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/02179-55 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Offentlig journal | Hjelp | Viser 91 - 100 av 113724 dokumenter | Svar på søknad - Helsefa
-Dokumentnummer | 23/34627-55 | Sak | Oppgjør mellom kommunen og helseøkonomiforvaltningen 
+Dokumentnummer | 23/34627-55 | Sak | Oppgjør mellom kommunen og helseøkonomiforvaltningen
 Dokumentnummer | 26/02179-50 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/02179-52 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/02179-56 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
@@ -310,3 +310,5 @@ Dokumentnummer | 26/02179-53 | Sak | Helsefagarbeider Kommuneområde helse og ve
 Dokumentnummer | 26/02179-57 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/02179-51 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 23/34011-55 | Sak | 2073/171/0/0 - Opstadveien 44 - ny tomannsbolig | Fra
+Dokumentnummer | 23/24021-83 | Sak | Arrangementer - søknadsskjema | Til | DETROIT CARS | 
+Dokumentnummer | 23/34627-55 | Sak | Oppgjør mellom kommunen og helseøkonomiforvaltningen 
