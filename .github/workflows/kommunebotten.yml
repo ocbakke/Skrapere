@@ -38,4 +38,5 @@ jobs:
           git config --global user.email "actions@github.com"
           git add sette_dokumenter.txt
           git diff --quiet && git diff --staged --quiet || git commit -m "Oppdatert filter for kommunejournalen"
+          git pull --rebase
           git push
