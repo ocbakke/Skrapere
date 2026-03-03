@@ -26,7 +26,7 @@ SMTP_PORT = 587
 # Henter innloggingsdetaljer fra miljøvariabler (GitHub Secrets)
 EPOST_AVSENDER = os.environ.get("EPOST_BRUKER") 
 EPOST_PASSORD = os.environ.get("EPOST_PASSORD") 
-EPOST_MOTTAKER = os.environ.get("EPOST_MOTTAKER", "ocb@sa.no, tina@sa.no, johnny.helgesen@sa.no") 
+EPOST_MOTTAKER = os.environ.get("EPOST_MOTTAKER", "ocb@sa.no, tina@sa.no, johnny.helgesen@sa.no, stina.mikalsen@sa.no") 
 TINGRETT_EPOST = "sondre.ostfold.tingrett@domstol.no" 
 
 def les_cache():
