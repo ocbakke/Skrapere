@@ -55,6 +55,7 @@ def analyser_batch_med_gemini(liste_med_saker):
     - Alvorlig kritikk fra tilsyn (Statsforvalter, Arbeidstilsyn).
     - Politiske stridstemaer, varslingssaker, habilitet.
     - "Unntatt offentlighet" hvis tittelen virker interessant, men ikke dersom sakene omhandler elevmapper.
+    - Svar på søknader og ansettelsesprosesser, er som hovedregel uinteressant, med mindre det er snakk om lederstillinger i kommunen.
 
     Her er listen:
     {tekst_blokk}
