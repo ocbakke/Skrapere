@@ -16,7 +16,7 @@ EPOST_MOTTAKER = os.environ.get("EPOST_MOTTAKER", "ocb@sa.no, redaksjonen@sa.no"
 
 URL_TIL_LISTEN = "https://sarpsborg.pj.360online.com/"
 SEEN_FILE = "sette_dokumenter.txt"
-MAKS_SIDER = 10
+MAKS_SIDER = 20
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
