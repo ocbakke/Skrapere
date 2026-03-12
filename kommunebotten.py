@@ -45,7 +45,7 @@ def analyser_batch_med_gemini(liste_med_saker):
     for i, sak in enumerate(liste_med_saker):
         tekst_blokk += f"ID {i}: {sak}\n"
 
-    # DIN NYE PROMPT
+    # OPPDATERT PROMPT: Ber Gemini trekke ut feltene og skrive dem med | (pipes)
     prompt = f"""Du er en erfaren nyhetsjournalist i lokalavisen Sarpsborg Arbeiderblad. Her er en liste over nye dokumenter fra postjournalen i Sarpsborg kommune.
     Din oppgave er å lese gjennom og plukke ut de som er nyhetsverdige.
 
@@ -60,8 +60,8 @@ def analyser_batch_med_gemini(liste_med_saker):
     Her er listen:
     {tekst_blokk}
 
-    SVAR KUN SLIK (for hver sak du finner):
-    ID [nummer]: [Kort begrunnelse]"""
+    SVAR KUN SLIK (for hver sak du finner, formater nøyaktig slik på én linje):
+    ID [nummer]: Begrunnelse: [Din begrunnelse] | Saksnummer: [Saksnummer] | Sak: [Sak] | Dokumentnavn: [Dokumentnavn] | Mottaker: [Mottaker eller Avsender] | Journaldato: [Dato]"""
 
     try:
         response = client.models.generate_content(model="gemini-2.5-flash-lite", contents=prompt)
@@ -72,12 +72,10 @@ def analyser_batch_med_gemini(liste_med_saker):
                 if "ID" in linje and ":" in linje:
                     try:
                         id_num = int(linje.split(":")[0].replace("ID", "").strip())
-                        begrunnelse = linje.split(":", 1)[1].strip()
+                        # Henter hele den ferdigformaterte strengen etter "ID X:"
+                        formatert_tekst = linje.split(":", 1)[1].strip() 
                         if 0 <= id_num < len(liste_med_saker):
-                            funn.append({
-                                "begrunnelse": begrunnelse,
-                                "tekst": liste_med_saker[id_num]
-                            })
+                            funn.append(formatert_tekst)
                     except: continue
         return funn
     except Exception as e:
@@ -95,11 +93,14 @@ def send_nyhetsvarsel_epost(funn_liste):
         <h2 style="color: #d9534f;">AI-roboten har funnet potensielle nyheter! 🗞️</h2>
         <p>Her er de utvalgte dokumentene fra Sarpsborg kommune:</p>
     """
+    
+    # OPPDATERT: Nå spytter e-posten bare ut den pene, formaterte strengen Gemini har laget.
     for sak in funn_liste:
         html_innhold += f"""
         <div style="border-left: 5px solid #d9534f; padding: 10px; margin-bottom: 20px; background-color: #f9f9f9;">
-            <strong>Begrunnelse:</strong> {sak['begrunnelse']}<br>
-            <p style="font-family: monospace; font-size: 12px; color: #555; margin-top: 10px;">{sak['tekst']}</p>
+            <p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6; margin: 0;">
+                {sak}
+            </p>
         </div>
         """
     html_innhold += "</div>"
@@ -120,13 +121,20 @@ def finn_saker_via_innsynsknapp(driver):
     knapper = driver.find_elements(By.XPATH, "//*[contains(text(), 'Be om innsyn')]")
     for knapp in knapper:
         try:
-            element = knapp
-            for _ in range(6):
-                element = element.find_element(By.XPATH, "./..")
-                if "Dokumentnummer" in element.text:
-                    saker.append(element.text.replace("\n", " | "))
-                    break
-        except: continue
+            # LØSNINGEN: Vi prøver først å hente kun tabellraden (tr) knappen ligger i.
+            # Dette forhindrer at vi får med hele nettsiden i ett dokument.
+            rad = knapp.find_element(By.XPATH, "./ancestor::tr")
+            saker.append(rad.text.replace("\n", " | "))
+        except:
+            # Fallback hvis nettsiden endrer kode (klatrer maks 3 hakk i stedet for 6)
+            try:
+                element = knapp
+                for _ in range(3):
+                    element = element.find_element(By.XPATH, "./..")
+                    if "Dokumentnummer" in element.text:
+                        saker.append(element.text.replace("\n", " | "))
+                        break
+            except: continue
     return list(set(saker))
 
 def main():
@@ -161,7 +169,7 @@ def main():
             saker = finn_saker_via_innsynsknapp(driver)
             kandidater = []
             for s in saker:
-                fid = s[:90] # Økt unikhet
+                fid = s[:90] # Nå vil dette fungere mye bedre fordi dokumentene er skilt fra hverandre
                 if fid not in sett_ids_oppslag and grovfilter(s):
                     kandidater.append(s)
                     sett_ids_oppslag.add(fid)
@@ -170,7 +178,6 @@ def main():
             if kandidater:
                 alle_ai_funn.extend(analyser_batch_med_gemini(kandidater))
 
-        # LAGRING MED ROTASJON (Husk kun de siste 500)
         total_liste = (gamle_ids + nye_ids)[-500:]
         with open(SEEN_FILE, "w", encoding="utf-8") as f:
             for i in total_liste: f.write(i + "\n")
