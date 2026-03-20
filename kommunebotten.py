@@ -34,7 +34,7 @@ except Exception as e:
 
 def grovfilter(tekst):
     """Siler ut åpenbart kjedelige ting før AI-en får se dem."""
-    kjedelige_ord = ["avslag søknad", "parkering", "skjenkebevilling", "ferdigattest", "igangsetting", "sanitær", "feilsortert avfall", "ekstratømming", "gebyr", "startlån", "tilleggslån", "motorferdsel", "vigsel", "elevpermisjon", "elevmappe", "ledsagerbevis"]
+    kjedelige_ord = ["avslag søknad", "tjenestebevis", "vikariat", "svar på søknad", "avslag, ikke videre", "parkering", "skjenkebevilling", "ferdigattest", "igangsetting", "sanitær", "feilsortert avfall", "ekstratømming", "gebyr", "startlån", "tilleggslån", "motorferdsel", "vigsel", "elevpermisjon", "elevmappe", "ledsagerbevis"]
     return not any(ordet in tekst.lower() for ordet in kjedelige_ord)
 
 def analyser_batch_med_gemini(liste_med_saker):
