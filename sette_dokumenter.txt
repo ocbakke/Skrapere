@@ -1,8 +1,3 @@
-Dokumentnummer | 26/05103-142 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
-Dokumentnummer | 26/05103-138 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
-Dokumentnummer | 26/05103-137 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
-Dokumentnummer | 26/05103-139 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
-Dokumentnummer | 26/05103-134 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
 Dokumentnummer | 26/05103-130 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
 Dokumentnummer | 26/05103-133 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
 Dokumentnummer | 26/05103-131 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
@@ -337,7 +332,7 @@ Dokumentnummer | 26/05103-281 | Sak | Miljøterapeut Livsmestring barn og unge, 
 Dokumentnummer | 26/05103-280 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
 Dokumentnummer | 26/05103-278 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
 Dokumentnummer | 26/05103-284 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
-Offentlig journal | Hjelp | Viser 1 - 10 av 114759 dokumenter | Spørsmål om tjenestebevis 
+Offentlig journal | Hjelp | Viser 1 - 10 av 114759 dokumenter | Spørsmål om tjenestebevis
 Dokumentnummer | 24/09973-318 | Sak | Tjenestebevis for tidligere ansatte | Fra | Avskjerm
 Dokumentnummer | 26/05103-283 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
 Dokumentnummer | 26/05103-285 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
@@ -451,7 +446,7 @@ Dokumentnummer | 25/13093-56 | Sak | 1/1282/0/0 - Dovregata 2 A og B - riving av
 Dokumentnummer | 26/05393-43 | Sak | Vikariat aktiv natt Kommuneområde helse og velferd, S
 Dokumentnummer | 26/05393-45 | Sak | Vikariat aktiv natt Kommuneområde helse og velferd, S
 Dokumentnummer | 26/05393-44 | Sak | Vikariat aktiv natt Kommuneområde helse og velferd, S
-Dokumentnummer | 25/09011-49 | Sak | Investeringstilskudd 2025 - Administrativ behandling 
+Dokumentnummer | 25/09011-49 | Sak | Investeringstilskudd 2025 - Administrativ behandling
 Dokumentnummer | 23/33447-44 | Sak | Fastlegeavtale - Petter Fossheim Ohnstad | Fra | Pett
 Dokumentnummer | 26/05393-42 | Sak | Vikariat aktiv natt Kommuneområde helse og velferd, S
 Dokumentnummer | 25/05566-50 | Sak | 2076/11/0/0 - Gamle Tindlundvei 34 - melding om antat
@@ -482,8 +477,8 @@ Dokumentnummer | 26/05393-29 | Sak | Vikariat aktiv natt Kommuneområde helse og
 Dokumentnummer | 26/05393-31 | Sak | Vikariat aktiv natt Kommuneområde helse og velferd, S
 Dokumentnummer | 26/05749-29 | Sak | Driftstilskudd kultur 2026 | Til | VARTEIG KFUK-KFUM-
 Dokumentnummer | 26/05749-27 | Sak | Driftstilskudd kultur 2026 | Til | TUNE KFUK-KFUM SPE
-Dokumentnummer | 26/00006-27 | Sak | Innsyn - byggesaker - 2026 | Til | BAS arkitekter AS 
-Dokumentnummer | 23/33419-28 | Sak | Fastlegeavtale - Usman Arshad | Fra | Usman Arshad | 
+Dokumentnummer | 26/00006-27 | Sak | Innsyn - byggesaker - 2026 | Til | BAS arkitekter AS
+Dokumentnummer | 23/33419-28 | Sak | Fastlegeavtale - Usman Arshad | Fra | Usman Arshad |
 Dokumentnummer | 26/05749-28 | Sak | Driftstilskudd kultur 2026 | Til | VARTEIG HISTORIELA
 Dokumentnummer | 26/05393-27 | Sak | Vikariat aktiv natt Kommuneområde helse og velferd, S
 Dokumentnummer | 26/05393-28 | Sak | Vikariat aktiv natt Kommuneområde helse og velferd, S
@@ -491,10 +486,15 @@ Dokumentnummer | 26/05749-26 | Sak | Driftstilskudd kultur 2026 | Til | ST. GEOR
 Dokumentnummer | 26/05749-25 | Sak | Driftstilskudd kultur 2026 | Til | SKJEBERG SPEIDERGR
 Dokumentnummer | 26/05393-24 | Sak | Vikariat aktiv natt Kommuneområde helse og velferd, S
 Dokumentnummer | 26/05393-23 | Sak | Vikariat aktiv natt Kommuneområde helse og velferd, S
-Dokumentnummer | 26/04978-24 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg 
-Dokumentnummer | 26/04978-25 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg 
+Dokumentnummer | 26/04978-24 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg
+Dokumentnummer | 26/04978-25 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg
 Dokumentnummer | 26/05393-26 | Sak | Vikariat aktiv natt Kommuneområde helse og velferd, S
 Dokumentnummer | 26/05749-23 | Sak | Driftstilskudd kultur 2026 | Til | SARPSBORG SJAKKLUB
-Offentlig journal | Hjelp | Viser 191 - 200 av 114759 dokumenter | St. Georgsforeningen i 
+Offentlig journal | Hjelp | Viser 191 - 200 av 114759 dokumenter | St. Georgsforeningen i
 Dokumentnummer | 26/05393-25 | Sak | Vikariat aktiv natt Kommuneområde helse og velferd, S
 Dokumentnummer | 26/05749-24 | Sak | Driftstilskudd kultur 2026 | Til | SARPSBORG VETERANK
+Dokumentnummer | 25/09011-49 | Sak | Investeringstilskudd 2025 - Administrativ behandling 
+Dokumentnummer | 23/33419-28 | Sak | Fastlegeavtale - Usman Arshad | Fra | Usman Arshad | 
+Dokumentnummer | 26/00006-27 | Sak | Innsyn - byggesaker - 2026 | Til | BAS arkitekter AS 
+Dokumentnummer | 26/04978-24 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg 
+Dokumentnummer | 26/04978-25 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg 
