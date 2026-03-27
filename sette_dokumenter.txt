@@ -1,160 +1,3 @@
-Dokumentnummer | 26/04395-117 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 26/04395-116 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 26/04395-118 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 23/33647-119 | Sak | Søknad om kreditt ved levering av avfall til Gatedal
-Dokumentnummer | 26/04395-120 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 26/04395-119 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 26/04395-121 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 26/04395-122 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 26/04395-123 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 23/24004-98 | Sak | Omsetningsoppgave for alkohol (salgsbevilling) | Fra
-Dokumentnummer | 26/04982-79 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
-Dokumentnummer | 26/04395-114 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 26/04395-115 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 26/04982-80 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
-Dokumentnummer | 26/04370-65 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-64 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-68 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-66 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-67 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-62 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-63 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/00007-76 | Sak | Ordfører - diverse 2026 | Fra | HAFSLUND MUSIKKORPS |
-Dokumentnummer | 26/04370-69 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-55 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-61 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-53 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-60 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-59 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-58 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-54 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-52 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-57 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-56 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-47 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-45 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-50 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-51 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-48 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-43 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-49 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-46 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-44 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-40 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-41 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-40 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-42 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 24/04167-40 | Sak | Barnehagemappe - Avskjermet | Fra | TINDLUND BARNEHAG
-Dokumentnummer | 26/05466-39 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-43 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-41 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-42 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-36 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/00008-38 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
-Dokumentnummer | 26/05466-37 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/05466-38 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/00008-37 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
-Dokumentnummer | 26/04370-37 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-36 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-38 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 24/06526-36 | Sak | 1079/1/0/0 - Tveterveien 189, 191 - etablering av ter
-Dokumentnummer | 26/04370-39 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-33 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-35 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-33 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-35 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 23/24276-34 | Sak | Høk Kro og Motell AS - Høk Kro og Motell - serverings
-Dokumentnummer | 26/04370-32 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-32 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 25/08571-33 | Sak | 1138/4 m.fl. Skjebergkilen marina - Fradeling og area
-Dokumentnummer | 26/05466-34 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-34 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-31 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 25/24726-30 | Sak | Vernepleier Virksomhet Livsmestring 2 - Bofelleskap,
-Dokumentnummer | 26/00006-30 | Sak | Innsyn - byggesaker - 2026 | Fra | Leik Simon Aas | J
-Dokumentnummer | 26/05464-30 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/05466-30 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-31 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 25/24726-31 | Sak | Vernepleier Virksomhet Livsmestring 2 - Bofelleskap,
-Dokumentnummer | 26/05466-29 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/05464-31 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/04370-30 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04978-29 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg
-Dokumentnummer | 26/04370-29 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05464-27 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 25/12832-28 | Sak | Rådgiver, aktivitetsguide Kommuneområde samfunn, Sarp
-Dokumentnummer | 26/04370-28 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05464-28 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/05466-28 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04978-28 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg
-Dokumentnummer | 26/05464-29 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/05466-27 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-26 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-26 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-25 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05464-25 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/05466-24 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/05464-24 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/04370-27 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-25 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-24 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05464-26 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 24/03221-24 | Sak | 37010 Detaljregulering, Bukkenes | Fra | BUKKENES VEL
-Dokumentnummer | 24/15244-23 | Sak | Innmelding av farlig stoff | Fra | DIREKTORATET FOR S
-Dokumentnummer | 26/04370-23 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05464-22 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/05466-22 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/05466-21 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-22 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05464-23 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/05466-23 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/05466-20 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/05464-20 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/04370-21 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-20 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-19 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/05464-21 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/04370-19 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-18 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05464-19 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/05466-18 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 25/19337-19 | Sak | 1046/195/0/0 - Skytterbråtveien 19 - 3 nye eneboliger
-Dokumentnummer | 26/05464-18 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/06024-17 | Sak | Bosetting / tilflytting - private henvendelser - 2026
-Dokumentnummer | 26/05466-17 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 25/14904-18 | Sak | 1/36/0/0 - Glengsgata 21 - bruksendring, fasadeendrin
-Dokumentnummer | 26/05464-17 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/05464-16 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/04370-16 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 25/04902-15 | Sak | Årsrapportering - kjøletårn og skrubber | Fra | HAFSI
-Dokumentnummer | 26/05466-16 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 24/14898-15 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journ
-Dokumentnummer | 26/05464-15 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/05466-15 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-17 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-15 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-14 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05464-14 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/03975-14 | Sak | Gnr 1 bnr 1934 - Ingeborgs gate tilleggsareal - kjøp/
-Dokumentnummer | 26/05464-13 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/05466-13 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/05466-14 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/04370-13 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/00347-13 | Sak | 2077/294/0/0 - Dalveien 36 - bruksendring fra tillegg
-Dokumentnummer | 24/04082-14 | Sak | Østfold internasjonale teater - generalforsamlinger /
-Dokumentnummer | 24/24156-14 | Sak | Sykefraværsoppfølging - Avskjermet | Fra | NAV FREDRI
-Dokumentnummer | 26/05464-11 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/05466-11 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 25/24930-12 | Sak | 1/3530/0/0 - Arne Schies vei 4 A - fasadeendring og b
-Dokumentnummer | 24/04082-13 | Sak | Østfold internasjonale teater - generalforsamlinger /
-Dokumentnummer | 24/17183-12 | Sak | Sykefraværsoppfølging - Avskjermet | Fra | NAV ØST-VI
-Dokumentnummer | 26/05464-12 | Sak | Helsefagarbeider natt Team Felles natt hjemmesykeplei
-Dokumentnummer | 26/04370-12 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/05466-12 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/06212-2 | Sak | 1047/204 - SKOGVEIEN 5 - Pålegg - utbedring av vannlek
-Dokumentnummer | 24/02681-5 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/06590-1 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26-641-1 | Sak | Innsynskrav i 26/05877-2 | Fra | Jenny Johnsrud Amundsen
 Dokumentnummer | 26/04965-182 | Sak | Assistent/fagarbeider i SFO/skole Kommuneområde oppv
 Dokumentnummer | 26/04965-181 | Sak | Assistent/fagarbeider i SFO/skole Kommuneområde oppv
 Dokumentnummer | 26/04965-184 | Sak | Assistent/fagarbeider i SFO/skole Kommuneområde oppv
@@ -385,7 +228,7 @@ Dokumentnummer | 25/24788-112 | Sak | Driftsoperatør Kommuneområde teknisk, Sa
 Dokumentnummer | 25/24788-105 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg komm
 Dokumentnummer | 25/24788-106 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg komm
 Dokumentnummer | 25/24788-107 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg komm
-Dokumentnummer | 26/04982-99 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
+Dokumentnummer | 26/04982-99 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 25/24788-103 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg komm
 Dokumentnummer | 26/04982-103 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 25/24788-102 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg komm
@@ -395,85 +238,85 @@ Dokumentnummer | 26/04982-102 | Sak | Helgestillinger Livsmestring barn og unge,
 Dokumentnummer | 25/24788-101 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg komm
 Dokumentnummer | 25/24788-99 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 25/24788-100 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg komm
-Dokumentnummer | 26/04982-98 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
+Dokumentnummer | 26/04982-98 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 25/24788-97 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 25/24788-96 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
-Dokumentnummer | 26/04982-96 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
+Dokumentnummer | 26/04982-96 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 25/24788-95 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 25/24788-98 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 26/04333-95 | Sak | Helgestilling for helsefagarbeider, sykepleier/vernep
-Dokumentnummer | 26/04982-97 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
-Dokumentnummer | 26/04982-94 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
-Dokumentnummer | 26/04982-95 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
+Dokumentnummer | 26/04982-97 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/04982-94 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/04982-95 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 25/24788-92 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 25/24788-94 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
-Dokumentnummer | 26/04982-93 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
+Dokumentnummer | 26/04982-93 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 26/04333-93 | Sak | Helgestilling for helsefagarbeider, sykepleier/vernep
 Dokumentnummer | 26/04333-94 | Sak | Helgestilling for helsefagarbeider, sykepleier/vernep
 Dokumentnummer | 25/24788-93 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 26/04333-92 | Sak | Helgestilling for helsefagarbeider, sykepleier/vernep
-Dokumentnummer | 26/04982-91 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
-Dokumentnummer | 26/04982-92 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
+Dokumentnummer | 26/04982-91 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/04982-92 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 26/04333-91 | Sak | Helgestilling for helsefagarbeider, sykepleier/vernep
 Dokumentnummer | 25/24788-89 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
-Dokumentnummer | 26/04982-89 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
-Dokumentnummer | 26/04982-88 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
-Dokumentnummer | 26/04982-87 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
+Dokumentnummer | 26/04982-89 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/04982-88 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/04982-87 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 26/04333-90 | Sak | Helgestilling for helsefagarbeider, sykepleier/vernep
-Dokumentnummer | 26/04982-90 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
+Dokumentnummer | 26/04982-90 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 25/24788-90 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 25/24788-91 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 25/24788-88 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
-Dokumentnummer | 23/24021-91 | Sak | Arrangementer - søknadsskjema | Til | Jørgen Kolberg 
+Dokumentnummer | 23/24021-91 | Sak | Arrangementer - søknadsskjema | Til | Jørgen Kolberg
 Dokumentnummer | 25/24788-83 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 25/24788-85 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 25/24788-86 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 25/24788-87 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
-Dokumentnummer | 26/04982-84 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
-Dokumentnummer | 26/04982-85 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
-Dokumentnummer | 26/04982-83 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
-Dokumentnummer | 26/04982-82 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
-Dokumentnummer | 26/04982-86 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
+Dokumentnummer | 26/04982-84 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/04982-85 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/04982-83 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/04982-82 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/04982-86 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 25/24788-84 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 26/01506-77 | Sak | Innsyn i dokumenter knyttet til tjenester levert av S
 Dokumentnummer | 25/24788-81 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
-Dokumentnummer | 26/01747-58 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/01747-58 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 25/24788-80 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
-Dokumentnummer | 26/04982-81 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg 
+Dokumentnummer | 26/04982-81 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 26/00007-65 | Sak | Ordfører - diverse 2026 | Til | Malin Rosenløv | Jour
 Dokumentnummer | 26/00007-67 | Sak | Ordfører - diverse 2026 | Til | Oslofjordens frilufts
 Dokumentnummer | 25/24788-82 | Sak | Driftsoperatør Kommuneområde teknisk, Sarpsborg kommu
 Dokumentnummer | 23/34758-75 | Sak | Støyende arbeid - kveld og natt - meldinger | Til | B
-Dokumentnummer | 26/01747-57 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/01747-48 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/01747-56 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/01747-52 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/01747-53 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/01747-49 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/01747-57 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/01747-48 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/01747-56 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/01747-52 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/01747-53 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/01747-49 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 25/05566-52 | Sak | 2076/11/0/0 - Gamle Tindlundvei 34 - melding om antat
-Dokumentnummer | 26/01747-51 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/01747-51 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 26/00007-55 | Sak | Ordfører - diverse 2026 | Fra | HELSEDIREKTORATET | J
-Dokumentnummer | 26/01747-50 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 23/24051-47 | Sak | Prøvebevis serveringsloven - etablererprøven | Til | 
-Dokumentnummer | 26/01747-47 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/01747-45 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/01413-46 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg 
-Dokumentnummer | 23/24051-46 | Sak | Prøvebevis serveringsloven - etablererprøven | Til | 
-Dokumentnummer | 26/01747-46 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/01747-44 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/01747-42 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/01747-43 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/01747-41 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/01747-50 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 23/24051-47 | Sak | Prøvebevis serveringsloven - etablererprøven | Til |
+Dokumentnummer | 26/01747-47 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/01747-45 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/01413-46 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg
+Dokumentnummer | 23/24051-46 | Sak | Prøvebevis serveringsloven - etablererprøven | Til |
+Dokumentnummer | 26/01747-46 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/01747-44 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/01747-42 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/01747-43 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/01747-41 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 25/10859-38 | Sak | Driftstilskudd kultur 2025 | Til | BJØRNSTAD SOUL CHI
-Dokumentnummer | 23/31631-37 | Sak | Overordnet samarbeidsavtale mellom Sykehuset Østfold 
-Dokumentnummer | 26/00008-40 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 23/31631-37 | Sak | Overordnet samarbeidsavtale mellom Sykehuset Østfold
+Dokumentnummer | 26/00008-40 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
 Dokumentnummer | 24/03959-39 | Sak | Hensynssone storulykkerisiko sentrumsplan | Til | DIR
 Dokumentnummer | 25/00164-40 | Sak | 2076/96/0/0 - Høydalsveien 3 og 5 - riving og oppføri
-Dokumentnummer | 26/00008-42 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-42 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
 Dokumentnummer | 25/16559-38 | Sak | Opphevelse, 9 eldre reguleringsplaner og 16 bebyggels
-Dokumentnummer | 26/00008-41 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-41 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
 Dokumentnummer | 26/01474-35 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Bent
-Dokumentnummer | 24/21912-31 | Sak | Innbrudd og tyveri 281024 - Sarpsborg rådhus | Til | 
+Dokumentnummer | 24/21912-31 | Sak | Innbrudd og tyveri 281024 - Sarpsborg rådhus | Til |
 Dokumentnummer | 24/03260-33 | Sak | Barnehagemappe - Avskjermet | Fra | LÆRINGSVERKSTEDET
 Dokumentnummer | 24/02680-31 | Sak | 1077/40/0/0 - Sandåsveien 211 - oppføring av ny enebo
 Dokumentnummer | 23/24276-37 | Sak | Høk Kro og Motell AS - Høk Kro og Motell - serverings
@@ -484,7 +327,7 @@ Dokumentnummer | 26/01474-25 | Sak | Henvendelser trafikksikkerhetssaker 2026 | 
 Dokumentnummer | 25/10783-25 | Sak | 1022/65/0/0 - Stenbruddveien 36 A-B-C - tre boenheter
 Dokumentnummer | 24/08498-27 | Sak | Bålbrenning - søknad om tillatelse 2024 - 2025 - 2026
 Dokumentnummer | 24/25410-25 | Sak | Sarpsborg frivilligsentral | Fra | ØSTFOLD FYLKESKOMM
-Dokumentnummer | 24/03221-26 | Sak | 37010 Detaljregulering, Bukkenes | Fra | Lars Viddal 
+Dokumentnummer | 24/03221-26 | Sak | 37010 Detaljregulering, Bukkenes | Fra | Lars Viddal
 Dokumentnummer | 25/21479-25 | Sak | 2066/575/0/0 - Bråteveien 21 - oppretting av matrikke
 Dokumentnummer | 24/08498-25 | Sak | Bålbrenning - søknad om tillatelse 2024 - 2025 - 2026
 Dokumentnummer | 24/03221-27 | Sak | 37010 Detaljregulering, Bukkenes | Fra | Jon Arne Häl
@@ -498,3 +341,160 @@ Dokumentnummer | 24/25410-24 | Sak | Sarpsborg frivilligsentral | Fra | ØSTFOLD
 Dokumentnummer | 24/04346-23 | Sak | Gnr 1040 bnr 77 - Pålegg - separering spill- og overv
 Dokumentnummer | 26/01474-24 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Til | Lena
 Dokumentnummer | 25/21479-24 | Sak | 2066/575/0/0 - Bråteveien 21 - oppretting av matrikke
+Dokumentnummer | 23/24047-174 | Sak | 23058 Detaljregulering, Tunborg | Fra | DARK ARKITEK
+Dokumentnummer | 25/04501-169 | Sak | 202502 Områderegulering, Store datasenter Hasle | Ti
+Dokumentnummer | 23/24047-175 | Sak | 23058 Detaljregulering, Tunborg | Fra | DARK ARKITEK
+Dokumentnummer | 23/24047-173 | Sak | 23058 Detaljregulering, Tunborg | Fra | TRØSKENVEIEN
+Dokumentnummer | 23/24047-166 | Sak | 23058 Detaljregulering, Tunborg | Til | DARK ARKITEK
+Dokumentnummer | 23/24047-177 | Sak | 23058 Detaljregulering, Tunborg | Fra | LARK LANDSKA
+Dokumentnummer | 24/05750-188 | Sak | 22086 Områderegulering, Grålum | Fra | SWECO NORGE A
+Dokumentnummer | 24/05750-187 | Sak | 22086 Områderegulering, Grålum | Til | Asplan Viak A
+Dokumentnummer | 23/24047-176 | Sak | 23058 Detaljregulering, Tunborg | Fra | DARK ARKITEK
+Dokumentnummer | 26/04395-149 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
+Dokumentnummer | 23/33888-98 | Sak | 1/961/0/0 - Korsgata 23 og 25, Thranes gate 26 og 28,
+Dokumentnummer | 26/04395-146 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
+Dokumentnummer | 25/02972-98 | Sak | Søndre Østfold IPR | Til / Fra | Internt | Journaldat
+Dokumentnummer | 26/04395-145 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
+Dokumentnummer | 26/04395-147 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
+Dokumentnummer | 26/04395-148 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
+Dokumentnummer | 24/00446-95 | Sak | 22068 Detaljregulering, Yvenåsen | Fra | WSP NORGE AS
+Dokumentnummer | 25/13093-58 | Sak | 1/1282/0/0 - Dovregata 2 A og B - riving av eksistere
+Dokumentnummer | 24/00446-94 | Sak | 22068 Detaljregulering, Yvenåsen | Fra | WSP NORGE AS
+Dokumentnummer | 26/04370-73 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 26/04370-71 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 24/00446-96 | Sak | 22068 Detaljregulering, Yvenåsen | Fra | WSP NORGE AS
+Offentlig journal | Hjelp | Viser 21 - 30 av 115435 dokumenter | Avklaring vedrørende arbe
+Dokumentnummer | 26/00007-86 | Sak | Ordfører - diverse 2026 | Fra | Trygve Sørli | Journa
+Dokumentnummer | 26/04370-74 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 26/04370-72 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 26/04370-70 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 26/02654-46 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
+Dokumentnummer | 26/01474-39 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Fida
+Dokumentnummer | 26/02654-47 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
+Dokumentnummer | 26/00008-44 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-43 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/05466-44 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/02654-49 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
+Dokumentnummer | 26/02654-48 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
+Dokumentnummer | 26/02654-50 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
+Dokumentnummer | 26/01474-37 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Fida
+Dokumentnummer | 24/03221-28 | Sak | 37010 Detaljregulering, Bukkenes | Fra | STATSFORVALT
+Dokumentnummer | 26/01474-36 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Else
+Dokumentnummer | 26/00006-34 | Sak | Innsyn - byggesaker - 2026 | Fra | Kim Patrick Raknes
+Dokumentnummer | 26/01474-38 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Vida
+Dokumentnummer | 26/01795-20 | Sak | Henvendelser til og fra Arkiv øst for innsynssaker PP
+Dokumentnummer | 23/46062-22 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journ
+Dokumentnummer | 23/32558-21 | Sak | 2068/1/0/0 - Kalnesveien 360 - administrasjonsbygg sy
+Dokumentnummer | 25/21479-26 | Sak | 2066/575/0/0 - Bråteveien 21 - oppretting av matrikke
+Dokumentnummer | 24/01028-25 | Sak | Barnehagemappe - Avskjermet | Fra | Avskjermet | Jour
+Dokumentnummer | 23/46062-23 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journ
+Dokumentnummer | 23/34247-26 | Sak | Øst 110-sentral IKS - representantskapsmøter | Fra | 
+Dokumentnummer | 24/25331-21 | Sak | Barnehagemappe - Avskjermet | Fra | Avskjermet | Jour
+Dokumentnummer | 25/19227-19 | Sak | 3011/1/0/0 - Lundeveien 151 - arealoverføring fra 301
+Dokumentnummer | 23/35181-19 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE
+Dokumentnummer | 23/32558-18 | Sak | 2068/1/0/0 - Kalnesveien 360 - administrasjonsbygg sy
+Dokumentnummer | 23/24028-17 | Sak | 202313 Detaljregulering, Tune senter | Fra | BAS ARKI
+Dokumentnummer | 25/21724-16 | Sak | 2074/208/0/0 - Opstadveien 87 A - riving og oppføring
+Dokumentnummer | 23/32558-20 | Sak | 2068/1/0/0 - Kalnesveien 360 - administrasjonsbygg sy
+Dokumentnummer | 26/03924-18 | Sak | 1/2429/0/0 - Alvimveien 59 - plassering av midlertidi
+Dokumentnummer | 23/32558-17 | Sak | 2068/1/0/0 - Kalnesveien 360 - administrasjonsbygg sy
+Dokumentnummer | 23/32558-19 | Sak | 2068/1/0/0 - Kalnesveien 360 - administrasjonsbygg sy
+Dokumentnummer | 26/04797-11 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd
+Dokumentnummer | 26/04797-13 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd
+Dokumentnummer | 26/05622-12 | Sak | 1/1433/0/0 - St. Nikolas-gate 11 - soverom/oppholdsro
+Dokumentnummer | 23/33423-13 | Sak | Fastlegeavtale - Elin Nakstad | Fra | Eline Stuestøl 
+Dokumentnummer | 26/05622-11 | Sak | 1/1433/0/0 - St. Nikolas-gate 11 - soverom/oppholdsro
+Dokumentnummer | 25/03692-12 | Sak | 1/3852/0/0 - Borregaardsveien 24 - vesentlig terrengi
+Dokumentnummer | 26/04797-12 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd
+Dokumentnummer | 25/20841-11 | Sak | 1134/126/0/0 - Brevik 32 - endring av bygg - utvendig
+Dokumentnummer | 26/05276-9 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
+Dokumentnummer | 25/03692-10 | Sak | 1/3852/0/0 - Borregaardsveien 24 - vesentlig terrengi
+Dokumentnummer | 26/04797-9 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 25/23350-9 | Sak | Regress - vannskade 271125 - Hasle Hageby 29 - Rolf In
+Dokumentnummer | 26/04797-10 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd
+Dokumentnummer | 25/19911-10 | Sak | 2079/6/0/0 - Greåkerveien 61 - krav om retting i matr
+Dokumentnummer | 26/05398-9 | Sak | 1/1774/0/0 - Tunebakken 5 B - endring av VA-anlegg - T
+Dokumentnummer | 26/05398-8 | Sak | 1/1774/0/0 - Tunebakken 5 B - endring av VA-anlegg - T
+Dokumentnummer | 26/05276-8 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
+Dokumentnummer | 25/23717-8 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE 
+Dokumentnummer | 25/12181-9 | Sak | 2044/17/0/0 - Kalnesveien 300 - endring av bygg - innv
+Dokumentnummer | 23/40261-9 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
+Dokumentnummer | 25/19911-9 | Sak | 2079/6/0/0 - Greåkerveien 61 - krav om retting i matri
+Dokumentnummer | 24/24990-9 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
+Dokumentnummer | 25/23715-8 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE 
+Dokumentnummer | 26/04797-8 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 25/14951-8 | Sak | Eksamen grunnskolen 2025 - 2026 | Fra | STATSFORVALTER
+Dokumentnummer | 26/05276-7 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
+Dokumentnummer | 25/04105-8 | Sak | Sykefraværsoppfølging - Avskjermet | Fra | Avskjermet 
+Dokumentnummer | 26/06266-7 | Sak | 1/3682/0/0 - Fastings vei 21 A - bruksendring | Til | 
+Dokumentnummer | 24/17654-8 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
+Dokumentnummer | 26/05776-7 | Sak | 1048/357/0/0 - Bråtenlia 1 - bruksendring fra tilleggs
+Dokumentnummer | 25/10082-8 | Sak | Sykefraværsoppfølging - Avskjermet | Til | NAV skannin
+Dokumentnummer | 26/04797-7 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/06266-6 | Sak | 1/3682/0/0 - Fastings vei 21 A - bruksendring | Til | 
+Dokumentnummer | 26/02827-6 | Sak | 2073/575/0/0 - Opstadveien 28 - nytt bygg - boligformå
+Dokumentnummer | 26/04797-6 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 25/14951-7 | Sak | Eksamen grunnskolen 2025 - 2026 | Fra | UTDANNINGSDIRE
+Dokumentnummer | 26/05276-6 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
+Dokumentnummer | 25/24771-7 | Sak | 1048/15/0/0 - Stenholts vei 15 A - etablering av 2 nye
+Dokumentnummer | 26/06580-5 | Sak | Oskar Bedrift AS - Serveringsbevilling | Fra | SKATTEE
+Dokumentnummer | 26/06315-5 | Sak | 1/3000/0/0 - Hjalmar Wessels vei 10 - fundament for si
+Dokumentnummer | 23/33134-6 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE 
+Dokumentnummer | 26/05276-5 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
+Dokumentnummer | 26/06393-5 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
+Dokumentnummer | 25/23858-6 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
+Dokumentnummer | 26/01039-6 | Sak | El-tilsyn - Tuneveien 70 - 5512923 | Fra | ELVIA AS | 
+Dokumentnummer | 26/04797-5 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/06476-4 | Sak | 2080/201/0/0 - Strømsæthers vei 57 - bruksendring fra 
+Dokumentnummer | 26/05960-4 | Sak | Krav om erstatning - Avskjermet | Fra | ADVOKATFIRMAET
+Dokumentnummer | 26/01039-5 | Sak | El-tilsyn - Tuneveien 70 - 5512923 | Fra | ELVIA AS | 
+Dokumentnummer | 25/10293-5 | Sak | 2078/227 - MYRSTADVEIEN 7 - Pålegg - separering spill-
+Dokumentnummer | 26/06166-4 | Sak | 1041/53 - Skjebergveien 119a - Søknad om ny tilknytnin
+Dokumentnummer | 26/00320-5 | Sak | 1051/589/0/0 - Rådyrfaret 6 - rekvisisjon - arealoverf
+Dokumentnummer | 26/05276-4 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
+Dokumentnummer | 26/05873-4 | Sak | 1/3112/0/0 - Hagebyveien 6 B - endring av VA-anlegg | 
+Dokumentnummer | 26/00651-4 | Sak | 2077/175 - MYRSTADVEIEN 29 - Pålegg - separering spill
+Dokumentnummer | 23/31985-4 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE 
+Dokumentnummer | 26/04797-4 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 25/24348-4 | Sak | 1/1041 - Dronningens Gate 72 - Søknad om ny tilknytnin
+Dokumentnummer | 26/05276-3 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
+Dokumentnummer | 26/06551-3 | Sak | 2074/295 - VESTFARET 7 - Pålegg - utbedring av vannlek
+Dokumentnummer | 26/05391-3 | Sak | 3001/23/0/0 - Stubben 1 - nybygg | Til | MARBERG BYGG-
+Dokumentnummer | 26/04797-3 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/06265-3 | Sak | 1/1618 - THRANES GATE 36 - Pålegg - utbedring av vannl
+Dokumentnummer | 26/06030-3 | Sak | Kommunal vielse - Avskjermet | Fra | Avskjermet | Jour
+Dokumentnummer | 26/06212-3 | Sak | 1047/204 - SKOGVEIEN 5 - Pålegg - utbedring av vannlek
+Dokumentnummer | 26/06677-3 | Sak | 2065/104/0/0 - Rådmann Siras vei 8 - tilbygg til eksis
+Dokumentnummer | 26/06649-3 | Sak | 2064/41/0/0 - Lilletuneveien 6A - solcelleanlegg på ta
+Dokumentnummer | 25/24382-3 | Sak | Søknad om påslippstillatelse 2085/4 Vestengveien 51 | 
+Dokumentnummer | 26/00840-3 | Sak | Sykefraværsoppfølging - Avskjermet | Fra | NAV ØST-VIK
+Dokumentnummer | 25/10283-3 | Sak | 2074/24 - KLEVAVEIEN 22 - Pålegg - separering spill- o
+Dokumentnummer | 26/02797-3 | Sak | El-tilsyn - Karl Johans gate 1 | Fra | ELVIA AS | Jour
+Dokumentnummer | 26/05276-2 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
+Dokumentnummer | 26/04797-2 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/04131-2 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
+Dokumentnummer | 24/16588-2 | Sak | Brannforebygging - 3041/24/0/0 | Til | Trine Kristin E
+Dokumentnummer | 25/07575-2 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
+Dokumentnummer | 26/06344-2 | Sak | 1/1847/0/0 - Glengsgata 23 - endring fra næring til bo
+Dokumentnummer | 24/16565-2 | Sak | Brannforebygging - 3041/4/2/0 | Til | Ole Johnny Bergs
+Dokumentnummer | 26/06551-2 | Sak | 2074/295 - VESTFARET 7 - Pålegg - utbedring av vannlek
+Dokumentnummer | 26/05932-2 | Sak | Endring av VA-anlegg - Opsund etappe 5 | Fra | SARPSBO
+Dokumentnummer | 26/06572-2 | Sak | 2071/4/0/0 - Gamle Kongevei 103 og 105 - mulig utført 
+Dokumentnummer | 24/07455-2 | Sak | Dispensasjon for garnfiske i Vestvannet i Sarpsborg ko
+Dokumentnummer | 26-661-1 | Sak | Innsynskrav i 25/21831-6 | Fra | Anne Ognedal | Journald
+Dokumentnummer | 26/06819-1 | Sak | Behandling av refusjonskrav skogfond - 3032/2 | Fra | 
+Dokumentnummer | 26-664-1 | Sak | Innsynskrav i 26/06150-1 | Fra | Anne Ognedal | Journald
+Dokumentnummer | 26-663-1 | Sak | Innsynskrav i 26/00018-138 | Fra | Anne Ognedal | Journa
+Dokumentnummer | 26/06826-1 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
+Dokumentnummer | 26/06818-1 | Sak | Innsyn i opplysninger fra skole - Avskjermet | Fra | A
+Dokumentnummer | 26/06767-1 | Sak | 1099/155/0/2 - Odins vei 38 B - fritak for renovasjon 
+Dokumentnummer | 26/06768-1 | Sak | 1049/236 - BRUSEMYRTOPPEN 33A - Pålegg - utbedring av 
+Dokumentnummer | 26-657-1 | Sak | Innsynskrav i 26/02485-18 | Fra | Anne Ognedal | Journal
+Dokumentnummer | 26/06769-1 | Sak | Høring - Nasjonal veileder for avhengighetsskapende le
+Dokumentnummer | 26/06777-1 | Sak | Leie av område/eiendom - plassering av bikuber | Fra |
+Dokumentnummer | 26/06762-1 | Sak | 1039/106/0/0 - Bjerkholts vei 23 - riving, oppføring a
+Dokumentnummer | 26/06770-1 | Sak | Oppgradering av nettstasjon i St. Marie gate 81 - flyt
+Dokumentnummer | 26/06771-1 | Sak | Revet bygning - 2048/2 - Bjørnstadgrenda 21 | Fra | Sv
+Offentlig journal | Hjelp | Viser 191 - 200 av 115435 dokumenter | Innsynskrav | Dokumentn
+Dokumentnummer | 26/06763-1 | Sak | Kartlegging avløp | Til | Astrid Rebecca Johannessen |
+Dokumentnummer | 26/06765-1 | Sak | 1051/3 - ISEVEIEN 173 - Pålegg - utbedring av avløpsle
