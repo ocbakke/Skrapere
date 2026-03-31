@@ -1,188 +1,3 @@
-Dokumentnummer | 25/21479-24 | Sak | 2066/575/0/0 - Bråteveien 21 - oppretting av matrikke
-Dokumentnummer | 23/24047-174 | Sak | 23058 Detaljregulering, Tunborg | Fra | DARK ARKITEK
-Dokumentnummer | 25/04501-169 | Sak | 202502 Områderegulering, Store datasenter Hasle | Ti
-Dokumentnummer | 23/24047-175 | Sak | 23058 Detaljregulering, Tunborg | Fra | DARK ARKITEK
-Dokumentnummer | 23/24047-173 | Sak | 23058 Detaljregulering, Tunborg | Fra | TRØSKENVEIEN
-Dokumentnummer | 23/24047-166 | Sak | 23058 Detaljregulering, Tunborg | Til | DARK ARKITEK
-Dokumentnummer | 23/24047-177 | Sak | 23058 Detaljregulering, Tunborg | Fra | LARK LANDSKA
-Dokumentnummer | 24/05750-188 | Sak | 22086 Områderegulering, Grålum | Fra | SWECO NORGE A
-Dokumentnummer | 24/05750-187 | Sak | 22086 Områderegulering, Grålum | Til | Asplan Viak A
-Dokumentnummer | 23/24047-176 | Sak | 23058 Detaljregulering, Tunborg | Fra | DARK ARKITEK
-Dokumentnummer | 26/04395-149 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 23/33888-98 | Sak | 1/961/0/0 - Korsgata 23 og 25, Thranes gate 26 og 28,
-Dokumentnummer | 26/04395-146 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 25/02972-98 | Sak | Søndre Østfold IPR | Til / Fra | Internt | Journaldat
-Dokumentnummer | 26/04395-145 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 26/04395-147 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 26/04395-148 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 24/00446-95 | Sak | 22068 Detaljregulering, Yvenåsen | Fra | WSP NORGE AS
-Dokumentnummer | 25/13093-58 | Sak | 1/1282/0/0 - Dovregata 2 A og B - riving av eksistere
-Dokumentnummer | 24/00446-94 | Sak | 22068 Detaljregulering, Yvenåsen | Fra | WSP NORGE AS
-Dokumentnummer | 26/04370-73 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-71 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 24/00446-96 | Sak | 22068 Detaljregulering, Yvenåsen | Fra | WSP NORGE AS
-Offentlig journal | Hjelp | Viser 21 - 30 av 115435 dokumenter | Avklaring vedrørende arbe
-Dokumentnummer | 26/00007-86 | Sak | Ordfører - diverse 2026 | Fra | Trygve Sørli | Journa
-Dokumentnummer | 26/04370-74 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-72 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/04370-70 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
-Dokumentnummer | 26/02654-46 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/01474-39 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Fida
-Dokumentnummer | 26/02654-47 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/00008-44 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
-Dokumentnummer | 26/00008-43 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
-Dokumentnummer | 26/05466-44 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/02654-49 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-48 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-50 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/01474-37 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Fida
-Dokumentnummer | 24/03221-28 | Sak | 37010 Detaljregulering, Bukkenes | Fra | STATSFORVALT
-Dokumentnummer | 26/01474-36 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Else
-Dokumentnummer | 26/00006-34 | Sak | Innsyn - byggesaker - 2026 | Fra | Kim Patrick Raknes
-Dokumentnummer | 26/01474-38 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Vida
-Dokumentnummer | 26/01795-20 | Sak | Henvendelser til og fra Arkiv øst for innsynssaker PP
-Dokumentnummer | 23/46062-22 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journ
-Dokumentnummer | 23/32558-21 | Sak | 2068/1/0/0 - Kalnesveien 360 - administrasjonsbygg sy
-Dokumentnummer | 25/21479-26 | Sak | 2066/575/0/0 - Bråteveien 21 - oppretting av matrikke
-Dokumentnummer | 24/01028-25 | Sak | Barnehagemappe - Avskjermet | Fra | Avskjermet | Jour
-Dokumentnummer | 23/46062-23 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journ
-Dokumentnummer | 23/34247-26 | Sak | Øst 110-sentral IKS - representantskapsmøter | Fra |
-Dokumentnummer | 24/25331-21 | Sak | Barnehagemappe - Avskjermet | Fra | Avskjermet | Jour
-Dokumentnummer | 25/19227-19 | Sak | 3011/1/0/0 - Lundeveien 151 - arealoverføring fra 301
-Dokumentnummer | 23/35181-19 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE
-Dokumentnummer | 23/32558-18 | Sak | 2068/1/0/0 - Kalnesveien 360 - administrasjonsbygg sy
-Dokumentnummer | 23/24028-17 | Sak | 202313 Detaljregulering, Tune senter | Fra | BAS ARKI
-Dokumentnummer | 25/21724-16 | Sak | 2074/208/0/0 - Opstadveien 87 A - riving og oppføring
-Dokumentnummer | 23/32558-20 | Sak | 2068/1/0/0 - Kalnesveien 360 - administrasjonsbygg sy
-Dokumentnummer | 26/03924-18 | Sak | 1/2429/0/0 - Alvimveien 59 - plassering av midlertidi
-Dokumentnummer | 23/32558-17 | Sak | 2068/1/0/0 - Kalnesveien 360 - administrasjonsbygg sy
-Dokumentnummer | 23/32558-19 | Sak | 2068/1/0/0 - Kalnesveien 360 - administrasjonsbygg sy
-Dokumentnummer | 26/04797-11 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd
-Dokumentnummer | 26/04797-13 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd
-Dokumentnummer | 26/05622-12 | Sak | 1/1433/0/0 - St. Nikolas-gate 11 - soverom/oppholdsro
-Dokumentnummer | 23/33423-13 | Sak | Fastlegeavtale - Elin Nakstad | Fra | Eline Stuestøl
-Dokumentnummer | 26/05622-11 | Sak | 1/1433/0/0 - St. Nikolas-gate 11 - soverom/oppholdsro
-Dokumentnummer | 25/03692-12 | Sak | 1/3852/0/0 - Borregaardsveien 24 - vesentlig terrengi
-Dokumentnummer | 26/04797-12 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd
-Dokumentnummer | 25/20841-11 | Sak | 1134/126/0/0 - Brevik 32 - endring av bygg - utvendig
-Dokumentnummer | 26/05276-9 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
-Dokumentnummer | 25/03692-10 | Sak | 1/3852/0/0 - Borregaardsveien 24 - vesentlig terrengi
-Dokumentnummer | 26/04797-9 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
-Dokumentnummer | 25/23350-9 | Sak | Regress - vannskade 271125 - Hasle Hageby 29 - Rolf In
-Dokumentnummer | 26/04797-10 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd
-Dokumentnummer | 25/19911-10 | Sak | 2079/6/0/0 - Greåkerveien 61 - krav om retting i matr
-Dokumentnummer | 26/05398-9 | Sak | 1/1774/0/0 - Tunebakken 5 B - endring av VA-anlegg - T
-Dokumentnummer | 26/05398-8 | Sak | 1/1774/0/0 - Tunebakken 5 B - endring av VA-anlegg - T
-Dokumentnummer | 26/05276-8 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
-Dokumentnummer | 25/23717-8 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE
-Dokumentnummer | 25/12181-9 | Sak | 2044/17/0/0 - Kalnesveien 300 - endring av bygg - innv
-Dokumentnummer | 23/40261-9 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 25/19911-9 | Sak | 2079/6/0/0 - Greåkerveien 61 - krav om retting i matri
-Dokumentnummer | 24/24990-9 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 25/23715-8 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE
-Dokumentnummer | 26/04797-8 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
-Dokumentnummer | 25/14951-8 | Sak | Eksamen grunnskolen 2025 - 2026 | Fra | STATSFORVALTER
-Dokumentnummer | 26/05276-7 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
-Dokumentnummer | 25/04105-8 | Sak | Sykefraværsoppfølging - Avskjermet | Fra | Avskjermet
-Dokumentnummer | 26/06266-7 | Sak | 1/3682/0/0 - Fastings vei 21 A - bruksendring | Til |
-Dokumentnummer | 24/17654-8 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/05776-7 | Sak | 1048/357/0/0 - Bråtenlia 1 - bruksendring fra tilleggs
-Dokumentnummer | 25/10082-8 | Sak | Sykefraværsoppfølging - Avskjermet | Til | NAV skannin
-Dokumentnummer | 26/04797-7 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
-Dokumentnummer | 26/06266-6 | Sak | 1/3682/0/0 - Fastings vei 21 A - bruksendring | Til |
-Dokumentnummer | 26/02827-6 | Sak | 2073/575/0/0 - Opstadveien 28 - nytt bygg - boligformå
-Dokumentnummer | 26/04797-6 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
-Dokumentnummer | 25/14951-7 | Sak | Eksamen grunnskolen 2025 - 2026 | Fra | UTDANNINGSDIRE
-Dokumentnummer | 26/05276-6 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
-Dokumentnummer | 25/24771-7 | Sak | 1048/15/0/0 - Stenholts vei 15 A - etablering av 2 nye
-Dokumentnummer | 26/06580-5 | Sak | Oskar Bedrift AS - Serveringsbevilling | Fra | SKATTEE
-Dokumentnummer | 26/06315-5 | Sak | 1/3000/0/0 - Hjalmar Wessels vei 10 - fundament for si
-Dokumentnummer | 23/33134-6 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE
-Dokumentnummer | 26/05276-5 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
-Dokumentnummer | 26/06393-5 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 25/23858-6 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/01039-6 | Sak | El-tilsyn - Tuneveien 70 - 5512923 | Fra | ELVIA AS |
-Dokumentnummer | 26/04797-5 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
-Dokumentnummer | 26/06476-4 | Sak | 2080/201/0/0 - Strømsæthers vei 57 - bruksendring fra
-Dokumentnummer | 26/05960-4 | Sak | Krav om erstatning - Avskjermet | Fra | ADVOKATFIRMAET
-Dokumentnummer | 26/01039-5 | Sak | El-tilsyn - Tuneveien 70 - 5512923 | Fra | ELVIA AS |
-Dokumentnummer | 25/10293-5 | Sak | 2078/227 - MYRSTADVEIEN 7 - Pålegg - separering spill-
-Dokumentnummer | 26/06166-4 | Sak | 1041/53 - Skjebergveien 119a - Søknad om ny tilknytnin
-Dokumentnummer | 26/00320-5 | Sak | 1051/589/0/0 - Rådyrfaret 6 - rekvisisjon - arealoverf
-Dokumentnummer | 26/05276-4 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
-Dokumentnummer | 26/05873-4 | Sak | 1/3112/0/0 - Hagebyveien 6 B - endring av VA-anlegg |
-Dokumentnummer | 26/00651-4 | Sak | 2077/175 - MYRSTADVEIEN 29 - Pålegg - separering spill
-Dokumentnummer | 23/31985-4 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE
-Dokumentnummer | 26/04797-4 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
-Dokumentnummer | 25/24348-4 | Sak | 1/1041 - Dronningens Gate 72 - Søknad om ny tilknytnin
-Dokumentnummer | 26/05276-3 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
-Dokumentnummer | 26/06551-3 | Sak | 2074/295 - VESTFARET 7 - Pålegg - utbedring av vannlek
-Dokumentnummer | 26/05391-3 | Sak | 3001/23/0/0 - Stubben 1 - nybygg | Til | MARBERG BYGG-
-Dokumentnummer | 26/04797-3 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
-Dokumentnummer | 26/06265-3 | Sak | 1/1618 - THRANES GATE 36 - Pålegg - utbedring av vannl
-Dokumentnummer | 26/06030-3 | Sak | Kommunal vielse - Avskjermet | Fra | Avskjermet | Jour
-Dokumentnummer | 26/06212-3 | Sak | 1047/204 - SKOGVEIEN 5 - Pålegg - utbedring av vannlek
-Dokumentnummer | 26/06677-3 | Sak | 2065/104/0/0 - Rådmann Siras vei 8 - tilbygg til eksis
-Dokumentnummer | 26/06649-3 | Sak | 2064/41/0/0 - Lilletuneveien 6A - solcelleanlegg på ta
-Dokumentnummer | 25/24382-3 | Sak | Søknad om påslippstillatelse 2085/4 Vestengveien 51 |
-Dokumentnummer | 26/00840-3 | Sak | Sykefraværsoppfølging - Avskjermet | Fra | NAV ØST-VIK
-Dokumentnummer | 25/10283-3 | Sak | 2074/24 - KLEVAVEIEN 22 - Pålegg - separering spill- o
-Dokumentnummer | 26/02797-3 | Sak | El-tilsyn - Karl Johans gate 1 | Fra | ELVIA AS | Jour
-Dokumentnummer | 26/05276-2 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, Sa
-Dokumentnummer | 26/04797-2 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd,
-Dokumentnummer | 26/04131-2 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 24/16588-2 | Sak | Brannforebygging - 3041/24/0/0 | Til | Trine Kristin E
-Dokumentnummer | 25/07575-2 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/06344-2 | Sak | 1/1847/0/0 - Glengsgata 23 - endring fra næring til bo
-Dokumentnummer | 24/16565-2 | Sak | Brannforebygging - 3041/4/2/0 | Til | Ole Johnny Bergs
-Dokumentnummer | 26/06551-2 | Sak | 2074/295 - VESTFARET 7 - Pålegg - utbedring av vannlek
-Dokumentnummer | 26/05932-2 | Sak | Endring av VA-anlegg - Opsund etappe 5 | Fra | SARPSBO
-Dokumentnummer | 26/06572-2 | Sak | 2071/4/0/0 - Gamle Kongevei 103 og 105 - mulig utført
-Dokumentnummer | 24/07455-2 | Sak | Dispensasjon for garnfiske i Vestvannet i Sarpsborg ko
-Dokumentnummer | 26-661-1 | Sak | Innsynskrav i 25/21831-6 | Fra | Anne Ognedal | Journald
-Dokumentnummer | 26/06819-1 | Sak | Behandling av refusjonskrav skogfond - 3032/2 | Fra |
-Dokumentnummer | 26-664-1 | Sak | Innsynskrav i 26/06150-1 | Fra | Anne Ognedal | Journald
-Dokumentnummer | 26-663-1 | Sak | Innsynskrav i 26/00018-138 | Fra | Anne Ognedal | Journa
-Dokumentnummer | 26/06826-1 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/06818-1 | Sak | Innsyn i opplysninger fra skole - Avskjermet | Fra | A
-Dokumentnummer | 26/06767-1 | Sak | 1099/155/0/2 - Odins vei 38 B - fritak for renovasjon
-Dokumentnummer | 26/06768-1 | Sak | 1049/236 - BRUSEMYRTOPPEN 33A - Pålegg - utbedring av
-Dokumentnummer | 26-657-1 | Sak | Innsynskrav i 26/02485-18 | Fra | Anne Ognedal | Journal
-Dokumentnummer | 26/06769-1 | Sak | Høring - Nasjonal veileder for avhengighetsskapende le
-Dokumentnummer | 26/06777-1 | Sak | Leie av område/eiendom - plassering av bikuber | Fra |
-Dokumentnummer | 26/06762-1 | Sak | 1039/106/0/0 - Bjerkholts vei 23 - riving, oppføring a
-Dokumentnummer | 26/06770-1 | Sak | Oppgradering av nettstasjon i St. Marie gate 81 - flyt
-Dokumentnummer | 26/06771-1 | Sak | Revet bygning - 2048/2 - Bjørnstadgrenda 21 | Fra | Sv
-Offentlig journal | Hjelp | Viser 191 - 200 av 115435 dokumenter | Innsynskrav | Dokumentn
-Dokumentnummer | 26/06763-1 | Sak | Kartlegging avløp | Til | Astrid Rebecca Johannessen |
-Dokumentnummer | 26/06765-1 | Sak | 1051/3 - ISEVEIEN 173 - Pålegg - utbedring av avløpsle
-Dokumentnummer | 23/40354-193 | Sak | Kommunedelplan barnehage- og skolekapasitet 2024-203
-Dokumentnummer | 23/31760-258 | Sak | 37013 Detaljregulering, Lysås - Ullerøy | Fra | HS A
-Dokumentnummer | 24/06663-119 | Sak | Vannskade - 2094/155 - Plutoveien 1 - skade / erstat
-Dokumentnummer | 24/06663-118 | Sak | Vannskade - 2094/155 - Plutoveien 1 - skade / erstat
-Dokumentnummer | 23/31760-257 | Sak | 37013 Detaljregulering, Lysås - Ullerøy | Fra | Tove
-Dokumentnummer | 25/04810-35 | Sak | 2082/58/0/0 - C. J. Pettersens vei 30 - steinras - ut
-Dokumentnummer | 25/20449-57 | Sak | Tilskudd - private barnehager 2026 | Fra | UTDANNINGS
-Dokumentnummer | 24/06526-37 | Sak | 1079/1/0/0 - Tveterveien 189, 191 - etablering av ter
-Dokumentnummer | 23/33888-99 | Sak | 1/961/0/0 - Korsgata 23 og 25, Thranes gate 26 og 28,
-Dokumentnummer | 25/10859-39 | Sak | Driftstilskudd kultur 2025 | Fra | BJØRNSTAD SOUL CHI
-Dokumentnummer | 26/05372-32 | Sak | Sykepleier/vernepleier med videreutdanning Kommuneomr
-Dokumentnummer | 23/37282-35 | Sak | Østfold Energi AS - generalforsamlinger - eiermøter |
-Dokumentnummer | 25/08799-32 | Sak | Planlagte tiltak mot kanadagjess | Fra | May Hilde Je
-Dokumentnummer | 24/03221-29 | Sak | 37010 Detaljregulering, Bukkenes | Fra | ØSTFOLD FYLK
-Dokumentnummer | 26/05372-31 | Sak | Sykepleier/vernepleier med videreutdanning Kommuneomr
-Dokumentnummer | 26/05372-30 | Sak | Sykepleier/vernepleier med videreutdanning Kommuneomr
-Dokumentnummer | 23/32256-22 | Sak | 1099/12/0/0 - Stasjonsveien 76 - mulig ikke godkjent
-Dokumentnummer | 23/35127-19 | Sak | Utvalgsleder Velferd og folkehelse - diverse | Fra |
-Dokumentnummer | 23/35127-18 | Sak | Utvalgsleder Velferd og folkehelse - diverse | Fra |
-Dokumentnummer | 25/21724-18 | Sak | 2074/208/0/0 - Opstadveien 87 A - riving og oppføring
-Dokumentnummer | 25/08043-18 | Sak | Produksjonstilskudd 1022/1 | Til | KRISTIAN TVETER |
-Dokumentnummer | 26/01985-22 | Sak | Sykepleier Korttid Virksomhet hjemmesykepleien, Sarps
-Dokumentnummer | 24/12432-22 | Sak | 1051/396/0/0 - Skjebergveien 96 - bruksendring - etab
-Dokumentnummer | 26/01985-21 | Sak | Sykepleier Korttid Virksomhet hjemmesykepleien, Sarps
-Dokumentnummer | 25/21724-17 | Sak | 2074/208/0/0 - Opstadveien 87 A - riving og oppføring
-Dokumentnummer | 23/35127-17 | Sak | Utvalgsleder Velferd og folkehelse - diverse | Fra |
-Dokumentnummer | 26/01194-17 | Sak | Skiltvedtak - skiltplaner - 2026 | Fra | STATENS VEGV
 Dokumentnummer | 24/21072-17 | Sak | 1/1092/0/0 - Gamlebygata 8 - vesentlig reparasjon - S
 Dokumentnummer | 25/07998-16 | Sak | Produksjonstilskudd 1064/1 | Til | TORGRIMSBY OLE GUN
 Dokumentnummer | 26/04797-15 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd
@@ -360,7 +175,7 @@ Dokumentnummer | 23/40354-195 | Sak | Kommunedelplan barnehage- og skolekapasite
 Dokumentnummer | 26/02179-152 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
 Dokumentnummer | 23/31769-90 | Sak | 26033 Detaljregulering, Tidligere Østfoldmeieriet | F
 Dokumentnummer | 26/01348-75 | Sak | Tilskudd til integreringsarbeid 2026 i regi av frivil
-Dokumentnummer | 26/00008-45 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-45 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
 Dokumentnummer | 26/00007-77 | Sak | Ordfører - diverse 2026 | Fra | SMART INNOVATION NORW
 Dokumentnummer | 23/24021-92 | Sak | Arrangementer - søknadsskjema | Fra | OPPLEV EVENT AS
 Dokumentnummer | 25/13093-59 | Sak | 1/1282/0/0 - Dovregata 2 A og B - riving av eksistere
@@ -370,7 +185,7 @@ Dokumentnummer | 23/24276-38 | Sak | Høk Kro og Motell AS - Høk Kro og Motell 
 Dokumentnummer | 25/08799-33 | Sak | Planlagte tiltak mot kanadagjess | Fra | Nanna Eilert
 Dokumentnummer | 23/24276-36 | Sak | Høk Kro og Motell AS - Høk Kro og Motell - serverings
 Dokumentnummer | 25/16693-32 | Sak | Kroa AS - Serveringsbevilling | Fra | KROA AS | Journ
-Dokumentnummer | 26/01474-40 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Ida 
+Dokumentnummer | 26/01474-40 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Ida
 Dokumentnummer | 25/21479-27 | Sak | 2066/575/0/0 - Bråteveien 21 - oppretting av matrikke
 Dokumentnummer | 25/21724-19 | Sak | 2074/208/0/0 - Opstadveien 87 A - riving og oppføring
 Dokumentnummer | 26/05170-18 | Sak | Lege Kommuneområde helse og velferd, Sarpsborg kommun
@@ -389,14 +204,14 @@ Dokumentnummer | 26/05672-10 | Sak | Sykepleier eller vernepleier Kommuneområde
 Dokumentnummer | 23/44925-9 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
 Dokumentnummer | 26/05672-11 | Sak | Sykepleier eller vernepleier Kommuneområde helse og v
 Dokumentnummer | 24/04149-10 | Sak | Tilskudd til inkludering av barn og unge 2023 - Bufdi
-Dokumentnummer | 25/20771-10 | Sak | 1/3826/0/0 - Nils Pedersens vei 6 - bruksendring fra 
+Dokumentnummer | 25/20771-10 | Sak | 1/3826/0/0 - Nils Pedersens vei 6 - bruksendring fra
 Dokumentnummer | 24/06220-9 | Sak | Inspiria - generalforsamlinger - eiermøter | Fra | INS
 Dokumentnummer | 26/05672-9 | Sak | Sykepleier eller vernepleier Kommuneområde helse og ve
 Dokumentnummer | 26/05276-10 | Sak | Samhandlingssykepleier Virksomhet hjemmesykepleien, S
 Dokumentnummer | 25/05781-8 | Sak | 1/500/0/0 - Kirkegata 35 - endring av bygg - innvendig
 Dokumentnummer | 26/05672-7 | Sak | Sykepleier eller vernepleier Kommuneområde helse og ve
 Dokumentnummer | 24/04855-7 | Sak | Tilskudd til skolebibliotek 2024 - 2026 | Fra | UTDANN
-Dokumentnummer | 26/05368-8 | Sak | 1/1690/0/0 - Astrids gate 5 - ikke godkjent boenhet i 
+Dokumentnummer | 26/05368-8 | Sak | 1/1690/0/0 - Astrids gate 5 - ikke godkjent boenhet i
 Dokumentnummer | 26/05672-8 | Sak | Sykepleier eller vernepleier Kommuneområde helse og ve
 Dokumentnummer | 26/06394-7 | Sak | 2044/17/0/0 - Kalnesveien 300 - mindre tiltak på bebyg
 Dokumentnummer | 26/06394-8 | Sak | 2044/17/0/0 - Kalnesveien 300 - mindre tiltak på bebyg
@@ -411,27 +226,27 @@ Dokumentnummer | 26/06585-4 | Sak | 2074/103/0/0 - Opstadveien 41 - rehabiliteri
 Dokumentnummer | 23/40567-5 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
 Dokumentnummer | 26/06952-4 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
 Dokumentnummer | 26/05672-5 | Sak | Sykepleier eller vernepleier Kommuneområde helse og ve
-Dokumentnummer | 25/12215-5 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE 
+Dokumentnummer | 25/12215-5 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE
 Dokumentnummer | 26/06903-3 | Sak | 1035/7/0/0 - Skadalsveien 408 - nytt bygg - driftsbygn
 Dokumentnummer | 26/05672-4 | Sak | Sykepleier eller vernepleier Kommuneområde helse og ve
 Dokumentnummer | 26/06564-4 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 25/12645-4 | Sak | Barnehagemappe - Avskjermet | Fra | LÆRINGSVERKSTEDET 
+Dokumentnummer | 25/12645-4 | Sak | Barnehagemappe - Avskjermet | Fra | LÆRINGSVERKSTEDET
 Dokumentnummer | 26/04010-4 | Sak | 010526026 Detaljregulering, Kampenesmyra nord reguleri
-Dokumentnummer | 25/02737-4 | Sak | Sarpsborg kommunes arkivlokaler | Til / Fra | Internt 
+Dokumentnummer | 25/02737-4 | Sak | Sarpsborg kommunes arkivlokaler | Til / Fra | Internt
 Dokumentnummer | 26/05616-3 | Sak | 1/1849/0/0 - Dronningens gate 51 - utvidelse av St. Ol
 Dokumentnummer | 26/05496-3 | Sak | Kommunal vielse - Avskjermet | Fra | Avskjermet | Jour
 Dokumentnummer | 26/06896-3 | Sak | 2073/36/0/0 - Opstadveien 30 - tilbygg | Til | Erik Sa
 Dokumentnummer | 26/05672-3 | Sak | Sykepleier eller vernepleier Kommuneområde helse og ve
-Dokumentnummer | 26/06666-3 | Sak | Tilskudd fra Konfliktrådet til SLT samordning | Fra | 
+Dokumentnummer | 26/06666-3 | Sak | Tilskudd fra Konfliktrådet til SLT samordning | Fra |
 Dokumentnummer | 26/06190-3 | Sak | I forbindelse med utbedring av Saniteten - Borgenveien
-Dokumentnummer | 24/20078-3 | Sak | Snuplass ved Karjolveien 12 og 14 | Fra | Lasse Østby 
+Dokumentnummer | 24/20078-3 | Sak | Snuplass ved Karjolveien 12 og 14 | Fra | Lasse Østby
 Dokumentnummer | 26/06557-2 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
 Dokumentnummer | 26/06311-2 | Sak | 1040/81/0/0 - Bassengveien 1 - nytt bygg - tomannsboli
 Dokumentnummer | 26/06939-2 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/06405-2 | Sak | Sykefraværsoppfølging - Avskjermet | Fra | Avskjermet 
-Dokumentnummer | 26/05619-2 | Sak | Fugleinfluensa 2026 | Fra | MATTILSYNET | Journaldato 
+Dokumentnummer | 26/06405-2 | Sak | Sykefraværsoppfølging - Avskjermet | Fra | Avskjermet
+Dokumentnummer | 26/05619-2 | Sak | Fugleinfluensa 2026 | Fra | MATTILSYNET | Journaldato
 Dokumentnummer | 25/23994-2 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 23/33030-2 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE 
+Dokumentnummer | 23/33030-2 | Sak | Barnehagemappe - Avskjermet | Fra | SARPSBORG KOMMUNE
 Dokumentnummer | 26/05911-2 | Sak | 2063/62/0/0 - Gamle Torvvei 24A - rekvisisjon - oppret
 Dokumentnummer | 26/05672-2 | Sak | Sykepleier eller vernepleier Kommuneområde helse og ve
 Dokumentnummer | 26/05942-2 | Sak | Barkbilleovervåkning 2026 | Fra | STATSFORVALTEREN I Ø
@@ -443,11 +258,11 @@ Dokumentnummer | 26/07028-1 | Sak | Personalmappe - Avskjermet | Fra | Avskjerme
 Dokumentnummer | 26/07011-1 | Sak | 2074/199/0/0 - Klevaveien 47 A - garasje | Fra | WALLE
 Dokumentnummer | 26/07004-1 | Sak | Salgsbevilling - søknad om bevilling til salg av alkoh
 Dokumentnummer | 26/06998-1 | Sak | 1/2068/0/0 - Svalbardgata 7 - mulig ulovlig byggearbei
-Dokumentnummer | 26-702-1 | Sak | Innsynskrav i 24/07455-2 | Fra | Sarpsborg Arbeiderblad 
+Dokumentnummer | 26-702-1 | Sak | Innsynskrav i 24/07455-2 | Fra | Sarpsborg Arbeiderblad
 Dokumentnummer | 26/06987-1 | Sak | Brannforebygging - 1027/13/0/0 | Til | Kristine Elisab
 Dokumentnummer | 26/06984-1 | Sak | 1/854/0/0 - Sverdrups gate 13 og 15 - bruksendring | F
 Dokumentnummer | 26/06985-1 | Sak | Seksjonering - 1/2033 - Alvimveien 5 | Fra | TAKSTCO A
-Dokumentnummer | 26/06986-1 | Sak | Høring - Fysisk aktivitet i forebygging og behandling 
+Dokumentnummer | 26/06986-1 | Sak | Høring - Fysisk aktivitet i forebygging og behandling
 Dokumentnummer | 26-703-1 | Sak | Innsynskrav i 26/05622-12 | Fra | Sarpsborg Arbeiderblad
 Dokumentnummer | 26-709-1 | Sak | Innsynskrav i 26/01474-39 | Fra | Sarpsborg Arbeiderblad
 Dokumentnummer | 26-705-1 | Sak | Innsynskrav i 23/32558-21 | Fra | Sarpsborg Arbeiderblad
@@ -463,14 +278,14 @@ Dokumentnummer | 26/06973-1 | Sak | Brannforebygging - 1027/25/0/1 | Til | Ghane
 Dokumentnummer | 26/06963-1 | Sak | Brannforebygging - 1/2289/0/0 | Til | Buvik borettslag
 Dokumentnummer | 26/06966-1 | Sak | Brannforebygging - 2094/41/0/0 | Til | Giga Amad Khara
 Dokumentnummer | 26/06967-1 | Sak | Brannforebygging - 1027/40/0/0 | Til | Per Heiberg | J
-Dokumentnummer | 26/06968-1 | Sak | Brannforebygging - 1027/9/0/0 | Til | Espen Sørensen, 
+Dokumentnummer | 26/06968-1 | Sak | Brannforebygging - 1027/9/0/0 | Til | Espen Sørensen,
 Dokumentnummer | 26/06950-1 | Sak | Brannforebygging - 1/2289/0/0 | Til | Buvik borettslag
 Offentlig journal | Hjelp | Viser 161 - 170 av 114384 dokumenter | Resultat etter brannfor
 Dokumentnummer | 26/06958-1 | Sak | Brannforebygging - 1/2289/0/0 | Til | Buvik borettslag
 Dokumentnummer | 26/06957-1 | Sak | Brannforebygging - 1/2289/0/0 | Til | Buvik borettslag
 Dokumentnummer | 26/06955-1 | Sak | Høring - Forenklet revisjon av prioriteringsveilederne
 Dokumentnummer | 26/06960-1 | Sak | Brannforebygging - 1/2289/0/0 | Til | Buvik borettslag
-Dokumentnummer | 26/06959-1 | Sak | Brannforebygging - 2081/130/0/0 | Til | Wenche Synøve 
+Dokumentnummer | 26/06959-1 | Sak | Brannforebygging - 2081/130/0/0 | Til | Wenche Synøve
 Dokumentnummer | 26/06954-1 | Sak | Brannforebygging - 1042/56/0/0 | Til | Trond Oddvar Ny
 Dokumentnummer | 26/06951-1 | Sak | Dumpet avfall langs Skadalsveien | Fra | Kent Inge Ols
 Dokumentnummer | 26/06953-1 | Sak | Brannforebygging - 2080/234/0/0 | Til | Tshiyoyo Mufon
@@ -478,8 +293,8 @@ Dokumentnummer | 26/06949-1 | Sak | Brannforebygging - 1/2289/0/0 | Til | Buvik 
 Dokumentnummer | 26/06945-1 | Sak | Innsyn i dokumenter fra PPT - Avskjermet | Fra | SØRHE
 Dokumentnummer | 26/06936-1 | Sak | Erstatning for tapt barndom, skolegang og arbeidsinnte
 Dokumentnummer | 26/06948-1 | Sak | Brannforebygging - 2095/73/53/0 | Til | Gerd Helene Sv
-Dokumentnummer | 26/06934-1 | Sak | Behandling av refusjonskrav skogfond - 1085/2 | Til | 
-Dokumentnummer | 26/06938-1 | Sak | Brannforebygging - 2095/135/0/0 | Til | Lisbeth Irene 
+Dokumentnummer | 26/06934-1 | Sak | Behandling av refusjonskrav skogfond - 1085/2 | Til |
+Dokumentnummer | 26/06938-1 | Sak | Brannforebygging - 2095/135/0/0 | Til | Lisbeth Irene
 Dokumentnummer | 26/06944-1 | Sak | Brannforebygging - 2080/2/85/0 | Til | Geir Johan Haak
 Dokumentnummer | 26/06941-1 | Sak | Brannforebygging - 1040/79/0/0 | Til | Roberto Saccard
 Dokumentnummer | 26/06940-1 | Sak | VA-kart og ledningsinformasjon - 2072/22 - Kitterødvei
@@ -488,13 +303,198 @@ Dokumentnummer | 26/06922-1 | Sak | Brannforebygging - 2094/2/31/0 | Til | Rados
 Offentlig journal | Hjelp | Viser 181 - 190 av 114384 dokumenter | Resultat etter brannfor
 Dokumentnummer | 26/06923-1 | Sak | Brannforebygging - 2095/122/0/0 | Til | Jørn Erik Lund
 Dokumentnummer | 26/06930-1 | Sak | Brannforebygging - 1/2289/0/0 | Til | Buvik borettslag
-Dokumentnummer | 26/06928-1 | Sak | Hensåsen solkraftverk og Slettefjellet solkraftverk i 
+Dokumentnummer | 26/06928-1 | Sak | Hensåsen solkraftverk og Slettefjellet solkraftverk i
 Dokumentnummer | 26/06925-1 | Sak | 1154/4/31/0 - Pulshaugene 25 - montering av ildsted og
 Dokumentnummer | 26/06931-1 | Sak | Sykefraværsoppfølging - Avskjermet | Fra | NAV ØST-VIK
 Dokumentnummer | 26/06933-1 | Sak | Brannforebygging - 1/2289/0/0 | Til | Buvik borettslag
 Dokumentnummer | 26/06929-1 | Sak | Brannforebygging - 1/2289/0/0 | Til | Buvik borettslag
 Dokumentnummer | 26/06927-1 | Sak | Brannforebygging - 1029/4/0/0 | Til | Glenn Morten Eri
 Dokumentnummer | 26/06924-1 | Sak | Brannforebygging - 2096/24/0/0 | Til | Morten Berglind
-Dokumentnummer | 26/06920-1 | Sak | Brannforebygging - 2095/73/44/0 | Til | Justyna Rybak 
+Dokumentnummer | 26/06920-1 | Sak | Brannforebygging - 2095/73/44/0 | Til | Justyna Rybak
 Dokumentnummer | 26/06890-1 | Sak | 1/635/0/0 - Sverdrups gate 1 - ikke godkjent kjellerle
 Dokumentnummer | 26/06921-1 | Sak | Brannforebygging - 2095/73/43/0 | Til | Roy Bjarne Joh
+Dokumentnummer | 26/05006-37 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 23/24021-95 | Sak | Arrangementer - søknadsskjema | Fra | SÆRP TROPEZ AS 
+Dokumentnummer | 26/05006-28 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-34 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-29 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-32 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-30 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-36 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-27 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-33 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-31 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-35 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-21 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-24 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-18 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-19 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-22 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-23 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-25 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-20 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05005-19 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05006-26 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-16 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05005-15 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05006-17 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-14 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05005-14 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05005-18 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05006-15 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05005-17 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05006-13 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05005-16 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05006-9 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
+Dokumentnummer | 26/05005-12 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05005-13 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05006-10 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05005-9 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05006-8 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
+Dokumentnummer | 26/05006-12 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05006-11 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
+Dokumentnummer | 26/05005-10 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05005-11 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05005-7 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05005-4 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05006-6 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
+Dokumentnummer | 26/05006-5 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
+Dokumentnummer | 26/05006-7 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
+Dokumentnummer | 26/05005-8 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05006-4 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
+Dokumentnummer | 26/05005-6 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05005-5 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05005-2 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05005-3 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05006-2 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
+Dokumentnummer | 26/05006-3 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
+Dokumentnummer | 26/01495-245 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-244 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-246 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-247 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-239 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-243 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-237 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-236 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-234 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Offentlig journal | Hjelp | Viser 81 - 90 av 114942 dokumenter | Avslag, stilling besatt -
+Dokumentnummer | 26/01495-240 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-235 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-241 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-242 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-238 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Offentlig journal | Hjelp | Viser 91 - 100 av 114942 dokumenter | Avslag, stilling besatt 
+Dokumentnummer | 26/01495-230 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-227 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-226 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-225 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-231 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-233 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-224 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-228 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-229 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-232 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-223 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-219 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-214 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-220 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-216 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-215 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Offentlig journal | Hjelp | Viser 101 - 110 av 114942 dokumenter | Avslag, stilling besatt
+Dokumentnummer | 26/01495-221 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-217 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-218 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-222 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-212 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Offentlig journal | Hjelp | Viser 111 - 120 av 114942 dokumenter | Avslag, stilling besatt
+Dokumentnummer | 26/01495-207 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-209 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-211 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-208 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-204 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-210 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-205 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-206 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-213 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-202 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-196 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-197 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-195 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Offentlig journal | Hjelp | Viser 121 - 130 av 114942 dokumenter | Avslag, stilling besatt
+Dokumentnummer | 26/01495-194 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-199 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-201 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-198 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-200 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-203 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-186 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-188 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-192 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-193 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-189 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-187 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-190 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-185 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Offentlig journal | Hjelp | Viser 131 - 140 av 114942 dokumenter | Avslag, stilling besatt
+Dokumentnummer | 26/01495-191 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-184 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-179 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 23/24047-183 | Sak | 23058 Detaljregulering, Tunborg | Til | DARK ARKITEK
+Offentlig journal | Hjelp | Viser 141 - 150 av 114942 dokumenter | Avslag, stilling besatt
+Dokumentnummer | 26/01495-183 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-182 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-178 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-180 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 23/24047-179 | Sak | 23058 Detaljregulering, Tunborg | Til | DARK ARKITEK
+Dokumentnummer | 23/24047-181 | Sak | 23058 Detaljregulering, Tunborg | Til | DARK ARKITEK
+Dokumentnummer | 26/01495-177 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-181 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 26/01495-176 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
+Dokumentnummer | 23/24026-136 | Sak | Søknad om felling/beskjæring av trær eller rydding a
+Dokumentnummer | 26/01984-114 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsb
+Dokumentnummer | 23/24026-135 | Sak | Søknad om felling/beskjæring av trær eller rydding a
+Dokumentnummer | 26/04982-107 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/01984-113 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsb
+Dokumentnummer | 23/31766-161 | Sak | 202305 Detaljregulering, Kvartal 54 og 55 A - Sefa |
+Dokumentnummer | 26/00007-85 | Sak | Ordfører - diverse 2026 | Fra | WATVEDT-OLSEN HAGE OG
+Dokumentnummer | 26/04982-105 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 23/24021-94 | Sak | Arrangementer - søknadsskjema | Fra | SARPSBORG KOMMU
+Dokumentnummer | 24/00446-97 | Sak | 22068 Detaljregulering, Yvenåsen | Til | WSP NORGE AS
+Dokumentnummer | 26/00007-92 | Sak | Ordfører - diverse 2026 | Fra | SARPSBORG BONDELAG | 
+Dokumentnummer | 26/04982-106 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/00007-93 | Sak | Ordfører - diverse 2026 | Fra | DIABETESFORBUNDET NED
+Offentlig journal | Hjelp | Viser 161 - 170 av 114942 dokumenter | Forespørsel om tilleggs
+Dokumentnummer | 26/00007-94 | Sak | Ordfører - diverse 2026 | Fra | Mariann Thiesen | Jou
+Dokumentnummer | 24/00446-98 | Sak | 22068 Detaljregulering, Yvenåsen | Til | WSP NORGE AS
+Dokumentnummer | 26/04982-104 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
+Dokumentnummer | 26/00007-82 | Sak | Ordfører - diverse 2026 | Fra | MEDIAPLANET AS | Jour
+Dokumentnummer | 24/13260-75 | Sak | 202405 Detaljregulering, Fv. 114 Sykkeltiltak Greåker
+Dokumentnummer | 26/01348-73 | Sak | Tilskudd til integreringsarbeid 2026 i regi av frivil
+Dokumentnummer | 26/05466-62 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05466-61 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05466-60 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 25/13093-60 | Sak | 1/1282/0/0 - Dovregata 2 A og B - riving av eksistere
+Dokumentnummer | 26/01747-60 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05466-63 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05466-64 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 25/05566-54 | Sak | 2076/11/0/0 - Gamle Tindlundvei 34 - melding om antat
+Dokumentnummer | 26/05466-55 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 25/05566-55 | Sak | 2076/11/0/0 - Gamle Tindlundvei 34 - melding om antat
+Dokumentnummer | 26/05466-57 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05466-53 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05466-58 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05466-59 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/01747-59 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05466-54 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05466-56 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/00008-47 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/05466-48 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 23/33447-47 | Sak | Fastlegeavtale - Petter Fossheim Ohnstad | Fra | HELF
+Dokumentnummer | 26/05466-52 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05466-50 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Offentlig journal | Hjelp | Viser 191 - 200 av 114942 dokumenter | Gamle Tindlundvei 34 - 
+Dokumentnummer | 26/05466-51 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 25/05566-53 | Sak | 2076/11/0/0 - Gamle Tindlundvei 34 - melding om antat
+Dokumentnummer | 26/05466-47 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05466-49 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/04385-47 | Sak | Barnehagelærer Kommuneområde oppvekst, Sarpsborg komm
