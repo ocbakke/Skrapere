@@ -1,164 +1,3 @@
-Dokumentnummer | 24/21072-17 | Sak | 1/1092/0/0 - Gamlebygata 8 - vesentlig reparasjon - S
-Dokumentnummer | 25/07998-16 | Sak | Produksjonstilskudd 1064/1 | Til | TORGRIMSBY OLE GUN
-Dokumentnummer | 26/04797-15 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd
-Dokumentnummer | 24/08690-17 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journ
-Dokumentnummer | 23/35899-13 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journ
-Dokumentnummer | 24/25303-14 | Sak | Tilskudd - Fontenehus | Fra | HELSEDIREKTORATET | Jou
-Dokumentnummer | 26/04797-14 | Sak | Prosjektleder FACT Ung Kommuneområde helse og velferd
-Dokumentnummer | 26/03916-12 | Sak | 2087/73/0/0 - Fasanveien 29 - endring av bygg - utven
-Dokumentnummer | 24/06787-13 | Sak | 1079/1 - Tveterveien - deling landbrukseiendom | Til
-Dokumentnummer | 24/13161-14 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journ
-Dokumentnummer | 25/12181-10 | Sak | 2044/17/0/0 - Kalnesveien 300 - endring av bygg - inn
-Dokumentnummer | 24/19304-12 | Sak | 1022/279/0/0 - Åsa-Tors vei - nytt bygg - Boligformål
-Dokumentnummer | 24/11272-12 | Sak | Brannforebygging - 1047/269/0/0 | Til | Khalid Mawlan
-Dokumentnummer | 25/21261-10 | Sak | Søknad om fradeling - 2061/1 - landbrukseiendom | Fra
-Dokumentnummer | 26/05398-10 | Sak | 1/1774/0/0 - Tunebakken 5 B - endring av VA-anlegg -
-Dokumentnummer | 26/01663-8 | Sak | 1047/175/0/0 - Sarpehaugen - forelegging av planer om
-Dokumentnummer | 24/12381-10 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journ
-Dokumentnummer | 25/11906-10 | Sak | 2063/1/360/0 - Prost Krogs vei 31 - endring av bygg -
-Dokumentnummer | 24/18376-9 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 23/41846-9 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/01289-8 | Sak | Samfunnssikkerhet og beredskap 2026 | Fra | NORGES VAS
-Dokumentnummer | 26/03857-7 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 24/11467-8 | Sak | Sykefraværsoppfølging - Avskjermet | Fra | NAV ØST-VIK
-Dokumentnummer | 24/11755-7 | Sak | Gnr 1041 bnr 460 - Pålegg - separering spill- og overv
-Dokumentnummer | 25/08082-7 | Sak | Produksjonstilskudd 1059/1 | Til | GRO IRENE ØSTBY | J
-Dokumentnummer | 23/40712-7 | Sak | Personalmappe - Avskjermet | Fra | NAV FAMILIE- OG PEN
-Dokumentnummer | 25/17619-7 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 25/02048-7 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 24/11755-6 | Sak | Gnr 1041 bnr 460 - Pålegg - separering spill- og overv
-Dokumentnummer | 26/06486-5 | Sak | 1/1933/0/0 - Hals' gate 2B - endring av bygg - utvendi
-Dokumentnummer | 23/31539-6 | Sak | 2087/73/0/0 - Fasanveien 29 - mulig ulovlig boenhet og
-Dokumentnummer | 26/06673-5 | Sak | 1001/94/0/0 - Mølsbakken 20 - tilbygg fritidsbolig | T
-Dokumentnummer | 25/21554-6 | Sak | Barnehagemappe - Avskjermet | Fra | VARTEIG BARNEHAGE
-Dokumentnummer | 26/06394-5 | Sak | 2044/17/0/0 - Kalnesveien 300 - mindre tiltak på bebyg
-Dokumentnummer | 25/07984-6 | Sak | Produksjonstilskudd 1008/2 | Til | RAYMOND LANGVIK | J
-Dokumentnummer | 25/24093-6 | Sak | 1028/38/0/0 - Bodals vei 20 - innlemming av fellesarea
-Dokumentnummer | 25/08093-5 | Sak | Produksjonstilskudd 3012/1 | Til | SÆLID HARALD | Jour
-Dokumentnummer | 26/00943-5 | Sak | Digitale samhandlingsløsninger - fra sentral forskrivn
-Dokumentnummer | 25/08015-5 | Sak | Produksjonstilskudd 2015/2 | Til | SVERRESEN JOHNNY |
-Dokumentnummer | 25/08014-5 | Sak | Produksjonstilskudd 1085/4 | Til | LARSEN SVEIN IVAR |
-Dokumentnummer | 25/08094-5 | Sak | Produksjonstilskudd 1091/1 | Til | JENS LUDVIG SØRLI |
-Dokumentnummer | 25/23365-5 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/02755-5 | Sak | 2076/51/0/0 - Greåkerveien 154 - etablering av ny boen
-Dokumentnummer | 25/08036-5 | Sak | Produksjonstilskudd 1055/1 | Til | FJELD GÅRD VED ISES
-Dokumentnummer | 25/07960-5 | Sak | Produksjonstilskudd 1008/1 | Til | ARNE KRISTIAN KOLBE
-Dokumentnummer | 26/06649-4 | Sak | 2064/41/0/0 - Lilletuneveien 6A - solcelleanlegg på ta
-Dokumentnummer | 26/01090-4 | Sak | Produksjonstilskudd 3005/1 | Til | KJELL EINAR ANDERSE
-Dokumentnummer | 24/20563-5 | Sak | Brannforebygging - 2078/365/0/0 | Til | Tore Johnny Kr
-Dokumentnummer | 25/07953-5 | Sak | Produksjonstilskudd 1077/22 | Til | CAMILLA LESTER-WAT
-Dokumentnummer | 26/06673-4 | Sak | 1001/94/0/0 - Mølsbakken 20 - tilbygg fritidsbolig | T
-Dokumentnummer | 23/40643-5 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 25/07961-5 | Sak | Produksjonstilskudd 1061/1 | Til | MAGNUS HAUGE | Jour
-Dokumentnummer | 25/07958-5 | Sak | Produksjonstilskudd 1004/30 | Til | KÅRE JØRGEN OLSENG
-Dokumentnummer | 23/39613-5 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Offentlig journal | Hjelp | Viser 111 - 120 av 115952 dokumenter | Vedtak produksjons- og
-Dokumentnummer | 26/01055-4 | Sak | Produksjonstilskudd 1041/7 | Til | NILS OLE KLAVESTAD
-Dokumentnummer | 26/01071-4 | Sak | Produksjonstilskudd 1118/1 | Til | HELTORP OLE ANTON |
-Dokumentnummer | 25/14447-4 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 25/08095-4 | Sak | Produksjonstilskudd 2052/7 | Til | ØDEGÅRD JOHNNY | Jo
-Dokumentnummer | 25/08091-4 | Sak | Produksjonstilskudd 3029/2 | Til | BRATTSET GÅRDSDRIFT
-Dokumentnummer | 25/17046-4 | Sak | Personalmappe - Avskjermet | Fra | STATENS PENSJONSKAS
-Dokumentnummer | 25/08090-4 | Sak | Produksjonstilskudd 2007/1 | Til | NILS ARNE BORGAAS |
-Offentlig journal | Hjelp | Viser 121 - 130 av 115952 dokumenter | Vedtak produksjons- og
-Dokumentnummer | 26/01078-4 | Sak | Produksjonstilskudd 2060/1 | Til | JØRGEN EVENSEN | Jo
-Dokumentnummer | 25/08089-4 | Sak | Produksjonstilskudd 1015/2 | Til | INGER JOHANNE GRAAB
-Dokumentnummer | 25/23365-4 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 25/08084-4 | Sak | Produksjonstilskudd 1122/1 | Til | HÅKON HALVORSEN SLA
-Dokumentnummer | 25/08081-4 | Sak | Produksjonstilskudd 3008/1 | Til | BERGERUD GÅRD V/KRI
-Dokumentnummer | 25/08075-4 | Sak | Produksjonstilskudd 2044/2 | Til | NILSEN JØRN GUNNAR
-Dokumentnummer | 25/08039-4 | Sak | Produksjonstilskudd 3009/4 | Til | JOHAN ARNT SÆLID |
-Dokumentnummer | 25/08018-4 | Sak | Produksjonstilskudd 1009/7 | Til | ARNT SETTEN | Journ
-Dokumentnummer | 25/08019-4 | Sak | Produksjonstilskudd 1117/1 | Til | WISTER MORTEN DØDSB
-Dokumentnummer | 25/08073-4 | Sak | Produksjonstilskudd 1090/3 | Til | IDA-MARIE ØSTEBY |
-Dokumentnummer | 25/08041-4 | Sak | Produksjonstilskudd 2027/2 | Til | RAGNAR DAHL | Journ
-Dokumentnummer | 25/08042-4 | Sak | Produksjonstilskudd 3039/1 | Til | WIERSHOLM BYGG | Jo
-Dokumentnummer | 25/08025-4 | Sak | Produksjonstilskudd 1012/1 | Til | KNUT HARALD STABBET
-Offentlig journal | Hjelp | Viser 131 - 140 av 115952 dokumenter | Vedtak produksjons- og
-Dokumentnummer | 25/08000-4 | Sak | Produksjonstilskudd 1002/10 | Til | MARITS RIDESKOLE M
-Offentlig journal | Hjelp | Viser 141 - 150 av 115952 dokumenter | Vedtak produksjons- og
-Dokumentnummer | 25/07997-4 | Sak | Produksjonstilskudd 2070/6 | Til | MARKUS ANDERSEN | J
-Dokumentnummer | 25/08001-4 | Sak | Produksjonstilskudd 1015/1 | Til | ØIVIND GUNNARSTORP
-Dokumentnummer | 25/07980-4 | Sak | Produksjonstilskudd 1104/1 | Til | OLE RØED | Journald
-Dokumentnummer | 25/07970-4 | Sak | Produksjonstilskudd 1085/1 | Til | ANN-HELEN GÅSERØD Ø
-Dokumentnummer | 25/08016-4 | Sak | Produksjonstilskudd 3024/2 | Til | BENT DANGSTORP | Jo
-Dokumentnummer | 25/07967-4 | Sak | Produksjonstilskudd 2072/2 | Til | OLE MATHIS KRUSE |
-Dokumentnummer | 25/07959-4 | Sak | Produksjonstilskudd 1129/3 | Til | LARS INGERØ | Journ
-Dokumentnummer | 25/07973-4 | Sak | Produksjonstilskudd 3014/5 | Til | KJELL HÅKON KULLERU
-Dokumentnummer | 25/07966-4 | Sak | Produksjonstilskudd 3049/2 | Til | HELENE GABESTAD | J
-Dokumentnummer | 25/07954-4 | Sak | Produksjonstilskudd 2013/1 | Til | MACK ISNES | Journa
-Dokumentnummer | 25/07950-4 | Sak | Produksjonstilskudd 2009/7 | Til | SONDRE ÅSERØD | Jou
-Dokumentnummer | 25/06912-4 | Sak | Brannforebygging - 1/1861/0/0 | Til | AC EIENDOM 2 AS
-Dokumentnummer | 25/07943-4 | Sak | Produksjonstilskudd 1004/3 | Til | HEGE HORNNÆS | Jour
-Offentlig journal | Hjelp | Viser 151 - 160 av 115952 dokumenter | Vedtak produksjons- og
-Dokumentnummer | 25/07951-4 | Sak | Produksjonstilskudd 2043/1 | Til | BØRSTAD ØKOKJØTT v/
-Dokumentnummer | 25/07942-4 | Sak | Produksjonstilskudd 2044/4 | Til | JØRGEN A. NILSEN |
-Dokumentnummer | 25/07940-4 | Sak | Produksjonstilskudd - 1143/4 | Til | LARSEN NYSETH SMÅ
-Dokumentnummer | 25/07952-4 | Sak | Produksjonstilskudd 1146/1 | Til | SVEIN ERIK KURE | J
-Dokumentnummer | 25/07949-4 | Sak | Produksjonstilskudd 1094/1 | Til | HILDE MARTHA LANGSB
-Dokumentnummer | 25/07955-4 | Sak | Produksjonstilskudd 1039/1 | Til | ØSTBY ASBJØRN | Jou
-Dokumentnummer | 24/01799-4 | Sak | Tobakk - lovgivning og salg | Fra | HELSEDIREKTORATET
-Dokumentnummer | 24/07575-4 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 23/37796-4 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/06760-3 | Sak | 3001/168/0/0 - Platåveien 11 - bruksendring fra tilleg
-Dokumentnummer | 26/06759-3 | Sak | 1099/166/0/0 - Åsgarden 6 - bruksendring fra tilleggsd
-Dokumentnummer | 26/06762-3 | Sak | 1039/106/0/0 - Bjerkholts vei 23 - riving, oppføring a
-Offentlig journal | Hjelp | Viser 161 - 170 av 115952 dokumenter | Bibben - status og frem
-Dokumentnummer | 26/06757-3 | Sak | 1/1362/0/0 - St. Marie gate 53 - midlertidig bruksendr
-Dokumentnummer | 23/40456-4 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/06952-3 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 24/24163-4 | Sak | Bekymringsmelding - planlagt senking av fartyøyet Bibb
-Dokumentnummer | 26/06687-3 | Sak | 2076/496/0/0 - Nye Tindlundvei 88 - bruksendring fra t
-Dokumentnummer | 26/06585-3 | Sak | 2074/103/0/0 - Opstadveien 41 - rehabilitering av skor
-Dokumentnummer | 26/06583-3 | Sak | 3012/10/0/0 - Lundeveien 190 - riving og oppføring av
-Dokumentnummer | 26/01335-3 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/01220-3 | Sak | Produksjonstilskudd 2020/2 | Til | ERLING ANDRE AGNALT
-Dokumentnummer | 26/05250-3 | Sak | Personalmappe - Avskjermet | Fra | Avskjermet | Journa
-Dokumentnummer | 26/06750-3 | Sak | 1/3109/0/0 - Hagebyveien 8 - bruksendring | Til | BYGG
-Dokumentnummer | 26/04010-3 | Sak | 010526026 Detaljregulering, Kampenesmyra nord reguleri
-Dokumentnummer | 26/06673-3 | Sak | 1001/94/0/0 - Mølsbakken 20 - tilbygg fritidsbolig | F
-Dokumentnummer | 26/01187-3 | Sak | Høring - En bærekraftig kommunesektor | Fra | DIABETES
-Dokumentnummer | 26/01212-3 | Sak | Produksjonstilskudd 2043/6 | Til | BJERKE GÅRD AS | Jo
-Dokumentnummer | 26/01064-3 | Sak | Produksjonstilskudd 1083/1 | Til | DAG EINAR MOLTEBERG
-Dokumentnummer | 26/01068-3 | Sak | Produksjonstilskudd 3038/4 | Til | FRORUD ANDERS | Jou
-Dokumentnummer | 26/01208-3 | Sak | Yrkesskade - Avskjermet | Fra | Avskjermet | Journalda
-Dokumentnummer | 26/01066-3 | Sak | Produksjonstilskudd 1022/80 | Til | JØRGEN HERMAN WIK
-Dokumentnummer | 26/01088-3 | Sak | Produksjonstilskudd 2036/22 | Til | MELLEBY HELGE JOHS
-Offentlig journal | Hjelp | Viser 181 - 190 av 115952 dokumenter | Vedtak produksjons- og
-Dokumentnummer | 26/01073-3 | Sak | Produksjonstilskudd 2034/164 | Til | JENS MARTIN NYBØL
-Dokumentnummer | 26/01111-3 | Sak | Produksjonstilskudd 1044/9 | Til | BEATA SENDROWICZ |
-Dokumentnummer | 26/01078-3 | Sak | Produksjonstilskudd 2060/1 | Til | JØRGEN EVENSEN | Jo
-Dokumentnummer | 25/08096-3 | Sak | Produksjonstilskudd 2095/5 | Til | TORE GUNDERSEN | Jo
-Dokumentnummer | 25/08088-3 | Sak | Produksjonstilskudd 1070/1 | Til | PER ANDERS BUER | J
-Dokumentnummer | 25/08092-3 | Sak | Produksjonstilskudd 2018/1 | Til | ØSTFOLD ANLEGG V/Mo
-Dokumentnummer | 26/00978-3 | Sak | Produksjonstilskudd 2045/1 | Til | NORSK LANDBRUKSRÅDG
-Dokumentnummer | 25/08087-3 | Sak | Produksjonstilskudd 3051/1 | Til | EGIL BERBY | Journa
-Dokumentnummer | 26/00931-3 | Sak | Produksjonstilskudd 1129/1 | Til | TORE JOHAN BØE | Jo
-Dokumentnummer | 26/00930-3 | Sak | Produksjonstilskudd 2017/1 | Til | EIVIND OLIVER OLIVE
-Dokumentnummer | 26/00903-3 | Sak | Produksjonstilskudd 1009/8 | Til | KLAVESTAD KNUT ROGE
-Offentlig journal | Hjelp | Viser 191 - 200 av 115952 dokumenter | Vedtak produksjons- og
-Dokumentnummer | 26/00910-3 | Sak | Produksjonstilskudd 1035/1 | Til | JOHANN BERNHARD STE
-Dokumentnummer | 26/01058-3 | Sak | Produksjonstilskudd - 1008/21 | Til | HAGEBIEN.NO DANI
-Dokumentnummer | 23/32256-22 | Sak | 1099/12/0/0 - Stasjonsveien 76 - mulig ikke godkjent
-Dokumentnummer | 23/35127-19 | Sak | Utvalgsleder Velferd og folkehelse - diverse | Fra |
-Dokumentnummer | 25/08043-18 | Sak | Produksjonstilskudd 1022/1 | Til | KRISTIAN TVETER |
-Dokumentnummer | 23/35127-18 | Sak | Utvalgsleder Velferd og folkehelse - diverse | Fra |
-Dokumentnummer | 23/35127-17 | Sak | Utvalgsleder Velferd og folkehelse - diverse | Fra |
-Dokumentnummer | 24/06787-13 | Sak | 1079/1 - Tveterveien - deling landbrukseiendom | Til
-Dokumentnummer | 26/05398-10 | Sak | 1/1774/0/0 - Tunebakken 5 B - endring av VA-anlegg -
-Dokumentnummer | 26/01663-8 | Sak | 1047/175/0/0 - Sarpehaugen - forelegging av planer om
-Dokumentnummer | 25/21554-6 | Sak | Barnehagemappe - Avskjermet | Fra | VARTEIG BARNEHAGE
-Dokumentnummer | 25/08015-5 | Sak | Produksjonstilskudd 2015/2 | Til | SVERRESEN JOHNNY |
-Offentlig journal | Hjelp | Viser 111 - 120 av 115952 dokumenter | Vedtak produksjons- og
-Offentlig journal | Hjelp | Viser 121 - 130 av 115952 dokumenter | Vedtak produksjons- og
-Dokumentnummer | 26/01055-4 | Sak | Produksjonstilskudd 1041/7 | Til | NILS OLE KLAVESTAD
-Dokumentnummer | 25/08075-4 | Sak | Produksjonstilskudd 2044/2 | Til | NILSEN JØRN GUNNAR
-Dokumentnummer | 25/08039-4 | Sak | Produksjonstilskudd 3009/4 | Til | JOHAN ARNT SÆLID |
-Offentlig journal | Hjelp | Viser 131 - 140 av 115952 dokumenter | Vedtak produksjons- og
-Dokumentnummer | 25/08073-4 | Sak | Produksjonstilskudd 1090/3 | Til | IDA-MARIE ØSTEBY |
-Dokumentnummer | 25/08001-4 | Sak | Produksjonstilskudd 1015/1 | Til | ØIVIND GUNNARSTORP
-Dokumentnummer | 25/07967-4 | Sak | Produksjonstilskudd 2072/2 | Til | OLE MATHIS KRUSE |
-Offentlig journal | Hjelp | Viser 141 - 150 av 115952 dokumenter | Vedtak produksjons- og
 Dokumentnummer | 25/06912-4 | Sak | Brannforebygging - 1/1861/0/0 | Til | AC EIENDOM 2 AS
 Dokumentnummer | 25/07942-4 | Sak | Produksjonstilskudd 2044/4 | Til | JØRGEN A. NILSEN |
 Offentlig journal | Hjelp | Viser 151 - 160 av 115952 dokumenter | Vedtak produksjons- og
@@ -314,7 +153,7 @@ Dokumentnummer | 26/06920-1 | Sak | Brannforebygging - 2095/73/44/0 | Til | Just
 Dokumentnummer | 26/06890-1 | Sak | 1/635/0/0 - Sverdrups gate 1 - ikke godkjent kjellerle
 Dokumentnummer | 26/06921-1 | Sak | Brannforebygging - 2095/73/43/0 | Til | Roy Bjarne Joh
 Dokumentnummer | 26/05006-37 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
-Dokumentnummer | 23/24021-95 | Sak | Arrangementer - søknadsskjema | Fra | SÆRP TROPEZ AS 
+Dokumentnummer | 23/24021-95 | Sak | Arrangementer - søknadsskjema | Fra | SÆRP TROPEZ AS
 Dokumentnummer | 26/05006-28 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
 Dokumentnummer | 26/05006-34 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
 Dokumentnummer | 26/05006-29 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
@@ -349,23 +188,23 @@ Dokumentnummer | 26/05006-9 | Sak | Spesialsykepleier/spesialvernepleier/annen r
 Dokumentnummer | 26/05005-12 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
 Dokumentnummer | 26/05005-13 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
 Dokumentnummer | 26/05006-10 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
-Dokumentnummer | 26/05005-9 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05005-9 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
 Dokumentnummer | 26/05006-8 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
 Dokumentnummer | 26/05006-12 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
 Dokumentnummer | 26/05006-11 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant u
 Dokumentnummer | 26/05005-10 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
 Dokumentnummer | 26/05005-11 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
-Dokumentnummer | 26/05005-7 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
-Dokumentnummer | 26/05005-4 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05005-7 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05005-4 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
 Dokumentnummer | 26/05006-6 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
 Dokumentnummer | 26/05006-5 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
 Dokumentnummer | 26/05006-7 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
-Dokumentnummer | 26/05005-8 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05005-8 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
 Dokumentnummer | 26/05006-4 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
-Dokumentnummer | 26/05005-6 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
-Dokumentnummer | 26/05005-5 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
-Dokumentnummer | 26/05005-2 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
-Dokumentnummer | 26/05005-3 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd, 
+Dokumentnummer | 26/05005-6 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05005-5 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05005-2 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
+Dokumentnummer | 26/05005-3 | Sak | Case Manager FACT Ung Kommuneområde helse og velferd,
 Dokumentnummer | 26/05006-2 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
 Dokumentnummer | 26/05006-3 | Sak | Spesialsykepleier/spesialvernepleier/annen relevant ut
 Dokumentnummer | 26/01495-245 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
@@ -383,7 +222,7 @@ Dokumentnummer | 26/01495-235 | Sak | Rådgiver helseteknologi - Systemansvarlig
 Dokumentnummer | 26/01495-241 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
 Dokumentnummer | 26/01495-242 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
 Dokumentnummer | 26/01495-238 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
-Offentlig journal | Hjelp | Viser 91 - 100 av 114942 dokumenter | Avslag, stilling besatt 
+Offentlig journal | Hjelp | Viser 91 - 100 av 114942 dokumenter | Avslag, stilling besatt
 Dokumentnummer | 26/01495-230 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
 Dokumentnummer | 26/01495-227 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
 Dokumentnummer | 26/01495-226 | Sak | Rådgiver helseteknologi - Systemansvarlig EPJ og vel
@@ -460,7 +299,7 @@ Dokumentnummer | 26/00007-85 | Sak | Ordfører - diverse 2026 | Fra | WATVEDT-OL
 Dokumentnummer | 26/04982-105 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 23/24021-94 | Sak | Arrangementer - søknadsskjema | Fra | SARPSBORG KOMMU
 Dokumentnummer | 24/00446-97 | Sak | 22068 Detaljregulering, Yvenåsen | Til | WSP NORGE AS
-Dokumentnummer | 26/00007-92 | Sak | Ordfører - diverse 2026 | Fra | SARPSBORG BONDELAG | 
+Dokumentnummer | 26/00007-92 | Sak | Ordfører - diverse 2026 | Fra | SARPSBORG BONDELAG |
 Dokumentnummer | 26/04982-106 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 26/00007-93 | Sak | Ordfører - diverse 2026 | Fra | DIABETESFORBUNDET NED
 Offentlig journal | Hjelp | Viser 161 - 170 av 114942 dokumenter | Forespørsel om tilleggs
@@ -474,7 +313,7 @@ Dokumentnummer | 26/05466-62 | Sak | Helsefagarbeider Kommuneområde helse og ve
 Dokumentnummer | 26/05466-61 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/05466-60 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 25/13093-60 | Sak | 1/1282/0/0 - Dovregata 2 A og B - riving av eksistere
-Dokumentnummer | 26/01747-60 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/01747-60 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 26/05466-63 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/05466-64 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 25/05566-54 | Sak | 2076/11/0/0 - Gamle Tindlundvei 34 - melding om antat
@@ -484,17 +323,178 @@ Dokumentnummer | 26/05466-57 | Sak | Helsefagarbeider Kommuneområde helse og ve
 Dokumentnummer | 26/05466-53 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/05466-58 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/05466-59 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/01747-59 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/01747-59 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 26/05466-54 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/05466-56 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Dokumentnummer | 26/00008-47 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-47 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
 Dokumentnummer | 26/05466-48 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 23/33447-47 | Sak | Fastlegeavtale - Petter Fossheim Ohnstad | Fra | HELF
 Dokumentnummer | 26/05466-52 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/05466-50 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
-Offentlig journal | Hjelp | Viser 191 - 200 av 114942 dokumenter | Gamle Tindlundvei 34 - 
+Offentlig journal | Hjelp | Viser 191 - 200 av 114942 dokumenter | Gamle Tindlundvei 34 -
 Dokumentnummer | 26/05466-51 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 25/05566-53 | Sak | 2076/11/0/0 - Gamle Tindlundvei 34 - melding om antat
 Dokumentnummer | 26/05466-47 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/05466-49 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
 Dokumentnummer | 26/04385-47 | Sak | Barnehagelærer Kommuneområde oppvekst, Sarpsborg komm
+Dokumentnummer | 25/24790-277 | Sak | Administrasjonskonsulent Team Sarpsborg scene, Sarps
+Dokumentnummer | 25/24790-276 | Sak | Administrasjonskonsulent Team Sarpsborg scene, Sarps
+Dokumentnummer | 25/24790-275 | Sak | Administrasjonskonsulent Team Sarpsborg scene, Sarps
+Dokumentnummer | 23/31760-259 | Sak | 37013 Detaljregulering, Lysås - Ullerøy | Fra | Tove
+Dokumentnummer | 25/24790-278 | Sak | Administrasjonskonsulent Team Sarpsborg scene, Sarps
+Dokumentnummer | 23/31760-260 | Sak | 37013 Detaljregulering, Lysås - Ullerøy | Til | Tove
+Dokumentnummer | 23/24047-184 | Sak | 23058 Detaljregulering, Tunborg | Fra | DARK ARKITEK
+Dokumentnummer | 26/05843-155 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 25/04501-170 | Sak | 202502 Områderegulering, Store datasenter Hasle | Fr
+Dokumentnummer | 26/05843-151 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-153 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-150 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-149 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-148 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-154 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-152 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-147 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-142 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-144 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-143 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-145 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-146 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-138 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-137 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-141 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-139 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-140 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-135 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-136 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-134 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-133 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 23/24048-133 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Fra | 
+Dokumentnummer | 26/05843-132 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 23/43696-133 | Sak | Yvenåsen - detaljregulering for bolig - grunneiendom
+Dokumentnummer | 26/05843-131 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-129 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 23/24006-127 | Sak | 20230002 Detaljregulering, Rosenkrantz gate og nytt 
+Dokumentnummer | 23/43696-132 | Sak | Yvenåsen - detaljregulering for bolig - grunneiendom
+Dokumentnummer | 26/05843-128 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-127 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-130 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-120 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 24/06663-121 | Sak | Vannskade - 2094/155 - Plutoveien 1 - skade / erstat
+Dokumentnummer | 23/43696-125 | Sak | Yvenåsen - detaljregulering for bolig - grunneiendom
+Dokumentnummer | 26/05843-124 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-126 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-121 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-123 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 23/43696-124 | Sak | Yvenåsen - detaljregulering for bolig - grunneiendom
+Dokumentnummer | 26/05843-122 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-125 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-110 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-118 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-114 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-116 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-119 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-111 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-113 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-115 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-112 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-117 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-108 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/04323-107 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/04323-105 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/04323-104 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/05843-106 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-109 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-105 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-104 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/04323-106 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/05843-107 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-102 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/04323-99 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-103 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/04323-100 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/05843-99 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-101 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-100 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/04323-101 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/04323-102 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/04323-103 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/05843-96 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-94 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-98 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 24/00446-99 | Sak | 22068 Detaljregulering, Yvenåsen | Fra | WSP NORGE AS
+Dokumentnummer | 26/04323-98 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-97 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-96 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-97 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-95 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-95 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-90 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 23/24021-93 | Sak | Arrangementer - søknadsskjema | Til / Fra | Internt |
+Dokumentnummer | 26/04323-94 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-92 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-91 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-93 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-90 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-91 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-93 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-92 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-87 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-86 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-87 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-88 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-89 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-89 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 24/19226-88 | Sak | Bypakke Nedre Glomma - møter | Fra | Bypakke Nedre Gl
+Dokumentnummer | 26/05843-86 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-85 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-88 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-84 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-84 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-81 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-82 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-81 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-85 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-80 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-82 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-83 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-83 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-77 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-80 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-77 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-78 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-79 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-76 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 23/34758-76 | Sak | Støyende arbeid - kveld og natt - meldinger | Til | B
+Dokumentnummer | 26/05843-79 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-76 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-78 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-75 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-71 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-75 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-72 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-72 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 25/04344-72 | Sak | Kommunedelplan for folkehelse og forebyggende arbeid 
+Dokumentnummer | 26/04323-73 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-74 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-74 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-73 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-71 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-70 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-67 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-69 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-68 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/05843-66 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-69 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-70 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-67 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-68 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/04323-65 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/05843-65 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/00007-66 | Sak | Ordfører - diverse 2026 | Til | Fredrikstad næringsrå
+Dokumentnummer | 23/45682-66 | Sak | Festeavtale Gatedalen - Sarpsborg kommune | Til | Lin
+Dokumentnummer | 23/34345-65 | Sak | Utarbeidelse av reguleringsplan for gang- og sykkelve
+Dokumentnummer | 26/04323-66 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 26/00007-64 | Sak | Ordfører - diverse 2026 | Til | Geir-Ove Haraldsen | 
+Dokumentnummer | 23/34345-66 | Sak | Utarbeidelse av reguleringsplan for gang- og sykkelve
+Dokumentnummer | 26/05843-64 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
+Dokumentnummer | 26/04323-64 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
