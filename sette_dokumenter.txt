@@ -1,7 +1,3 @@
-Dokumentnummer | 25/06912-4 | Sak | Brannforebygging - 1/1861/0/0 | Til | AC EIENDOM 2 AS
-Dokumentnummer | 25/07942-4 | Sak | Produksjonstilskudd 2044/4 | Til | JØRGEN A. NILSEN |
-Offentlig journal | Hjelp | Viser 151 - 160 av 115952 dokumenter | Vedtak produksjons- og
-Dokumentnummer | 24/01799-4 | Sak | Tobakk - lovgivning og salg | Fra | HELSEDIREKTORATET
 Dokumentnummer | 26/06583-3 | Sak | 3012/10/0/0 - Lundeveien 190 - riving og oppføring av
 Dokumentnummer | 26/01066-3 | Sak | Produksjonstilskudd 1022/80 | Til | JØRGEN HERMAN WIK
 Dokumentnummer | 26/01111-3 | Sak | Produksjonstilskudd 1044/9 | Til | BEATA SENDROWICZ |
@@ -368,12 +364,12 @@ Dokumentnummer | 26/05843-135 | Sak | Arrangementsmedarbeider - sommerjobb Kommu
 Dokumentnummer | 26/05843-136 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
 Dokumentnummer | 26/05843-134 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
 Dokumentnummer | 26/05843-133 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
-Dokumentnummer | 23/24048-133 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Fra | 
+Dokumentnummer | 23/24048-133 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Fra |
 Dokumentnummer | 26/05843-132 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
 Dokumentnummer | 23/43696-133 | Sak | Yvenåsen - detaljregulering for bolig - grunneiendom
 Dokumentnummer | 26/05843-131 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
 Dokumentnummer | 26/05843-129 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
-Dokumentnummer | 23/24006-127 | Sak | 20230002 Detaljregulering, Rosenkrantz gate og nytt 
+Dokumentnummer | 23/24006-127 | Sak | 20230002 Detaljregulering, Rosenkrantz gate og nytt
 Dokumentnummer | 23/43696-132 | Sak | Yvenåsen - detaljregulering for bolig - grunneiendom
 Dokumentnummer | 26/05843-128 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
 Dokumentnummer | 26/05843-127 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
@@ -473,7 +469,7 @@ Dokumentnummer | 26/05843-71 | Sak | Arrangementsmedarbeider - sommerjobb Kommun
 Dokumentnummer | 26/04323-75 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
 Dokumentnummer | 26/05843-72 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
 Dokumentnummer | 26/04323-72 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
-Dokumentnummer | 25/04344-72 | Sak | Kommunedelplan for folkehelse og forebyggende arbeid 
+Dokumentnummer | 25/04344-72 | Sak | Kommunedelplan for folkehelse og forebyggende arbeid
 Dokumentnummer | 26/04323-73 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
 Dokumentnummer | 26/05843-74 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
 Dokumentnummer | 26/04323-74 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
@@ -494,7 +490,11 @@ Dokumentnummer | 26/00007-66 | Sak | Ordfører - diverse 2026 | Til | Fredriksta
 Dokumentnummer | 23/45682-66 | Sak | Festeavtale Gatedalen - Sarpsborg kommune | Til | Lin
 Dokumentnummer | 23/34345-65 | Sak | Utarbeidelse av reguleringsplan for gang- og sykkelve
 Dokumentnummer | 26/04323-66 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
-Dokumentnummer | 26/00007-64 | Sak | Ordfører - diverse 2026 | Til | Geir-Ove Haraldsen | 
+Dokumentnummer | 26/00007-64 | Sak | Ordfører - diverse 2026 | Til | Geir-Ove Haraldsen |
 Dokumentnummer | 23/34345-66 | Sak | Utarbeidelse av reguleringsplan for gang- og sykkelve
 Dokumentnummer | 26/05843-64 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
 Dokumentnummer | 26/04323-64 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 23/24048-133 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Fra | 
+Dokumentnummer | 23/24006-127 | Sak | 20230002 Detaljregulering, Rosenkrantz gate og nytt 
+Dokumentnummer | 25/04344-72 | Sak | Kommunedelplan for folkehelse og forebyggende arbeid 
+Dokumentnummer | 26/00007-64 | Sak | Ordfører - diverse 2026 | Til | Geir-Ove Haraldsen | 
