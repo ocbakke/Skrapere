@@ -1,7 +1,3 @@
-Dokumentnummer | 23/40354-195 | Sak | Kommunedelplan barnehage- og skolekapasitet 2024-203
-Dokumentnummer | 26/02179-152 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sar
-Dokumentnummer | 23/31769-90 | Sak | 26033 Detaljregulering, Tidligere Østfoldmeieriet | F
-Dokumentnummer | 26/01348-75 | Sak | Tilskudd til integreringsarbeid 2026 i regi av frivil
 Dokumentnummer | 26/00008-45 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
 Dokumentnummer | 26/00007-77 | Sak | Ordfører - diverse 2026 | Fra | SMART INNOVATION NORW
 Dokumentnummer | 23/24021-92 | Sak | Arrangementer - søknadsskjema | Fra | OPPLEV EVENT AS
@@ -486,6 +482,10 @@ Dokumentnummer | 26/00007-64 | Sak | Ordfører - diverse 2026 | Til | Geir-Ove H
 Dokumentnummer | 23/34345-66 | Sak | Utarbeidelse av reguleringsplan for gang- og sykkelve
 Dokumentnummer | 26/05843-64 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
 Dokumentnummer | 26/04323-64 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 23/24048-133 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Fra |
+Dokumentnummer | 23/24006-127 | Sak | 20230002 Detaljregulering, Rosenkrantz gate og nytt
+Dokumentnummer | 25/04344-72 | Sak | Kommunedelplan for folkehelse og forebyggende arbeid
+Dokumentnummer | 26/00007-64 | Sak | Ordfører - diverse 2026 | Til | Geir-Ove Haraldsen |
 Dokumentnummer | 23/24048-133 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Fra |
 Dokumentnummer | 23/24006-127 | Sak | 20230002 Detaljregulering, Rosenkrantz gate og nytt
 Dokumentnummer | 25/04344-72 | Sak | Kommunedelplan for folkehelse og forebyggende arbeid
