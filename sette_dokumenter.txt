@@ -1,7 +1,3 @@
-Dokumentnummer | 26/00008-45 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
-Dokumentnummer | 26/00007-77 | Sak | Ordfører - diverse 2026 | Fra | SMART INNOVATION NORW
-Dokumentnummer | 23/24021-92 | Sak | Arrangementer - søknadsskjema | Fra | OPPLEV EVENT AS
-Dokumentnummer | 25/13093-59 | Sak | 1/1282/0/0 - Dovregata 2 A og B - riving av eksistere
 Dokumentnummer | 26/00369-37 | Sak | Nærmiljøtilskudd for østre bydel 2026 | Fra | FARGEFE
 Dokumentnummer | 25/04810-41 | Sak | 2082/58/0/0 - C. J. Pettersens vei 30 - steinras - ut
 Dokumentnummer | 23/24276-38 | Sak | Høk Kro og Motell AS - Høk Kro og Motell - serverings
@@ -482,6 +478,10 @@ Dokumentnummer | 26/00007-64 | Sak | Ordfører - diverse 2026 | Til | Geir-Ove H
 Dokumentnummer | 23/34345-66 | Sak | Utarbeidelse av reguleringsplan for gang- og sykkelve
 Dokumentnummer | 26/05843-64 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde sa
 Dokumentnummer | 26/04323-64 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommunal
+Dokumentnummer | 23/24048-133 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Fra |
+Dokumentnummer | 23/24006-127 | Sak | 20230002 Detaljregulering, Rosenkrantz gate og nytt
+Dokumentnummer | 25/04344-72 | Sak | Kommunedelplan for folkehelse og forebyggende arbeid
+Dokumentnummer | 26/00007-64 | Sak | Ordfører - diverse 2026 | Til | Geir-Ove Haraldsen |
 Dokumentnummer | 23/24048-133 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Fra |
 Dokumentnummer | 23/24006-127 | Sak | 20230002 Detaljregulering, Rosenkrantz gate og nytt
 Dokumentnummer | 25/04344-72 | Sak | Kommunedelplan for folkehelse og forebyggende arbeid
