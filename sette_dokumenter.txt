@@ -1,46 +1,3 @@
-Dokumentnummer | 26/05969-293 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-295 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-302 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-296 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-298 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-287 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-284 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-286 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-285 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-292 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-289 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-291 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-290 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-288 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-283 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Offentlig journal | Hjelp | Viser 171 - 180 av 115566 dokumenter | Søknad og CV - Sommerjo
-Dokumentnummer | 26/05969-278 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-273 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-281 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Offentlig journal | Hjelp | Viser 181 - 190 av 115566 dokumenter | Søknad og CV - Sommerjo
-Dokumentnummer | 26/05969-277 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-279 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-282 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-280 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-275 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-276 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-274 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-266 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-267 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-270 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-264 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-265 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Offentlig journal | Hjelp | Viser 191 - 200 av 115566 dokumenter | Søknad og CV - Sommerjo
-Dokumentnummer | 26/05969-269 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-268 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-263 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-272 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/05969-271 | Sak | Sommerjobb som lekeressurs i barnehage Kommuneområde
-Dokumentnummer | 26/06415-18 | Sak | Lærling - Droneoperatørfaget Sarpsborg kommune - st.
-Dokumentnummer | 26/06415-19 | Sak | Lærling - Droneoperatørfaget Sarpsborg kommune - st.
-Dokumentnummer | 26/06415-17 | Sak | Lærling - Droneoperatørfaget Sarpsborg kommune - st.
-Dokumentnummer | 26/06415-20 | Sak | Lærling - Droneoperatørfaget Sarpsborg kommune - st.
-Dokumentnummer | 26/06415-21 | Sak | Lærling - Droneoperatørfaget Sarpsborg kommune - st.
 Dokumentnummer | 26/06415-15 | Sak | Lærling - Droneoperatørfaget Sarpsborg kommune - st.
 Dokumentnummer | 26/06415-10 | Sak | Lærling - Droneoperatørfaget Sarpsborg kommune - st.
 Dokumentnummer | 26/06415-12 | Sak | Lærling - Droneoperatørfaget Sarpsborg kommune - st.
@@ -354,60 +311,60 @@ Dokumentnummer | 23/31770-189 | Sak | 11104 Områderegulering, Kvartal 400 (Papp
 Dokumentnummer | 23/24047-189 | Sak | 23058 Detaljregulering, Tunborg | Til | DARK ARKITEK
 Dokumentnummer | 23/31770-191 | Sak | 11104 Områderegulering, Kvartal 400 (Pappen) | Fra |
 Dokumentnummer | 26/04982-111 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
-Dokumentnummer | 23/24048-135 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Til | 
+Dokumentnummer | 23/24048-135 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Til |
 Dokumentnummer | 26/04982-112 | Sak | Helgestillinger Livsmestring barn og unge, Sarpsborg
 Dokumentnummer | 23/33647-121 | Sak | Søknad om kreditt ved levering av avfall til Gatedal
-Dokumentnummer | 23/24006-128 | Sak | 20230002 Detaljregulering, Rosenkrantz gate og nytt 
+Dokumentnummer | 23/24006-128 | Sak | 20230002 Detaljregulering, Rosenkrantz gate og nytt
 Dokumentnummer | 26/00007-110 | Sak | Ordfører - diverse 2026 | Fra | ØSTFOLD BYGDEKVINNEL
-Dokumentnummer | 23/24048-134 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Til | 
+Dokumentnummer | 23/24048-134 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Til |
 Dokumentnummer | 26/04395-153 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
-Dokumentnummer | 25/22255-108 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
-Dokumentnummer | 25/22255-104 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
-Dokumentnummer | 25/22255-107 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
-Dokumentnummer | 25/22255-105 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
-Dokumentnummer | 25/22255-110 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
-Dokumentnummer | 25/22255-109 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-108 | Sak | Sykepleier eller vernepleier Kommuneområde helse og
+Dokumentnummer | 25/22255-104 | Sak | Sykepleier eller vernepleier Kommuneområde helse og
+Dokumentnummer | 25/22255-107 | Sak | Sykepleier eller vernepleier Kommuneområde helse og
+Dokumentnummer | 25/22255-105 | Sak | Sykepleier eller vernepleier Kommuneområde helse og
+Dokumentnummer | 25/22255-110 | Sak | Sykepleier eller vernepleier Kommuneområde helse og
+Dokumentnummer | 25/22255-109 | Sak | Sykepleier eller vernepleier Kommuneområde helse og
 Dokumentnummer | 24/00446-103 | Sak | 22068 Detaljregulering, Yvenåsen | Til | WSP NORGE A
-Dokumentnummer | 25/22255-106 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
-Dokumentnummer | 25/22255-103 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-106 | Sak | Sykepleier eller vernepleier Kommuneområde helse og
+Dokumentnummer | 25/22255-103 | Sak | Sykepleier eller vernepleier Kommuneområde helse og
 Dokumentnummer | 24/00446-104 | Sak | 22068 Detaljregulering, Yvenåsen | Til | WSP NORGE A
 Offentlig journal | Hjelp | Viser 31 - 40 av 113917 dokumenter | Innstilling | Dokumentnum
 Offentlig journal | Hjelp | Viser 41 - 50 av 113917 dokumenter | Avslag, stilling besatt -
 Dokumentnummer | 24/00446-102 | Sak | 22068 Detaljregulering, Yvenåsen | Fra | WSP NORGE A
-Dokumentnummer | 25/22255-102 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-102 | Sak | Sykepleier eller vernepleier Kommuneområde helse og
 Dokumentnummer | 25/22255-99 | Sak | Sykepleier eller vernepleier Kommuneområde helse og v
 Dokumentnummer | 25/22255-98 | Sak | Sykepleier eller vernepleier Kommuneområde helse og v
 Dokumentnummer | 23/31769-98 | Sak | 26033 Detaljregulering, Tidligere Østfoldmeieriet | T
 Dokumentnummer | 25/22255-97 | Sak | Sykepleier eller vernepleier Kommuneområde helse og v
 Dokumentnummer | 23/31769-97 | Sak | 26033 Detaljregulering, Tidligere Østfoldmeieriet | T
-Dokumentnummer | 25/22255-101 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
-Dokumentnummer | 25/22255-100 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-101 | Sak | Sykepleier eller vernepleier Kommuneområde helse og
+Dokumentnummer | 25/22255-100 | Sak | Sykepleier eller vernepleier Kommuneområde helse og
 Dokumentnummer | 25/22255-96 | Sak | Sykepleier eller vernepleier Kommuneområde helse og v
 Dokumentnummer | 23/31769-94 | Sak | 26033 Detaljregulering, Tidligere Østfoldmeieriet | F
 Dokumentnummer | 23/31769-96 | Sak | 26033 Detaljregulering, Tidligere Østfoldmeieriet | T
 Dokumentnummer | 23/31769-93 | Sak | 26033 Detaljregulering, Tidligere Østfoldmeieriet | F
 Dokumentnummer | 23/31769-91 | Sak | 26033 Detaljregulering, Tidligere Østfoldmeieriet | F
 Dokumentnummer | 23/31769-95 | Sak | 26033 Detaljregulering, Tidligere Østfoldmeieriet | T
-Dokumentnummer | 26/04370-83 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 26/04370-83 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
 Dokumentnummer | 23/31769-92 | Sak | 26033 Detaljregulering, Tidligere Østfoldmeieriet | F
 Dokumentnummer | 25/22255-95 | Sak | Sykepleier eller vernepleier Kommuneområde helse og v
-Dokumentnummer | 26/00008-52 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
-Dokumentnummer | 26/04370-81 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
-Dokumentnummer | 26/00008-53 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
-Dokumentnummer | 26/04370-80 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 26/00008-52 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
+Dokumentnummer | 26/04370-81 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
+Dokumentnummer | 26/00008-53 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
+Dokumentnummer | 26/04370-80 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
 Dokumentnummer | 23/36243-54 | Sak | 20230001 Detaljregulering, Hovdenveien boligfelt | Fr
-Dokumentnummer | 26/00008-54 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
-Dokumentnummer | 26/04370-82 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 26/00008-54 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
+Dokumentnummer | 26/04370-82 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg
 Dokumentnummer | 23/34175-68 | Sak | Hogstrettigheter 1/5010, 1/5011 og 1/5012 - Maugesten
 Dokumentnummer | 23/36243-55 | Sak | 20230001 Detaljregulering, Hovdenveien boligfelt | Ti
 Dokumentnummer | 25/00164-41 | Sak | 2076/96/0/0 - Høydalsveien 3 og 5 - riving og oppføri
 Dokumentnummer | 23/34175-49 | Sak | Hogstrettigheter 1/5010, 1/5011 og 1/5012 - Maugesten
 Dokumentnummer | 26/00006-40 | Sak | Innsyn - byggesaker - 2026 | Fra | Hivi Elent | Journ
 Dokumentnummer | 23/34175-43 | Sak | Hogstrettigheter 1/5010, 1/5011 og 1/5012 - Maugesten
-Dokumentnummer | 24/25323-46 | Sak | 1048/1/350/0 - Nordberg PS til Gatedalsbekken - vann 
+Dokumentnummer | 24/25323-46 | Sak | 1048/1/350/0 - Nordberg PS til Gatedalsbekken - vann
 Dokumentnummer | 26/05738-39 | Sak | Vernepleier/Sykepleier Virksomhet Livsmestring barn o
 Dokumentnummer | 26/05738-38 | Sak | Vernepleier/Sykepleier Virksomhet Livsmestring barn o
-Dokumentnummer | 26/00008-51 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-51 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
 Dokumentnummer | 26/05738-33 | Sak | Vernepleier/Sykepleier Virksomhet Livsmestring barn o
 Dokumentnummer | 24/03336-33 | Sak | 1/3573/0/0 - Ingen adresse - va-anlegg - Harebakkveie
 Dokumentnummer | 26/05738-37 | Sak | Vernepleier/Sykepleier Virksomhet Livsmestring barn o
@@ -421,7 +378,7 @@ Dokumentnummer | 26/04331-27 | Sak | Sykepleier/Vernepleier Virksomhet hjemmesyk
 Dokumentnummer | 26/05738-28 | Sak | Vernepleier/Sykepleier Virksomhet Livsmestring barn o
 Dokumentnummer | 25/21479-29 | Sak | 2066/575/0/0 - Bråteveien 21 - oppretting av matrikke
 Dokumentnummer | 26/05738-29 | Sak | Vernepleier/Sykepleier Virksomhet Livsmestring barn o
-Dokumentnummer | 24/21951-30 | Sak | 1/2334/0/0 - Alvimveien 52 - utvidelse av anlegg - 3 
+Dokumentnummer | 24/21951-30 | Sak | 1/2334/0/0 - Alvimveien 52 - utvidelse av anlegg - 3
 Dokumentnummer | 26/04331-28 | Sak | Sykepleier/Vernepleier Virksomhet hjemmesykepleien, S
 Dokumentnummer | 26/05738-30 | Sak | Vernepleier/Sykepleier Virksomhet Livsmestring barn o
 Dokumentnummer | 26/05738-32 | Sak | Vernepleier/Sykepleier Virksomhet Livsmestring barn o
@@ -435,35 +392,35 @@ Dokumentnummer | 25/23873-19 | Sak | 3044/13/0/0 - Sikkelandsveien 37 - vA-anleg
 Dokumentnummer | 26/04331-24 | Sak | Sykepleier/Vernepleier Virksomhet hjemmesykepleien, S
 Dokumentnummer | 25/24820-19 | Sak | 2075/89/0/0 - Grålumveien - nytt bygg - Boligformål |
 Dokumentnummer | 26/06036-16 | Sak | Vernepleier Virksomhet Livsmestring 2 bofelleskap, Sa
-Dokumentnummer | 26/06416-18 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-18 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg
 Dokumentnummer | 26/06036-17 | Sak | Vernepleier Virksomhet Livsmestring 2 bofelleskap, Sa
-Dokumentnummer | 26/06416-16 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-16 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg
 Dokumentnummer | 26/05672-17 | Sak | Sykepleier eller vernepleier Kommuneområde helse og v
-Dokumentnummer | 26/06416-17 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-17 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg
 Dokumentnummer | 26/05672-16 | Sak | Sykepleier eller vernepleier Kommuneområde helse og v
-Dokumentnummer | 26/01986-16 | Sak | Sykepleier Demensomsorg Virksomhet hjemmesykepleien, 
+Dokumentnummer | 26/01986-16 | Sak | Sykepleier Demensomsorg Virksomhet hjemmesykepleien,
 Dokumentnummer | 23/43138-15 | Sak | Kompetanse for kvalitet - nasjonal strategi for vider
-Dokumentnummer | 26/06416-14 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-14 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg
 Dokumentnummer | 26/05672-15 | Sak | Sykepleier eller vernepleier Kommuneområde helse og v
 Dokumentnummer | 25/24895-15 | Sak | 1/551/0/0 - Skolegata 52 - bruksendring og innlemming
-Dokumentnummer | 26/01986-15 | Sak | Sykepleier Demensomsorg Virksomhet hjemmesykepleien, 
+Dokumentnummer | 26/01986-15 | Sak | Sykepleier Demensomsorg Virksomhet hjemmesykepleien,
 Dokumentnummer | 25/24281-16 | Sak | 1045/3/3/0 - Nordbergveien 65 - rekvisisjon - endring
-Dokumentnummer | 26/06416-15 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-15 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg
 Dokumentnummer | 23/35557-16 | Sak | Grunnskolens informasjonssystem - GSI | Fra | STATSFO
-Dokumentnummer | 26/06416-13 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
-Dokumentnummer | 26/03135-11 | Sak | Eiendomsskatt 2026 - Avskjermet | Fra | Avskjermet | 
-Dokumentnummer | 26/06416-11 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-13 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg
+Dokumentnummer | 26/03135-11 | Sak | Eiendomsskatt 2026 - Avskjermet | Fra | Avskjermet |
+Dokumentnummer | 26/06416-11 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg
 Dokumentnummer | 25/23268-12 | Sak | 1/2210/0/0 - Vestengveien 24 - bruksendring av kjelle
 Dokumentnummer | 23/33852-13 | Sak | 1050/56/0/0 - Ilebrekkveien 7 - mulig ikke godkjent b
-Dokumentnummer | 26/06416-12 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-12 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg
 Dokumentnummer | 26/02775-9 | Sak | 2062/580/0/0 - Gartnerveien 10 - bruksendring i kjelle
-Dokumentnummer | 25/15228-10 | Sak | 2078/28/0/0 - Gjenveien 7 - nytt bygg - tomannsbolig 
+Dokumentnummer | 25/15228-10 | Sak | 2078/28/0/0 - Gjenveien 7 - nytt bygg - tomannsbolig
 Dokumentnummer | 26/00236-10 | Sak | Kommunedelplan, Mindre endring av kommunedelplan sent
-Dokumentnummer | 26/06416-10 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-10 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg
 Dokumentnummer | 26/06416-9 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg k
 Dokumentnummer | 26/00236-11 | Sak | Kommunedelplan, Mindre endring av kommunedelplan sent
 Dokumentnummer | 23/46462-11 | Sak | Tilskudd til kommunal veterinærvakt 2024 - 2026 | Fra
-Dokumentnummer | 26/06567-8 | Sak | Varsel om kritikkverdige forhold - Avskjermet | Til | 
+Dokumentnummer | 26/06567-8 | Sak | Varsel om kritikkverdige forhold - Avskjermet | Til |
 Dokumentnummer | 25/12201-8 | Sak | 1049/38/0/0 - Myraveien 5 - tilbygg/underbygging til b
 Dokumentnummer | 26/06055-8 | Sak | 2047/140/0/0 - Hovslagerveien 10 - bruksendring fra ti
 Dokumentnummer | 26/06416-7 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg k
@@ -471,14 +428,14 @@ Dokumentnummer | 26/04221-8 | Sak | 2054/3/0/0 - Krumsdalsveien 182 - nytt bygg 
 Dokumentnummer | 25/13500-9 | Sak | 1/382/0/2 - Jernbanegata 10 - bruksendring fra møbelbu
 Dokumentnummer | 26/06416-8 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg k
 Dokumentnummer | 26/06757-7 | Sak | 1/1362/0/0 - St. Marie gate 53 - midlertidig bruksendr
-Dokumentnummer | 24/17502-8 | Sak | 1/852/0/0 - St. Halvards plass 3 - mulig omgjøring av 
+Dokumentnummer | 24/17502-8 | Sak | 1/852/0/0 - St. Halvards plass 3 - mulig omgjøring av
 Dokumentnummer | 26/01315-7 | Sak | 2076/302/0/0 - Myrstadveien 35 - rehabilitering av pip
 Dokumentnummer | 25/00935-7 | Sak | 1044/41/0/0 - Nordbergveien 106 B - godkjenning i ette
-Dokumentnummer | 24/17502-7 | Sak | 1/852/0/0 - St. Halvards plass 3 - mulig omgjøring av 
+Dokumentnummer | 24/17502-7 | Sak | 1/852/0/0 - St. Halvards plass 3 - mulig omgjøring av
 Dokumentnummer | 26/06757-6 | Sak | 1/1362/0/0 - St. Marie gate 53 - midlertidig bruksendr
 Dokumentnummer | 26/05279-7 | Sak | Varsling - uklar lederrolle, manglende dokumentasjon o
 Dokumentnummer | 25/04521-7 | Sak | Søknad om bruk av pyroteknikk på kommunal grunneiendom
-Dokumentnummer | 26/06567-6 | Sak | Varsel om kritikkverdige forhold - Avskjermet | Til | 
+Dokumentnummer | 26/06567-6 | Sak | Varsel om kritikkverdige forhold - Avskjermet | Til |
 Dokumentnummer | 26/06416-6 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg k
 Dokumentnummer | 26/05313-6 | Sak | 1109/96/0/0 - Kringlemyrveien 18 - rehabilitering av s
 Dokumentnummer | 26/01595-5 | Sak | Tilsyn - HMS - muskel- og skjelettplager - Eiendom | F
@@ -494,7 +451,50 @@ Dokumentnummer | 25/05251-5 | Sak | InterCity-prosjektet - Østfoldbanen - Fredr
 Dokumentnummer | 26/07230-4 | Sak | 2075/27/0/0 - Dalveien 23 - underbygging i etterkant -
 Dokumentnummer | 26/06416-4 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg k
 Dokumentnummer | 25/19341-4 | Sak | 1041/116/0/0 - Haugvollveien 21 - nytt bygg - boligfor
-Dokumentnummer | 25/24460-4 | Sak | VA Brevik - etappe 3 - 2087/59 - Sisikveien 1 | Fra | 
-Dokumentnummer | 23/33489-4 | Sak | 1043/12/0/0 - Navestadåsen 16 - mulig ulovlig bruk av 
+Dokumentnummer | 25/24460-4 | Sak | VA Brevik - etappe 3 - 2087/59 - Sisikveien 1 | Fra |
+Dokumentnummer | 23/33489-4 | Sak | 1043/12/0/0 - Navestadåsen 16 - mulig ulovlig bruk av
 Dokumentnummer | 26/00924-4 | Sak | 1/1934/0/0 - Fridtjofs gate 1 - klarlegging av eksiste
 Dokumentnummer | 26/07079-3 | Sak | Tilskudd - Kommunalt forebyggingsprogram for barn og u
+Dokumentnummer | 23/24048-135 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Til | 
+Dokumentnummer | 23/24048-134 | Sak | 24045 Detaljregulering, Fv. 118 Ny Sarpsbru | Til | 
+Dokumentnummer | 23/24006-128 | Sak | 20230002 Detaljregulering, Rosenkrantz gate og nytt 
+Dokumentnummer | 25/22255-107 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-110 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-103 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-108 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-105 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-106 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-109 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-104 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-101 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-102 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 25/22255-100 | Sak | Sykepleier eller vernepleier Kommuneområde helse og 
+Dokumentnummer | 26/04370-83 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 26/00008-53 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-52 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/04370-81 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 26/04370-82 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 26/00008-54 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/04370-80 | Sak | Sommervikar/tilkallingsvikar - Gatedalen miljøanlegg 
+Dokumentnummer | 26/00008-51 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 24/25323-46 | Sak | 1048/1/350/0 - Nordberg PS til Gatedalsbekken - vann 
+Dokumentnummer | 24/21951-30 | Sak | 1/2334/0/0 - Alvimveien 52 - utvidelse av anlegg - 3 
+Dokumentnummer | 26/06416-16 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-17 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-18 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/01986-16 | Sak | Sykepleier Demensomsorg Virksomhet hjemmesykepleien, 
+Dokumentnummer | 26/06416-14 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/01986-15 | Sak | Sykepleier Demensomsorg Virksomhet hjemmesykepleien, 
+Dokumentnummer | 26/06416-15 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-13 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-12 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/03135-11 | Sak | Eiendomsskatt 2026 - Avskjermet | Fra | Avskjermet | 
+Dokumentnummer | 26/06416-11 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 26/06416-10 | Sak | Avdelingsleder Virksomhet hjemmetjenesten, Sarpsborg 
+Dokumentnummer | 25/15228-10 | Sak | 2078/28/0/0 - Gjenveien 7 - nytt bygg - tomannsbolig 
+Dokumentnummer | 26/06567-8 | Sak | Varsel om kritikkverdige forhold - Avskjermet | Til | 
+Dokumentnummer | 24/17502-8 | Sak | 1/852/0/0 - St. Halvards plass 3 - mulig omgjøring av 
+Dokumentnummer | 26/06567-6 | Sak | Varsel om kritikkverdige forhold - Avskjermet | Til | 
+Dokumentnummer | 24/17502-7 | Sak | 1/852/0/0 - St. Halvards plass 3 - mulig omgjøring av 
+Dokumentnummer | 25/24460-4 | Sak | VA Brevik - etappe 3 - 2087/59 - Sisikveien 1 | Fra | 
+Dokumentnummer | 23/33489-4 | Sak | 1043/12/0/0 - Navestadåsen 16 - mulig ulovlig bruk av 
