@@ -1,37 +1,3 @@
-Dokumentnummer | 26/06481-115 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-108 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-112 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-106 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-98 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-104 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-101 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-100 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-107 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-102 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-105 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-103 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-99 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-90 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-94 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-89 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-97 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-91 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-92 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-93 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-96 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-88 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-95 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-87 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-86 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-82 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-78 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-84 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-80 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-79 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-85 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Offentlig journal | Hjelp | Viser 111 - 120 av 115262 dokumenter | Søknad og CV - Fagarbei
-Dokumentnummer | 26/06481-81 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/06481-83 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
 Dokumentnummer | 26/06481-73 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
 Dokumentnummer | 26/06481-68 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
 Dokumentnummer | 26/06481-70 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
@@ -464,35 +430,69 @@ Dokumentnummer | 26/07106-4 | Sak | Makebytte - 2082/89 og 2082/260 - Yvenveien 
 Dokumentnummer | 26/06816-4 | Sak | Sykepleier/vernepleier demensomsorg Virksomhet hjemmes
 Dokumentnummer | 26/07827-4 | Sak | 2082/39/0/0 - C. J. Pettersens vei 36 - endring fra en
 Dokumentnummer | 26/06814-4 | Sak | Sykepleier korttid Virksomhet hjemmesykepleien, Sarpsb
-Dokumentnummer | 26/00008-59 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
-Dokumentnummer | 26/00008-60 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
-Dokumentnummer | 26/01747-64 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/00008-59 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
+Dokumentnummer | 26/00008-60 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
+Dokumentnummer | 26/01747-64 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/00008-58 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
+Dokumentnummer | 26/00006-48 | Sak | Innsyn - byggesaker - 2026 | Fra | ÅSLY BORETTSLAG |
+Dokumentnummer | 26/07024-43 | Sak | Barnehageopptak 2026 | Fra | FJELLDAL BARNEHAGE AS |
+Dokumentnummer | 26/07024-44 | Sak | Barnehageopptak 2026 | Fra | FJELLDAL BARNEHAGE AS |
+Dokumentnummer | 24/07750-28 | Sak | 1125/3/0/0 - Gaulinveien 192 - fjerning av brygger -
+Dokumentnummer | 26/06482-23 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/06482-24 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/07024-26 | Sak | Barnehageopptak 2026 | Fra | NYGÅRDSHAUGEN BARNEHAGE
+Dokumentnummer | 26/06482-25 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/06482-19 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/06482-21 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/06482-18 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/05718-19 | Sak | Pensjon private barnehager 2026 | Fra | PBL (PRIVATE
+Dokumentnummer | 26/06482-22 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/06482-20 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/05718-18 | Sak | Pensjon private barnehager 2026 | Fra | PBL (PRIVATE
+Dokumentnummer | 26/06482-17 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/06482-15 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/06482-14 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 25/02713-14 | Sak | 2063/59/0/0 - Gamle Torvvei 19 - tilbygg til bolig -
+Dokumentnummer | 26/06482-16 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/06482-12 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/06482-13 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/06482-11 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/06482-10 | Sak | Helgestillinger ved legevakta Kommuneområde helse og
+Dokumentnummer | 26/02022-10 | Sak | Årsregnskap 2025 | Fra | ØSTRE VIKEN KOMMUNEREVISJON
+Dokumentnummer | 25/15048-8 | Sak | Grunnerverv - gang- og sykkelvei mellom Hagebyveien -
+Dokumentnummer | 26/06583-7 | Sak | 3012/10/0/0 - Lundeveien 190 - riving og oppføring av
+Dokumentnummer | 26/07144-6 | Sak | 1051/740/0/0 - Kløvingsten - nytt bygg - over 70 m2 -
+Dokumentnummer | 25/15048-6 | Sak | Grunnerverv - gang- og sykkelvei mellom Hagebyveien -
+Dokumentnummer | 26/02620-5 | Sak | Eiendomsskatt 2026 - Klager næring | Fra | Avskjermet
 Dokumentnummer | 26/00008-58 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/01747-64 | Sak | Avdelingsleder Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/00008-60 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-59 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
 Dokumentnummer | 26/00006-48 | Sak | Innsyn - byggesaker - 2026 | Fra | ÅSLY BORETTSLAG | 
 Dokumentnummer | 26/07024-43 | Sak | Barnehageopptak 2026 | Fra | FJELLDAL BARNEHAGE AS | 
 Dokumentnummer | 26/07024-44 | Sak | Barnehageopptak 2026 | Fra | FJELLDAL BARNEHAGE AS | 
 Dokumentnummer | 24/07750-28 | Sak | 1125/3/0/0 - Gaulinveien 192 - fjerning av brygger - 
-Dokumentnummer | 26/06482-23 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
 Dokumentnummer | 26/06482-24 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
-Dokumentnummer | 26/07024-26 | Sak | Barnehageopptak 2026 | Fra | NYGÅRDSHAUGEN BARNEHAGE 
+Dokumentnummer | 26/06482-23 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
 Dokumentnummer | 26/06482-25 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
-Dokumentnummer | 26/06482-19 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
-Dokumentnummer | 26/06482-21 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
-Dokumentnummer | 26/06482-18 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
-Dokumentnummer | 26/05718-19 | Sak | Pensjon private barnehager 2026 | Fra | PBL (PRIVATE 
-Dokumentnummer | 26/06482-22 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
+Dokumentnummer | 26/07024-26 | Sak | Barnehageopptak 2026 | Fra | NYGÅRDSHAUGEN BARNEHAGE 
 Dokumentnummer | 26/06482-20 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
-Dokumentnummer | 26/05718-18 | Sak | Pensjon private barnehager 2026 | Fra | PBL (PRIVATE 
+Dokumentnummer | 26/06482-18 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
+Dokumentnummer | 26/06482-21 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
+Dokumentnummer | 26/06482-22 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
+Dokumentnummer | 26/06482-19 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
+Dokumentnummer | 26/05718-19 | Sak | Pensjon private barnehager 2026 | Fra | PBL (PRIVATE 
 Dokumentnummer | 26/06482-17 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
+Dokumentnummer | 26/05718-18 | Sak | Pensjon private barnehager 2026 | Fra | PBL (PRIVATE 
 Dokumentnummer | 26/06482-15 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
 Dokumentnummer | 26/06482-14 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
 Dokumentnummer | 25/02713-14 | Sak | 2063/59/0/0 - Gamle Torvvei 19 - tilbygg til bolig - 
 Dokumentnummer | 26/06482-16 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
-Dokumentnummer | 26/06482-12 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
 Dokumentnummer | 26/06482-13 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
+Dokumentnummer | 26/06482-12 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
 Dokumentnummer | 26/06482-11 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
-Dokumentnummer | 26/06482-10 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
 Dokumentnummer | 26/02022-10 | Sak | Årsregnskap 2025 | Fra | ØSTRE VIKEN KOMMUNEREVISJON 
+Dokumentnummer | 26/06482-10 | Sak | Helgestillinger ved legevakta Kommuneområde helse og 
 Dokumentnummer | 25/15048-8 | Sak | Grunnerverv - gang- og sykkelvei mellom Hagebyveien - 
 Dokumentnummer | 26/06583-7 | Sak | 3012/10/0/0 - Lundeveien 190 - riving og oppføring av 
 Dokumentnummer | 26/07144-6 | Sak | 1051/740/0/0 - Kløvingsten - nytt bygg - over 70 m2 - 
