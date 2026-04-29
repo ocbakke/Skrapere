@@ -1,119 +1,3 @@
-Dokumentnummer | 26/07122-33 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsbo
-Dokumentnummer | 26/07216-33 | Sak | Helsefagarbeider ressursteam Virksomhet hjemmesykeple
-Dokumentnummer | 26/07216-32 | Sak | Helsefagarbeider ressursteam Virksomhet hjemmesykeple
-Dokumentnummer | 26/07122-31 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsbo
-Dokumentnummer | 26/07122-32 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsbo
-Dokumentnummer | 26/06317-34 | Sak | Pedagogisk leder Kommuneområde oppvekst, Sarpsborg ko
-Dokumentnummer | 26/06317-33 | Sak | Pedagogisk leder Kommuneområde oppvekst, Sarpsborg ko
-Dokumentnummer | 26/06479-31 | Sak | Sykepleier ved fengselshelsetjenesten - Ravneberget f
-Dokumentnummer | 26/06479-30 | Sak | Sykepleier ved fengselshelsetjenesten - Ravneberget f
-Dokumentnummer | 25/22834-30 | Sak | Pedagogisk leder Kommuneområde oppvekst, Sarpsborg ko
-Dokumentnummer | 25/09818-31 | Sak | 2045/5/0/0 - Kalnesbrekka 2 - nytt bygg - over 70 m2
-Dokumentnummer | 26/07024-31 | Sak | Barnehageopptak 2026 | Til | Avskjermet | Journaldato
-Dokumentnummer | 23/43881-31 | Sak | Henvendelser til kommunedirektør | Fra | KS-KOMMUNESE
-Dokumentnummer | 26/07122-30 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsbo
-Dokumentnummer | 26/07216-30 | Sak | Helsefagarbeider ressursteam Virksomhet hjemmesykeple
-Dokumentnummer | 25/22834-31 | Sak | Pedagogisk leder Kommuneområde oppvekst, Sarpsborg ko
-Dokumentnummer | 26/07216-29 | Sak | Helsefagarbeider ressursteam Virksomhet hjemmesykeple
-Dokumentnummer | 24/05750-195 | Sak | 22086 Områderegulering, Grålum | Til | Asplan Viak,
-Dokumentnummer | 25/04501-173 | Sak | 202502 Områderegulering, Store datasenter Hasle | Fr
-Dokumentnummer | 26/06472-76 | Sak | Helgestillinger Virksomhet Livsmestring 2 bofellesska
-Dokumentnummer | 26/04323-123 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/06472-79 | Sak | Helgestillinger Virksomhet Livsmestring 2 bofellesska
-Dokumentnummer | 26/04323-122 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/06472-77 | Sak | Helgestillinger Virksomhet Livsmestring 2 bofellesska
-Dokumentnummer | 26/02654-73 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/06472-78 | Sak | Helgestillinger Virksomhet Livsmestring 2 bofellesska
-Dokumentnummer | 26/02654-69 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-66 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-71 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-68 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-67 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/00008-67 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
-Dokumentnummer | 26/02654-72 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-70 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 24/03395-69 | Sak | Hjemmekompostering - avtale - oppsigelse | Til | Mark
-Dokumentnummer | 24/03395-70 | Sak | Hjemmekompostering - avtale - oppsigelse | Fra | LINN
-Dokumentnummer | 26/02654-60 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-62 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 23/36243-61 | Sak | 20230001 Detaljregulering, Hovdenveien boligfelt | Ti
-Dokumentnummer | 26/02654-59 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-64 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-65 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 25/13093-66 | Sak | 1/1282/0/0 - Dovregata 2 A og B - riving av eksistere
-Dokumentnummer | 26/02654-63 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-61 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-56 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-58 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-54 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/02654-55 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 26/01474-54 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Ramu
-Dokumentnummer | 26/02654-57 | Sak | Sesongarbeidere - Virksomhet kommunalteknikk, parkavd
-Dokumentnummer | 25/16559-49 | Sak | Opphevelse, 9 eldre reguleringsplaner og 16 bebyggels
-Dokumentnummer | 23/24051-48 | Sak | Prøvebevis serveringsloven - etablererprøven | Til |
-Dokumentnummer | 25/16559-50 | Sak | Opphevelse, 9 eldre reguleringsplaner og 16 bebyggels
-Dokumentnummer | 23/24051-49 | Sak | Prøvebevis serveringsloven - etablererprøven | Til |
-Dokumentnummer | 25/16559-51 | Sak | Opphevelse, 9 eldre reguleringsplaner og 16 bebyggels
-Dokumentnummer | 26/01474-53 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Mali
-Dokumentnummer | 23/31790-35 | Sak | Helseerklæringer - røykdykkere - kjemikaliedykkere |
-Dokumentnummer | 24/16667-25 | Sak | 1112/1/93/0 - Seilerbakken 11 - riving av eksisterend
-Dokumentnummer | 25/11503-26 | Sak | Forurensning - Øra industriområde i Fredrikstad | Fra
-Dokumentnummer | 26/05718-24 | Sak | Pensjon private barnehager 2026 | Til | PBL (PRIVATE
-Dokumentnummer | 26/05718-21 | Sak | Pensjon private barnehager 2026 | Til | PBL (PRIVATE
-Dokumentnummer | 26/05255-20 | Sak | 1/2278/0/0 - Buvikveien 4, 6, 8, 10, 12, 3 ABC, 5 AC
-Dokumentnummer | 26/03924-20 | Sak | 1/2429/0/0 - Alvimveien 59 - plassering av midlertidi
-Dokumentnummer | 25/20952-23 | Sak | 1112/1/0/0 - Løkkevikveien 246, 364 - endring av anle
-Dokumentnummer | 26/05718-22 | Sak | Pensjon private barnehager 2026 | Til | PBL (PRIVATE
-Dokumentnummer | 25/20135-17 | Sak | 1133/5/0/0 - Bukkenes 40 - bruksendring fritidsbolig,
-Dokumentnummer | 25/24063-16 | Sak | Lokalisering av anlegg for norsk atomavfall | Til | N
-Dokumentnummer | 26/05710-16 | Sak | 2075/318/0/0 - Vetabekkveien 26 - påbygg og etablerin
-Dokumentnummer | 25/20135-15 | Sak | 1133/5/0/0 - Bukkenes 40 - bruksendring fritidsbolig,
-Dokumentnummer | 23/33442-15 | Sak | Fastlegeavtale - Malin Victoria Nylende | Til | Malin
-Dokumentnummer | 25/19867-15 | Sak | 201701 Kommuneplanens arealdel, Mindre endring - Komm
-Dokumentnummer | 24/22112-16 | Sak | 3041/20 - Kanalveien 1 - Vanninntrenging | Til | RECO
-Dokumentnummer | 25/20771-13 | Sak | 1/3826/0/0 - Nils Pedersens vei 6 - bruksendring fra
-Dokumentnummer | 26/06461-10 | Sak | Ov Handel AS - Salgsbevilling - Joker Sarpsborg | Til
-Dokumentnummer | 26/06315-11 | Sak | 1/3000/0/0 - Hjalmar Wessels vei 10 - fundament for s
-Dokumentnummer | 26/03943-9 | Sak | 1/1047/0/0 - Astrids gate 35 m.fl - nytt bygg - blande
-Dokumentnummer | 24/04343-11 | Sak | 1040/78 - Pålegg - separering spill- og overvann - BA
-Dokumentnummer | 26/01976-9 | Sak | 1/219/0/0 - St. Marie gate 41 - endring av bygg - utve
-Dokumentnummer | 26/04221-9 | Sak | 2054/3/0/0 - Krumsdalsveien 182 - nytt bygg - Boligfor
-Dokumentnummer | 25/00935-9 | Sak | 1044/41/0/0 - Nordbergveien 106 B - godkjenning i ette
-Dokumentnummer | 25/24024-8 | Sak | Klage på ansatt i helse og velferd - Avskjermet | Til
-Dokumentnummer | 25/24771-8 | Sak | 1048/15/0/0 - Stenholts vei 15 A - etablering av 2 nye
-Dokumentnummer | 25/08223-8 | Sak | Vedtak etter vannmåleroppgjøret 2024 - Kalnesveien 5 -
-Dokumentnummer | 25/18053-8 | Sak | 1/1569/0/0 - Astrids gate 23 - ikke godkjent bruksendr
-Dokumentnummer | 25/18569-7 | Sak | Kommunal vielse - Avskjermet | Til | SKATTEETATEN | Jo
-Dokumentnummer | 25/22595-8 | Sak | 5650 Sparta Amfi - Ungdomshallen - Forespørsel fra Sar
-Dokumentnummer | 25/03513-6 | Sak | 1112/1/93/0 - Seilerbakken 11 - endring av anlegg | Ti
-Dokumentnummer | 26/06818-6 | Sak | Innsyn i opplysninger fra skole - Avskjermet | Til | A
-Dokumentnummer | 26/07467-6 | Sak | 2096/11/0/0 - Vestbyveien 16 - riving av hele bygg | T
-Dokumentnummer | 23/31824-6 | Sak | Kjøletårn og- eller luftskrubbere – melding | Fra | HA
-Dokumentnummer | 26/05207-5 | Sak | Registering - personer med psykisk utviklingshemming i
-Dokumentnummer | 26/07227-5 | Sak | 1003/11/0/0 - Kvastebyveien 252 - garasje - under 70 m
-Dokumentnummer | 26/08362-5 | Sak | 2066/621/0/0 - Knattås BKS 1 - oppføring av lekeplass
-Dokumentnummer | 24/07686-5 | Sak | Ørebekk / Aaserød - veivedlikehold | Fra | ØREBEKK SA
-Dokumentnummer | 26/03993-5 | Sak | 1132/1/75/0 - Dusaveien 100 - endring av bygg - utvend
-Dokumentnummer | 26/04607-5 | Sak | 1/1934 - Torget - isbar | Fra | SARPSBORG KOMMUNE | Jo
-Dokumentnummer | 24/05750-195 | Sak | 22086 Områderegulering, Grålum | Til | Asplan Viak,
-Dokumentnummer | 26/00008-67 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
-Dokumentnummer | 23/24051-48 | Sak | Prøvebevis serveringsloven - etablererprøven | Til |
-Dokumentnummer | 23/24051-49 | Sak | Prøvebevis serveringsloven - etablererprøven | Til |
-Dokumentnummer | 23/31790-35 | Sak | Helseerklæringer - røykdykkere - kjemikaliedykkere |
-Dokumentnummer | 26/05718-24 | Sak | Pensjon private barnehager 2026 | Til | PBL (PRIVATE
-Dokumentnummer | 26/05255-20 | Sak | 1/2278/0/0 - Buvikveien 4, 6, 8, 10, 12, 3 ABC, 5 AC
-Dokumentnummer | 26/05718-22 | Sak | Pensjon private barnehager 2026 | Til | PBL (PRIVATE
-Dokumentnummer | 26/05718-21 | Sak | Pensjon private barnehager 2026 | Til | PBL (PRIVATE
-Dokumentnummer | 25/20771-13 | Sak | 1/3826/0/0 - Nils Pedersens vei 6 - bruksendring fra
-Dokumentnummer | 25/24024-8 | Sak | Klage på ansatt i helse og velferd - Avskjermet | Til
-Dokumentnummer | 26/08362-5 | Sak | 2066/621/0/0 - Knattås BKS 1 - oppføring av lekeplass
-Dokumentnummer | 24/07686-5 | Sak | Ørebekk / Aaserød - veivedlikehold | Fra | ØREBEKK SA
-Dokumentnummer | 24/05750-195 | Sak | 22086 Områderegulering, Grålum | Til | Asplan Viak,
-Dokumentnummer | 26/00008-67 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
-Dokumentnummer | 23/24051-49 | Sak | Prøvebevis serveringsloven - etablererprøven | Til |
-Dokumentnummer | 23/24051-48 | Sak | Prøvebevis serveringsloven - etablererprøven | Til |
-Dokumentnummer | 23/31790-35 | Sak | Helseerklæringer - røykdykkere - kjemikaliedykkere |
-Dokumentnummer | 26/05718-24 | Sak | Pensjon private barnehager 2026 | Til | PBL (PRIVATE
 Dokumentnummer | 26/05718-22 | Sak | Pensjon private barnehager 2026 | Til | PBL (PRIVATE
 Dokumentnummer | 26/05718-21 | Sak | Pensjon private barnehager 2026 | Til | PBL (PRIVATE
 Dokumentnummer | 26/05255-20 | Sak | 1/2278/0/0 - Buvikveien 4, 6, 8, 10, 12, 3 ABC, 5 AC
@@ -498,3 +382,119 @@ Dokumentnummer | 26/04369-40 | Sak | Fast stilling sykepleier natt Haugvoll syke
 Dokumentnummer | 26/01746-38 | Sak | Sykepleierstudenter - Virksomhet Helsehuset Sarpsborg
 Dokumentnummer | 26/04369-39 | Sak | Fast stilling sykepleier natt Haugvoll sykehjem Kommu
 Dokumentnummer | 26/01746-37 | Sak | Sykepleierstudenter - Virksomhet Helsehuset Sarpsborg
+Dokumentnummer | 26/07677-618 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
+Dokumentnummer | 26/07677-619 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
+Dokumentnummer | 26/07677-623 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
+Dokumentnummer | 26/07677-624 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
+Dokumentnummer | 26/07677-626 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
+Dokumentnummer | 26/07677-620 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
+Dokumentnummer | 26/07677-622 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
+Dokumentnummer | 26/07677-625 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
+Dokumentnummer | 26/07677-621 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
+Dokumentnummer | 23/32922-160 | Sak | Avviksbehandling - Sykehuset Østfold - Samhandlingsu
+Dokumentnummer | 26/07122-146 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsb
+Dokumentnummer | 26/05103-297 | Sak | Miljøterapeut Livsmestring barn og unge, Sarpsborg k
+Dokumentnummer | 23/24047-191 | Sak | 23058 Detaljregulering, Tunborg | Fra | DARK ARKITEK
+Dokumentnummer | 26/07122-145 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsb
+Dokumentnummer | 26/07122-144 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsb
+Dokumentnummer | 24/00446-110 | Sak | 22068 Detaljregulering, Yvenåsen | Fra | WSP NORGE A
+Dokumentnummer | 26/04323-124 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/04323-125 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 24/00446-109 | Sak | 22068 Detaljregulering, Yvenåsen | Fra | WSP NORGE A
+Dokumentnummer | 26/04323-126 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/00008-70 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 23/43829-80 | Sak | Kontrollutvalget og Kontrollutvalgssekretariatet - Øs
+Dokumentnummer | 26/00007-128 | Sak | Ordfører - diverse 2026 | Fra | ØST POLITIDISTRIKT |
+Dokumentnummer | 26/01474-62 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Isma
+Dokumentnummer | 26/05466-68 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05463-60 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05466-67 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05466-69 | Sak | Helsefagarbeider Kommuneområde helse og velferd, Sarp
+Dokumentnummer | 26/05463-62 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-63 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-59 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-61 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 25/13093-68 | Sak | 1/1282/0/0 - Dovregata 2 A og B - riving av eksistere
+Dokumentnummer | 26/05463-57 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-54 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-56 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 23/41408-57 | Sak | Legater 2023-2027 | Fra | Avskjermet | Journaldato | 
+Dokumentnummer | 26/05463-53 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-58 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-55 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/00006-53 | Sak | Innsyn - byggesaker - 2026 | Fra | Mario Blaževic | J
+Dokumentnummer | 26/05463-47 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-52 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-48 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-49 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-46 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-50 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/00006-52 | Sak | Innsyn - byggesaker - 2026 | Fra | Karoline Waglen Si
+Dokumentnummer | 26/00006-51 | Sak | Innsyn - byggesaker - 2026 | Fra | Shahid Nadeem | Jo
+Dokumentnummer | 26/05463-51 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-45 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/05463-44 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 24/03221-33 | Sak | 37010 Detaljregulering, Bukkenes | Til | SARPSBORG KO
+Dokumentnummer | 26/05463-43 | Sak | Driftsingeniør vei- og grøntanlegg Kommuneområde tekn
+Dokumentnummer | 26/06024-32 | Sak | Bosetting / tilflytting - private henvendelser - 2026
+Dokumentnummer | 23/31631-38 | Sak | Overordnet samarbeidsavtale mellom Sykehuset Østfold 
+Dokumentnummer | 24/16390-30 | Sak | 1/25/0/0 - Olav Haraldssons gate 37 G - riving og opp
+Dokumentnummer | 25/09837-20 | Sak | Ny permanent utslippstillatelse for Alvim renseanlegg
+Dokumentnummer | 24/12432-23 | Sak | 1051/396/0/0 - Skjebergveien 96 - bruksendring - etab
+Dokumentnummer | 25/14904-21 | Sak | 1/36/0/0 - Glengsgata 21 - bruksendring, fasadeendrin
+Dokumentnummer | 25/20135-20 | Sak | 1133/5/0/0 - Bukkenes 40 - bruksendring fritidsbolig,
+Dokumentnummer | 23/32231-23 | Sak | 1048/62/0/0 - Nordbergveien 33 - mulig ikke godkjent 
+Dokumentnummer | 25/16845-24 | Sak | 1048/449/0/0 - Melandveien 16 - garasje | Fra | Veton
+Dokumentnummer | 25/19810-20 | Sak | 2035/4/0/0 - Gamle Kongevei 625 - riving av eksistern
+Dokumentnummer | 23/35932-25 | Sak | Etablering av vann og avløpsledninger - Alvim rensean
+Dokumentnummer | 24/03353-18 | Sak | Tilskudd til inkludering av barn og unge 2022 | Fra |
+Dokumentnummer | 24/04633-17 | Sak | Norske kjernekraftkommuner | Fra | SAMFUNNSBEDRIFTENE
+Dokumentnummer | 26/03837-15 | Sak | 2062/330/0/0 - Madam Arnesens vei 30 - klarlegging av
+Dokumentnummer | 24/09639-13 | Sak | Østre Viken kommunerevisjon IKS - representantskapsmø
+Dokumentnummer | 24/18848-15 | Sak | Høring - Handlingsprogram samferdsel 2026-2029 | Fra 
+Dokumentnummer | 25/21649-13 | Sak | 1/3228/0/0 - Opsundveien 82 A - bruksendring fra till
+Dokumentnummer | 24/11942-13 | Sak | Nipa - Brusemyr KP 453 | Fra | STEP SOLUTIONS AS | Jo
+Dokumentnummer | 26/03837-14 | Sak | 2062/330/0/0 - Madam Arnesens vei 30 - klarlegging av
+Dokumentnummer | 25/18053-11 | Sak | 1/1569/0/0 - Astrids gate 23 - ikke godkjent bruksend
+Dokumentnummer | 25/21244-10 | Sak | 1132/1/34/0 - Dusebukta 24 - riving og oppføring av n
+Dokumentnummer | 25/21542-9 | Sak | 2063/1/315/0 - Prost Krogs vei 15 - bruksendring fra t
+Dokumentnummer | 24/20176-8 | Sak | 2073/487/0/0 - Gamle Kongevei 75 B - tilbygg - endring
+Dokumentnummer | 24/07240-8 | Sak | Grunnboken er rettet - samlesak for meldinger fra Kart
+Dokumentnummer | 26/08770-6 | Sak | 1046/122/0/0 - Skytterbråtveien 13 - bruksendring fra 
+Dokumentnummer | 26/08471-5 | Sak | 1/4071/0/0 - Storeperveien 2 - bruksendring fra tilleg
+Dokumentnummer | 26/06762-6 | Sak | 1039/106/0/0 - Bjerkholts vei 23 - riving, oppføring a
+Dokumentnummer | 26/04607-6 | Sak | 1/1934 - Torget - isbar | Fra | ARBEIDSTILSYNET (Datte
+Dokumentnummer | 26/08833-5 | Sak | 2034/127/0/0 - Stikkaveien 20 - bruksendring og fasade
+Dokumentnummer | 26/08770-5 | Sak | 1046/122/0/0 - Skytterbråtveien 13 - bruksendring fra 
+Dokumentnummer | 26/07202-5 | Sak | 2073/541/0/0 - Festningsveien 13 - tilbygg | Til | Mar
+Dokumentnummer | 26/08027-5 | Sak | 2074/43/0/0 - Klevaveien 12 - tilbygg og påbygg til bo
+Dokumentnummer | 25/07080-5 | Sak | 2047/294/0/0 - Gudbrands vei 19 - tilbygg til bolig | 
+Dokumentnummer | 26/04419-5 | Sak | 1/1775 - JACOB HILDITCH' GATE 2 - Pålegg - utbedring a
+Dokumentnummer | 26/08773-4 | Sak | 1041/12/0/0 - Skjebergveien 150 A - riving og oppførin
+Dokumentnummer | 26/08807-4 | Sak | 2065/100/0/0 - Rådmann Siras vei 2 - fasadeskilt | Til
+Dokumentnummer | 26/08887-4 | Sak | 1112/1/23/0 - Seilerbakken 30 - rive anneks og oppføri
+Dokumentnummer | 26/08810-4 | Sak | 1134/3/69 - Vassnestangen 51 - Søknad om ny tilknytnin
+Dokumentnummer | 26/07313-4 | Sak | Anmodning om anmeldelse - Avskjermet | Fra | ØST POLIT
+Dokumentnummer | 24/05614-5 | Sak | Kruses gate 11 B - H0101 - 1/1629 - brannsyn | Fra | S
+Dokumentnummer | 26/08799-4 | Sak | 2087/88/0/0 - Hundskinnveien 1 - bygningstekniske inst
+Dokumentnummer | 26/06215-4 | Sak | 2076/513 - OLAF EIDSÆTHERS VEI 25A - Pålegg - utbedrin
+Dokumentnummer | 25/09313-4 | Sak | Overtallighet - Avskjermet | Til | Avskjermet | Journa
+Dokumentnummer | 24/12929-4 | Sak | Brannforebygging - 2063/1/196/0 | Til | Henrik Jørgens
+Dokumentnummer | 26/07004-4 | Sak | Coop Øst SA - Salgsbevilling - Extra Alvim | Fra | ØST
+Dokumentnummer | 26/06211-4 | Sak | 2063/71 - GAMLE TORVVEI 20 - Pålegg - utbedring av van
+Dokumentnummer | 24/19846-4 | Sak | Brannforebygging - 1/3073/0/0 | Til | Sead Dzinic | Jo
+Dokumentnummer | 25/06861-4 | Sak | Vedtak etter helse- og omsorgstjenesteloven kapittel 9
+Dokumentnummer | 26/08914-3 | Sak | Documaster - migrering av Visma sikker / generell sak 
+Dokumentnummer | 26/08974-3 | Sak | Documaster - integrasjon med Rayvn - krisehåndteringsv
+Dokumentnummer | 26/08823-3 | Sak | 2062/186/0/0 - Kristian Wilhelmsens vei 20 - bruksendr
+Dokumentnummer | 26/08810-3 | Sak | 1134/3/69 - Vassnestangen 51 - Søknad om ny tilknytnin
+Dokumentnummer | 26/08722-3 | Sak | 1/3000/0/0 - Hjalmar Wessels vei 10 - nytt anlegg/kons
+Dokumentnummer | 25/09646-3 | Sak | Viktig informasjon om vannmåleroppgjør og provisorisk 
+Dokumentnummer | 26/06211-3 | Sak | 2063/71 - GAMLE TORVVEI 20 - Pålegg - utbedring av van
+Dokumentnummer | 26/01404-3 | Sak | Sykepleier Virksomhet hjemmesykepleien, Sarpsborg komm
+Dokumentnummer | 25/09313-3 | Sak | Overtallighet - Avskjermet | Fra | Avskjermet | Journa
+Dokumentnummer | 24/12957-3 | Sak | Brannforebygging - 2073/252/0/0 | Til | Anne Marie Nil
+Dokumentnummer | 24/19830-3 | Sak | Brannforebygging - 1/3073/0/0 | Til | Sead Dzinic | Jo
+Dokumentnummer | 26/08974-2 | Sak | Documaster - integrasjon med Rayvn - krisehåndteringsv
+Dokumentnummer | 26/08914-2 | Sak | Documaster - migrering av Visma sikker / generell sak 
+Dokumentnummer | 26/09026-2 | Sak | Innsyn - alle saksdokumenter for avkjøringstillatelse 
