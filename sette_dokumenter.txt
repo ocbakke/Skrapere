@@ -1,29 +1,3 @@
-Dokumentnummer | 26/07549-8 | Sak | Fagarbeider Kommuneområde oppvekst, Sarpsborg kommune
-Dokumentnummer | 26/06320-8 | Sak | 1080/5 - Rønneldveien 26 - Utslippstillatelse minirens
-Dokumentnummer | 24/08458-8 | Sak | Tilskudd til utstyr og læringsarenaer 1-10 trinn i gru
-Dokumentnummer | 26/07549-7 | Sak | Fagarbeider Kommuneområde oppvekst, Sarpsborg kommune
-Dokumentnummer | 23/42853-9 | Sak | LVK - Landssamanslutninga av vasskraftkommunar - lands
-Dokumentnummer | 26/00651-7 | Sak | 2077/175 - MYRSTADVEIEN 29 - Pålegg - separering spill
-Dokumentnummer | 23/42853-8 | Sak | LVK - Landssamanslutninga av vasskraftkommunar - lands
-Dokumentnummer | 26/07549-6 | Sak | Fagarbeider Kommuneområde oppvekst, Sarpsborg kommune
-Dokumentnummer | 26/08140-6 | Sak | 2052/7/0/0 - Ødegårdveien 136 - tilbygg til bolig - br
-Dokumentnummer | 24/10147-7 | Sak | iSarpsborg AS - generalforsamlinger | Fra | ISARPSBORG
-Dokumentnummer | 26/00651-6 | Sak | 2077/175 - MYRSTADVEIEN 29 - Pålegg - separering spill
-Dokumentnummer | 24/19223-6 | Sak | 2074/31// - Greåkerveien 159 A - endring av bygg - utv
-Dokumentnummer | 24/08842-6 | Sak | 1117/2/0/0 - Skjulstadveien 376 - øvingsbane for bil |
-Dokumentnummer | 26/08907-1 | Sak | Fyringsanlegg - 1049/242 - Brusemyrtoppen 18 A | Fra |
-Dokumentnummer | 26/07677-616 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
-Dokumentnummer | 26/05738-42 | Sak | Vernepleier/Sykepleier Virksomhet Livsmestring barn o
-Dokumentnummer | 26/02033-674 | Sak | Lærerstillinger i grunnskolen Kommuneområde oppvekst
-Dokumentnummer | 26/07677-617 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
-Dokumentnummer | 26/07677-615 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
-Dokumentnummer | 26/06215-3 | Sak | 2076/513 - OLAF EIDSÆTHERS VEI 25A - Pålegg - utbedrin
-Dokumentnummer | 26/05738-43 | Sak | Vernepleier/Sykepleier Virksomhet Livsmestring barn o
-Dokumentnummer | 26/07677-610 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
-Dokumentnummer | 26/07677-606 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
-Dokumentnummer | 26/07677-605 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
-Dokumentnummer | 26/07677-609 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
-Dokumentnummer | 26/07677-611 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
 Dokumentnummer | 26/07677-613 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
 Dokumentnummer | 26/07677-608 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
 Dokumentnummer | 26/07677-614 | Sak | Veileder Nav Sarpsborg - st. ref. 5105874451 | Til |
@@ -362,7 +336,7 @@ Dokumentnummer | 26/06555-82 | Sak | Helsefagarbeider natt Kommuneområde helse 
 Dokumentnummer | 26/06555-84 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-80 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-83 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
-Dokumentnummer | 26/00008-72 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-72 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
 Dokumentnummer | 26/06555-71 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-75 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-70 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
@@ -371,14 +345,14 @@ Dokumentnummer | 26/06555-69 | Sak | Helsefagarbeider natt Kommuneområde helse 
 Dokumentnummer | 26/06555-73 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-76 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-72 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
-Dokumentnummer | 26/00008-71 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-71 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
 Dokumentnummer | 26/06555-62 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-66 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-63 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-67 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 23/33673-61 | Sak | Løyver brukthandel - brukthandelbevilling | Fra | ØST
 Dokumentnummer | 26/06555-68 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
-Dokumentnummer | 26/01474-65 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Ida 
+Dokumentnummer | 26/01474-65 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Ida
 Dokumentnummer | 26/06555-64 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-65 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-61 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
@@ -403,7 +377,7 @@ Dokumentnummer | 26/06555-48 | Sak | Helsefagarbeider natt Kommuneområde helse 
 Dokumentnummer | 26/06555-46 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-37 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-40 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
-Dokumentnummer | 23/31631-39 | Sak | Overordnet samarbeidsavtale mellom Sykehuset Østfold 
+Dokumentnummer | 23/31631-39 | Sak | Overordnet samarbeidsavtale mellom Sykehuset Østfold
 Dokumentnummer | 26/06555-36 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-39 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-38 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
@@ -425,7 +399,7 @@ Dokumentnummer | 24/12432-24 | Sak | 1051/396/0/0 - Skjebergveien 96 - bruksendr
 Dokumentnummer | 26/06555-23 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-22 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-25 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
-Dokumentnummer | 25/11035-26 | Sak | 1108/4 - Høysand - Skjeberg marinesenter - Fradeling 
+Dokumentnummer | 25/11035-26 | Sak | 1108/4 - Høysand - Skjeberg marinesenter - Fradeling
 Dokumentnummer | 26/06555-26 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-27 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 25/24281-25 | Sak | 1045/3/3/0 - Nordbergveien 65 - rekvisisjon - endring
@@ -436,7 +410,7 @@ Dokumentnummer | 25/10947-17 | Sak | 1131/1/36/0 - Grønnsundveien 70 - nytt anl
 Dokumentnummer | 26/06555-16 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-19 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-20 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
-Dokumentnummer | 25/02713-15 | Sak | 2063/59/0/0 - Gamle Torvvei 19 - tilbygg til bolig - 
+Dokumentnummer | 25/02713-15 | Sak | 2063/59/0/0 - Gamle Torvvei 19 - tilbygg til bolig -
 Dokumentnummer | 24/04350-15 | Sak | Gnr 1040 bnr 17 - Pålegg - separering spill- og overv
 Dokumentnummer | 25/19867-16 | Sak | 201701 Kommuneplanens arealdel, Mindre endring - Komm
 Dokumentnummer | 26/06555-13 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
@@ -451,10 +425,10 @@ Dokumentnummer | 26/06555-11 | Sak | Helsefagarbeider natt Kommuneområde helse 
 Dokumentnummer | 24/04384-11 | Sak | Gnr 1040 bnr 80 - Pålegg - separering spill- og overv
 Dokumentnummer | 24/04351-12 | Sak | Gnr 1040 bnr 18 - Pålegg - separering spill- og overv
 Dokumentnummer | 26/06555-12 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
-Dokumentnummer | 26/05398-13 | Sak | 1/1774/0/0 - Tunebakken 5 B - endring av VA-anlegg - 
+Dokumentnummer | 26/05398-13 | Sak | 1/1774/0/0 - Tunebakken 5 B - endring av VA-anlegg -
 Dokumentnummer | 26/00642-9 | Sak | 2094/247 - ØSTHØLEN 14 - Pålegg - separering spill- og
 Dokumentnummer | 26/01663-10 | Sak | 1047/175/0/0 - Sarpehaugen - forelegging av planer om
-Dokumentnummer | 26/06555-9 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd, 
+Dokumentnummer | 26/06555-9 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06555-10 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 24/04356-11 | Sak | Gnr 1040 bnr 13 - Pålegg - separering spill- og overv
 Dokumentnummer | 25/15028-9 | Sak | 1039/27 - BASSENGVEIEN 1B - Pålegg - separering spill-
@@ -463,38 +437,64 @@ Dokumentnummer | 26/06227-8 | Sak | 3007/98/0/0 - Brunsbykollen 52 - garasje | T
 Dokumentnummer | 26/00642-8 | Sak | 2094/247 - ØSTHØLEN 14 - Pålegg - separering spill- og
 Dokumentnummer | 25/03087-8 | Sak | Grunneiertillatelse eller evt grensejustering - 1026/2
 Dokumentnummer | 23/36036-9 | Sak | Trygg trafikk - styre - landsmøter | Fra | TRYGG TRAFI
-Dokumentnummer | 26/06555-8 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd, 
-Dokumentnummer | 26/09018-7 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse | 
-Dokumentnummer | 25/19100-8 | Sak | 1/3321/0/0 - Kurlandveien 5 - tilbygg til bolig | Fra 
+Dokumentnummer | 26/06555-8 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
+Dokumentnummer | 26/09018-7 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse |
+Dokumentnummer | 25/19100-8 | Sak | 1/3321/0/0 - Kurlandveien 5 - tilbygg til bolig | Fra
 Dokumentnummer | 26/06329-7 | Sak | Klage på jordmortilbudet i kommunen | Fra | Avskjermet
-Dokumentnummer | 26/06555-6 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd, 
+Dokumentnummer | 26/06555-6 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/00642-7 | Sak | 2094/247 - ØSTHØLEN 14 - Pålegg - separering spill- og
-Dokumentnummer | 26/04877-7 | Sak | 1080/3/0/0 - Rokkeveien 431 - leilighet i garasjebygg 
-Dokumentnummer | 26/06555-7 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd, 
+Dokumentnummer | 26/04877-7 | Sak | 1080/3/0/0 - Rokkeveien 431 - leilighet i garasjebygg
+Dokumentnummer | 26/06555-7 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/06285-7 | Sak | 2062/756/0/0 - Bungalowveien 12 - rehabilitering av sk
-Dokumentnummer | 26/08541-6 | Sak | 1048/262/0/0 - Snekkerstubakken 19 - bruksendring fra 
+Dokumentnummer | 26/08541-6 | Sak | 1048/262/0/0 - Snekkerstubakken 19 - bruksendring fra
 Dokumentnummer | 26/04401-7 | Sak | 1/1046 - SKOLEGATA 49A - Pålegg - utbedring av vannlek
-Dokumentnummer | 26/09018-6 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse | 
-Dokumentnummer | 25/07080-6 | Sak | 2047/294/0/0 - Gudbrands vei 19 - tilbygg til bolig | 
+Dokumentnummer | 26/09018-6 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse |
+Dokumentnummer | 25/07080-6 | Sak | 2047/294/0/0 - Gudbrands vei 19 - tilbygg til bolig |
 Dokumentnummer | 25/20004-6 | Sak | Tilskudd til særlig ressurskrevende helse- og omsorgst
 Dokumentnummer | 26/04419-6 | Sak | 1/1775 - JACOB HILDITCH' GATE 2 - Pålegg - utbedring a
 Dokumentnummer | 26/08807-5 | Sak | 2065/100/0/0 - Rådmann Siras vei 2 - fasadeskilt | Til
 Dokumentnummer | 26/04910-6 | Sak | 2074/129 - OPSTADVEIEN 67A - Pålegg - separering spill
 Dokumentnummer | 25/10293-6 | Sak | 2078/227 - MYRSTADVEIEN 7 - Pålegg - separering spill-
-Dokumentnummer | 26/09018-5 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse | 
+Dokumentnummer | 26/09018-5 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse |
 Dokumentnummer | 26/08234-5 | Sak | 2042/2/0/0 - Desiderias vei 134 - tilbygg og fasadeend
 Dokumentnummer | 26/08795-4 | Sak | Innsyn i skoledokumentasjon - Avskjermet | Fra | Avskj
-Dokumentnummer | 26/07563-5 | Sak | 1/520/0/0 - Kulåsgata 47 - endring av bygg - utvendig 
+Dokumentnummer | 26/07563-5 | Sak | 1/520/0/0 - Kulåsgata 47 - endring av bygg - utvendig
 Dokumentnummer | 24/22560-5 | Sak | 2074/96 - MOAVEIEN 41 - Pålegg - utkobling av slamavsk
-Dokumentnummer | 26/08914-4 | Sak | Documaster - migrering av Visma sikker / generell sak 
+Dokumentnummer | 26/08914-4 | Sak | Documaster - migrering av Visma sikker / generell sak
 Dokumentnummer | 25/02362-5 | Sak | 2074/14 - KLEVAVEIEN 16 - Pålegg - separering spill- o
-Dokumentnummer | 26/09018-4 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse | 
+Dokumentnummer | 26/09018-4 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse |
 Dokumentnummer | 25/24568-5 | Sak | 2077/153/0/0 - Grålumveien 128 og 132 - boliger bygd i
-Dokumentnummer | 26/06555-5 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd, 
+Dokumentnummer | 26/06555-5 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
 Dokumentnummer | 26/04910-5 | Sak | 2074/129 - OPSTADVEIEN 67A - Pålegg - separering spill
-Dokumentnummer | 25/04963-4 | Sak | Ny heis og rømningstrapp - Ringgata 12 - 1/1127 | Fra 
+Dokumentnummer | 25/04963-4 | Sak | Ny heis og rømningstrapp - Ringgata 12 - 1/1127 | Fra
 Dokumentnummer | 23/45829-4 | Sak | Gnr 1041 bnr 30 - Pålegg - separering spill- og overva
-Dokumentnummer | 26/08706-4 | Sak | Skyldig lønn for tidligere ansatte | Fra | Avskjermet 
+Dokumentnummer | 26/08706-4 | Sak | Skyldig lønn for tidligere ansatte | Fra | Avskjermet
 Dokumentnummer | 25/00735-4 | Sak | Erstatning for tapt barndom - Avskjermet | Fra | Avskj
+Dokumentnummer | 26/06768-4 | Sak | 1049/236 - BRUSEMYRTOPPEN 33A - Pålegg - utbedring av
+Dokumentnummer | 26/06555-4 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd,
+Dokumentnummer | 26/00008-72 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-71 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/01474-65 | Sak | Henvendelser trafikksikkerhetssaker 2026 | Fra | Ida 
+Dokumentnummer | 23/31631-39 | Sak | Overordnet samarbeidsavtale mellom Sykehuset Østfold 
+Dokumentnummer | 25/11035-26 | Sak | 1108/4 - Høysand - Skjeberg marinesenter - Fradeling 
+Dokumentnummer | 25/02713-15 | Sak | 2063/59/0/0 - Gamle Torvvei 19 - tilbygg til bolig - 
+Dokumentnummer | 26/05398-13 | Sak | 1/1774/0/0 - Tunebakken 5 B - endring av VA-anlegg - 
+Dokumentnummer | 26/06555-9 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd, 
+Dokumentnummer | 26/09018-7 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse | 
+Dokumentnummer | 26/06555-8 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd, 
+Dokumentnummer | 25/19100-8 | Sak | 1/3321/0/0 - Kurlandveien 5 - tilbygg til bolig | Fra 
+Dokumentnummer | 26/09018-6 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse | 
+Dokumentnummer | 26/06555-6 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd, 
+Dokumentnummer | 26/08541-6 | Sak | 1048/262/0/0 - Snekkerstubakken 19 - bruksendring fra 
+Dokumentnummer | 26/04877-7 | Sak | 1080/3/0/0 - Rokkeveien 431 - leilighet i garasjebygg 
+Dokumentnummer | 26/06555-7 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd, 
+Dokumentnummer | 25/07080-6 | Sak | 2047/294/0/0 - Gudbrands vei 19 - tilbygg til bolig | 
+Dokumentnummer | 26/09018-5 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse | 
+Dokumentnummer | 26/09018-4 | Sak | 1151/4/0/0 - Ørebekkveien 87 - ikke omsøkt terrasse | 
+Dokumentnummer | 26/08914-4 | Sak | Documaster - migrering av Visma sikker / generell sak 
+Dokumentnummer | 26/06555-5 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd, 
+Dokumentnummer | 26/07563-5 | Sak | 1/520/0/0 - Kulåsgata 47 - endring av bygg - utvendig 
+Dokumentnummer | 26/08706-4 | Sak | Skyldig lønn for tidligere ansatte | Fra | Avskjermet 
 Dokumentnummer | 26/06768-4 | Sak | 1049/236 - BRUSEMYRTOPPEN 33A - Pålegg - utbedring av 
 Dokumentnummer | 26/06555-4 | Sak | Helsefagarbeider natt Kommuneområde helse og velferd, 
+Dokumentnummer | 25/04963-4 | Sak | Ny heis og rømningstrapp - Ringgata 12 - 1/1127 | Fra 
