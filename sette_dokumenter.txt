@@ -1,5 +1,3 @@
-Dokumentnummer | 23/31760-266 | Sak | 37013 Detaljregulering, Lysås - Ullerøy | Til | Tove
-Dokumentnummer | 26/03511-267 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 26/03511-271 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 26/03511-272 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 26/03511-266 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
@@ -299,8 +297,8 @@ Dokumentnummer | 26/00849-193 | Sak | Lege Virksomhet legevakt og legetjenester,
 Dokumentnummer | 26/01973-190 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
 Dokumentnummer | 26/01973-191 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
 Dokumentnummer | 26/01973-193 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/03511-498 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge, 
-Dokumentnummer | 26/03511-499 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/03511-498 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/03511-499 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 26/02853-415 | Sak | Sommervikarer Virksomhet Livsmestring 2 bofelleskap,
 Dokumentnummer | 26/02853-416 | Sak | Sommervikarer Virksomhet Livsmestring 2 bofelleskap,
 Dokumentnummer | 26/02853-413 | Sak | Sommervikarer Virksomhet Livsmestring 2 bofelleskap,
@@ -498,3 +496,5 @@ Dokumentnummer | 26/04323-229 | Sak | Sommervikarer, vaskeritjenesten - Virksomh
 Dokumentnummer | 26/04323-238 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
 Dokumentnummer | 26/04323-236 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
 Dokumentnummer | 26/04323-230 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/03511-499 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/03511-498 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge, 
