@@ -1,5 +1,3 @@
-Dokumentnummer | 26/03511-271 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-272 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 26/03511-266 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 26/03511-270 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 26/03511-262 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
@@ -496,5 +494,7 @@ Dokumentnummer | 26/04323-229 | Sak | Sommervikarer, vaskeritjenesten - Virksomh
 Dokumentnummer | 26/04323-238 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
 Dokumentnummer | 26/04323-236 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
 Dokumentnummer | 26/04323-230 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
+Dokumentnummer | 26/03511-499 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
+Dokumentnummer | 26/03511-498 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
 Dokumentnummer | 26/03511-499 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge, 
 Dokumentnummer | 26/03511-498 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge, 
