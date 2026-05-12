@@ -1,186 +1,3 @@
-Dokumentnummer | 26/03511-458 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-454 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-452 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-459 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-457 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-456 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-447 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-444 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-445 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-446 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-443 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-441 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-448 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-442 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-449 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-440 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-437 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-433 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-432 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-435 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-439 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-431 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-430 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-436 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-438 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-434 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-423 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-420 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-422 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-425 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-427 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-428 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-429 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-421 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-424 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-426 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-411 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-410 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-419 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-414 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-412 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-413 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-416 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-415 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-417 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-418 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-403 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-402 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-400 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-407 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-404 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-401 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-408 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-409 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-406 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-405 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-399 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-392 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-397 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-396 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-395 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-390 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-393 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-394 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-398 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-391 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-383 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-389 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-381 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-380 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-387 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-386 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-385 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-382 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-384 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-388 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-377 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-375 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-379 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-371 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-373 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-370 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-376 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-374 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-378 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-372 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 25/02995-283 | Sak | Tilkallingsvikarer til undervisningsstillinger i gru
-Dokumentnummer | 26/03511-368 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-367 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-364 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-365 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-362 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-363 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-369 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-366 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/01973-243 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-233 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-238 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-239 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-237 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-236 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-240 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-242 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-235 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-241 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-234 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-225 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-231 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-230 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-227 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-226 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-228 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-229 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-232 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-221 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-224 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-218 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-223 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-219 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-216 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-220 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-222 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-215 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-217 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-210 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-208 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-214 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-209 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-211 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-206 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-213 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-212 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-205 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-207 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-202 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-198 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-196 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-201 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-199 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 24/05750-197 | Sak | 22086 Områderegulering, Grålum | Fra | ASPLAN VIAK A
-Dokumentnummer | 26/01973-204 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-200 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-197 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-203 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/00849-190 | Sak | Lege Virksomhet legevakt og legetjenester, Sarpsborg
-Dokumentnummer | 26/00849-192 | Sak | Lege Virksomhet legevakt og legetjenester, Sarpsborg
-Dokumentnummer | 26/01973-194 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-195 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/00849-191 | Sak | Lege Virksomhet legevakt og legetjenester, Sarpsborg
-Dokumentnummer | 26/01973-192 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/00849-193 | Sak | Lege Virksomhet legevakt og legetjenester, Sarpsborg
-Dokumentnummer | 26/01973-190 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-191 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-193 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/03511-498 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/03511-499 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge,
-Dokumentnummer | 26/02853-415 | Sak | Sommervikarer Virksomhet Livsmestring 2 bofelleskap,
-Dokumentnummer | 26/02853-416 | Sak | Sommervikarer Virksomhet Livsmestring 2 bofelleskap,
-Dokumentnummer | 26/02853-413 | Sak | Sommervikarer Virksomhet Livsmestring 2 bofelleskap,
-Dokumentnummer | 26/02853-417 | Sak | Sommervikarer Virksomhet Livsmestring 2 bofelleskap,
-Dokumentnummer | 26/02853-414 | Sak | Sommervikarer Virksomhet Livsmestring 2 bofelleskap,
-Dokumentnummer | 26/04323-338 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-333 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-329 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-330 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-334 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-337 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Offentlig journal | Hjelp | Viser 11 - 20 av 118454 dokumenter | Avslag, stilling besatt -
-Dokumentnummer | 26/04323-328 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-336 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-331 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-332 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-335 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-324 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-322 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-325 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-327 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/01973-324 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/01973-323 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
-Dokumentnummer | 26/04323-323 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-326 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/04323-321 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
-Dokumentnummer | 26/01973-322 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
 Dokumentnummer | 26/04323-317 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
 Dokumentnummer | 26/01973-320 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
 Dokumentnummer | 26/04323-318 | Sak | Sommervikarer, vaskeritjenesten - Virksomhet kommuna
@@ -381,7 +198,7 @@ Dokumentnummer | 26/06481-281 | Sak | Helsefagarbeider/hjelpepleier Kommuneområ
 Dokumentnummer | 26/06481-284 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
 Dokumentnummer | 26/06481-285 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
 Dokumentnummer | 26/06481-283 | Sak | Helsefagarbeider/hjelpepleier Kommuneområde helse og
-Dokumentnummer | 26/00008-79 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-79 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
 Dokumentnummer | 26/07122-152 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsb
 Dokumentnummer | 26/07122-151 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsb
 Dokumentnummer | 26/07017-80 | Sak | Sommervikarer - Virksomhet kommunalteknikk Team vei o
@@ -393,10 +210,10 @@ Dokumentnummer | 26/04395-157 | Sak | Sommervikarer Kommuneområde helse og velf
 Dokumentnummer | 26/07017-79 | Sak | Sommervikarer - Virksomhet kommunalteknikk Team vei o
 Offentlig journal | Hjelp | Viser 31 - 40 av 117713 dokumenter | Arbeidsavtale - Sommervik
 Dokumentnummer | 24/02680-34 | Sak | 1077/40/0/0 - Sandåsveien 211 - oppføring av ny enebo
-Dokumentnummer | 26/04978-35 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg 
-Dokumentnummer | 24/06924-35 | Sak | 1/425/0/0 - St. Marie gate 133 - riving og oppføring 
+Dokumentnummer | 26/04978-35 | Sak | Sykepleier Kommuneområde helse og velferd, Sarpsborg
+Dokumentnummer | 24/06924-35 | Sak | 1/425/0/0 - St. Marie gate 133 - riving og oppføring
 Dokumentnummer | 23/34313-49 | Sak | 202312 Detaljregulering, Gang- og sykkelvei Greåkerda
-Dokumentnummer | 26/00008-78 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier 
+Dokumentnummer | 26/00008-78 | Sak | Nabovarsler 2026 til Sarpsborg kommune som grunneier
 Dokumentnummer | 24/02680-35 | Sak | 1077/40/0/0 - Sandåsveien 211 - oppføring av ny enebo
 Dokumentnummer | 26/07017-78 | Sak | Sommervikarer - Virksomhet kommunalteknikk Team vei o
 Dokumentnummer | 23/25346-37 | Sak | Basistilskudd for fastlegeordningen i kommunene | Fra
@@ -419,16 +236,16 @@ Dokumentnummer | 25/02701-16 | Sak | Tiltak for å redde Oslofjorden - båtvrak 
 Dokumentnummer | 23/44813-15 | Sak | Tilskudd til frivilligsentralene / frivillighetssentr
 Dokumentnummer | 26/08057-15 | Sak | Barne- og ungdomsarbeider Kommuneområde oppvekst, Sar
 Dokumentnummer | 26/08057-14 | Sak | Barne- og ungdomsarbeider Kommuneområde oppvekst, Sar
-Dokumentnummer | 25/10084-16 | Sak | 1129/3/7/0 - Kålvikveien 157 - fasadeendring | Fra | 
+Dokumentnummer | 25/10084-16 | Sak | 1129/3/7/0 - Kålvikveien 157 - fasadeendring | Fra |
 Dokumentnummer | 25/19142-14 | Sak | Kjøp og salg - 2072/10 - Grålumveien 203 - Grunneiend
 Dokumentnummer | 26/08057-13 | Sak | Barne- og ungdomsarbeider Kommuneområde oppvekst, Sar
-Dokumentnummer | 25/20937-14 | Sak | 1107/11/0/0 - Strandvollen - nytt bygg - Boligformål 
+Dokumentnummer | 25/20937-14 | Sak | 1107/11/0/0 - Strandvollen - nytt bygg - Boligformål
 Dokumentnummer | 26/08057-12 | Sak | Barne- og ungdomsarbeider Kommuneområde oppvekst, Sar
 Dokumentnummer | 24/11061-14 | Sak | Tilskudd til økt pedagogtetthet i levekårsutsatte omr
 Dokumentnummer | 26/08057-11 | Sak | Barne- og ungdomsarbeider Kommuneområde oppvekst, Sar
 Dokumentnummer | 25/20687-10 | Sak | Arealoverføring - 2095/4 til 2095/4/39 - Gjerløws vei
-Dokumentnummer | 26/08541-9 | Sak | 1048/262/0/0 - Snekkerstubakken 19 - bruksendring fra 
-Dokumentnummer | 25/07080-9 | Sak | 2047/294/0/0 - Gudbrands vei 19 - tilbygg til bolig | 
+Dokumentnummer | 26/08541-9 | Sak | 1048/262/0/0 - Snekkerstubakken 19 - bruksendring fra
+Dokumentnummer | 25/07080-9 | Sak | 2047/294/0/0 - Gudbrands vei 19 - tilbygg til bolig |
 Dokumentnummer | 25/19850-9 | Sak | 1/4180/0/0 - Blessomveien 35 A, 35 B, 35 C, 37 A, 37 B
 Dokumentnummer | 26/07323-8 | Sak | 2086/41/0/0 - Frøyas vei 1 D - bruksendring fra tilleg
 Dokumentnummer | 26/08057-10 | Sak | Barne- og ungdomsarbeider Kommuneområde oppvekst, Sar
@@ -451,7 +268,7 @@ Dokumentnummer | 26/08795-6 | Sak | Innsyn i skoledokumentasjon - Avskjermet | F
 Dokumentnummer | 26/03823-7 | Sak | Helgestillinger for studenter og helsefagarbeidere Vir
 Dokumentnummer | 26/04010-7 | Sak | 010526026 Detaljregulering, Kampenesmyra nord reguleri
 Dokumentnummer | 26/05914-5 | Sak | 2095/4/0/0 - Gjerløws vei 11 - rekvisisjon - opprettel
-Dokumentnummer | 24/25159-6 | Sak | 1131/1/59/0 - Strandplassen 12 - ulovlig utvidelse av 
+Dokumentnummer | 24/25159-6 | Sak | 1131/1/59/0 - Strandplassen 12 - ulovlig utvidelse av
 Dokumentnummer | 26/07555-5 | Sak | Deling av eiendom 1048/1 - Rynningsvei 10 | Til | Hann
 Dokumentnummer | 26/08057-5 | Sak | Barne- og ungdomsarbeider Kommuneområde oppvekst, Sarp
 Dokumentnummer | 23/45222-5 | Sak | Gnr 1049 bnr 237 - Pålegg - separering spill- og overv
@@ -464,7 +281,7 @@ Dokumentnummer | 26/08057-4 | Sak | Barne- og ungdomsarbeider Kommuneområde opp
 Dokumentnummer | 26/06910-3 | Sak | Festeforhold - 1/2080 - Sannegata 22 - innløsning | Fr
 Dokumentnummer | 26/08057-3 | Sak | Barne- og ungdomsarbeider Kommuneområde oppvekst, Sarp
 Dokumentnummer | 26/09657-3 | Sak | 2074/77/0/0 - Visterveien 29 - fradeling | Til | Audun
-Dokumentnummer | 23/46612-3 | Sak | Vitneinnkalling - Hornnes og Ullerøy barneskole | Fra 
+Dokumentnummer | 23/46612-3 | Sak | Vitneinnkalling - Hornnes og Ullerøy barneskole | Fra
 Dokumentnummer | 26/09668-2 | Sak | Salg av Kulåsgata 21 - Andel 407 - 808/1 | Fra | SOBBL
 Dokumentnummer | 26/08057-2 | Sak | Barne- og ungdomsarbeider Kommuneområde oppvekst, Sarp
 Dokumentnummer | 26/09712-2 | Sak | Angående godkjent bruk Oldtidsveien 705 | Til | ARBEID
@@ -472,7 +289,7 @@ Dokumentnummer | 26/09616-2 | Sak | Manglende adresser i matrikkel - Brusemyrlia
 Dokumentnummer | 26/09134-2 | Sak | Henvendelse om vurdering av søknadsplikt - rensebassen
 Dokumentnummer | 26/00789-3 | Sak | Sommervikarer Studenter og helsefagarbeider Virksomhet
 Dokumentnummer | 26/09854-1 | Sak | Brannforebygging - 2066/131/0/0 | Til | Ann-Kristin Lu
-Dokumentnummer | 26/09862-1 | Sak | Behandling av refusjonskrav skogfond - 1070/1 | Fra | 
+Dokumentnummer | 26/09862-1 | Sak | Behandling av refusjonskrav skogfond - 1070/1 | Fra |
 Dokumentnummer | 26/09856-1 | Sak | Brannforebygging - 2066/150/281/0 | Til | Mayliss Mari
 Dokumentnummer | 26/09855-1 | Sak | Brannforebygging - 2066/201/0/0 | Til | Driton Jashari
 Dokumentnummer | 26/00789-2 | Sak | Sommervikarer Studenter og helsefagarbeider Virksomhet
@@ -484,17 +301,200 @@ Dokumentnummer | 26/09848-1 | Sak | Brannforebygging - 2066/133/0/0 | Til | Vega
 Dokumentnummer | 26/09845-1 | Sak | Brannforebygging - 2066/121/0/0 | Til | Bjørg Andreass
 Dokumentnummer | 26-1027-1 | Sak | Innsynskrav i 26/09655-1 | Fra | Alexander Kastrup | Jo
 Dokumentnummer | 26/09849-1 | Sak | Brannforebygging - 2066/202/0/0 | Til | Øivind Skjelle
-Dokumentnummer | 26/09850-1 | Sak | Brannforebygging - 2066/145/0/0 | Til | Lene Veronica 
+Dokumentnummer | 26/09850-1 | Sak | Brannforebygging - 2066/145/0/0 | Til | Lene Veronica
 Dokumentnummer | 26/09852-1 | Sak | Brannforebygging - 2066/150/279/0 | Til | ÅDALEN EIEND
 Dokumentnummer | 26/09847-1 | Sak | Brannforebygging - 2066/128/0/0 | Til | Britta Gerhard
 Dokumentnummer | 26/09851-1 | Sak | Brannforebygging - 2066/150/282/0 | Til | Gorm Kristia
 Offentlig journal | Hjelp | Viser 181 - 190 av 117713 dokumenter | Resultat etter brannfor
-Dokumentnummer | 26/09813-1 | Sak | 2079/313/0/0 - Hannestadveien 37 - kritisk utglidning 
-Dokumentnummer | 26/09829-1 | Sak | Innsyn - leverandørreskontro - Borg Næring og Eiendom 
+Dokumentnummer | 26/09813-1 | Sak | 2079/313/0/0 - Hannestadveien 37 - kritisk utglidning
+Dokumentnummer | 26/09829-1 | Sak | Innsyn - leverandørreskontro - Borg Næring og Eiendom
 Dokumentnummer | 26/09818-1 | Sak | Brannforebygging - 2008/8/0/0 | Til | Kjell Viggo Adam
 Dokumentnummer | 26/09835-1 | Sak | Henvendelse vedrørende utslipp i Glomma og Oslofjorden
 Dokumentnummer | 26/09830-1 | Sak | 2047/273/0/0 - Hovslagerveien 34 A - oppføring av vint
 Dokumentnummer | 26/09814-1 | Sak | 2063/449 - Tuneveien 7 A-D - seksjonering | Fra | BOGL
 Dokumentnummer | 26/09837-1 | Sak | Informasjon om vaksinering og voksenvaksinasjonsprogra
 Dokumentnummer | 26/09816-1 | Sak | Brannforebygging - 2008/19/0/0 | Til | Jan Egil Aas Ja
-Dokumentnummer | 26/09832-1 | Sak | El-tilsyn - Valaskjold servicebase | Fra | ELVIA AS | 
+Dokumentnummer | 26/09832-1 | Sak | El-tilsyn - Valaskjold servicebase | Fra | ELVIA AS |
+Dokumentnummer | 25/21809-9 | Sak | Fastlegeavtale - Justyna Karina Pryjma | Fra | Justyna
+Dokumentnummer | 24/23557-5 | Sak | Tilskudd til drenering av jordbruksjord - 1153/6 | Fra
+Dokumentnummer | 26/03511-503 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 25/04191-6 | Sak | Tilskudd til drenering av jordbruksjord - 1153/1 - Åse
+Dokumentnummer | 26/00789-5 | Sak | Sommervikarer Studenter og helsefagarbeider Virksomhet
+Dokumentnummer | 26/02315-4 | Sak | Fastlege - vikar - Simen Egeland | Fra | Simen Ausland
+Dokumentnummer | 26/06472-85 | Sak | Helgestillinger Virksomhet Livsmestring 2 bofellesska
+Dokumentnummer | 26/00006-64 | Sak | Innsyn - byggesaker - 2026 | Fra | Espen Møhlenberg B
+Dokumentnummer | 24/23557-4 | Sak | Tilskudd til drenering av jordbruksjord - 1153/6 | Fra
+Dokumentnummer | 26/09950-1 | Sak | Melding om skorstein som ikke er i bruk - 1054/21 - Gr
+Dokumentnummer | 26/03511-500 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/03511-502 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/02853-426 | Sak | Sommervikarer Virksomhet Livsmestring 2 bofelleskap,
+Dokumentnummer | 26-1031-1 | Sak | Innsynskrav i 25/12080-9 | Fra | Lars Bjøreid | Journal
+Dokumentnummer | 26/03511-501 | Sak | Sommervikarer Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/02853-427 | Sak | Sommervikarer Virksomhet Livsmestring 2 bofelleskap,
+Dokumentnummer | 26/05843-224 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-221 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-226 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-222 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-225 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-223 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/01973-325 | Sak | Sykepleiere/vernepleiere/helsefagarbeidere/studenter
+Dokumentnummer | 26/05843-227 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-219 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-213 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-218 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-220 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-217 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-215 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-212 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-216 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-213 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-214 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-210 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-208 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-209 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-211 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-209 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-210 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-207 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-212 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-211 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-208 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-204 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-203 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-202 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-206 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-207 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-205 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-203 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-205 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-206 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-204 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-199 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-202 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-198 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-197 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-201 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-200 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-200 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-199 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-198 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-201 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-196 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-194 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-195 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-192 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-193 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-195 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-193 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-194 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-196 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-197 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-190 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-189 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-191 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-189 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-188 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-192 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-187 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-191 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-188 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-190 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-183 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-182 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-185 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-184 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-186 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-185 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-184 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-183 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-186 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-187 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-179 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-180 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-181 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-178 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-180 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-182 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-178 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-177 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-181 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-179 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-172 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-174 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-173 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-174 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-176 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-175 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-173 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-177 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-176 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-175 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-169 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-168 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-171 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-169 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-170 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-170 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-171 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-167 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-172 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-168 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-162 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-165 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-166 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-167 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-166 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-163 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-165 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-164 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-163 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/05843-164 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-161 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/04395-160 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
+Dokumentnummer | 26/05843-162 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/04395-159 | Sak | Sommervikarer Kommuneområde helse og velferd, Sarpsb
+Dokumentnummer | 26/05843-161 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-160 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-158 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-159 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-159 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-160 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/08058-155 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/07122-155 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsb
+Dokumentnummer | 26/08058-153 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/07122-156 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsb
+Dokumentnummer | 26/08058-156 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/07122-153 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsb
+Dokumentnummer | 26/08058-154 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-157 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/05843-158 | Sak | Arrangementsmedarbeider - sommerjobb Kommuneområde s
+Dokumentnummer | 26/07122-154 | Sak | Helsefagarbeider Virksomhet hjemmesykepleien, Sarpsb
+Dokumentnummer | 26/08058-149 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-150 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-151 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-146 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08058-148 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08776-95 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08058-147 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08776-94 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08058-152 | Sak | Miljøterapeut Virksomhet Livsmestring barn og unge, 
+Dokumentnummer | 26/08776-93 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-89 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-85 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-90 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-84 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-92 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-87 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-86 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-88 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-91 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/07017-82 | Sak | Sommervikarer - Virksomhet kommunalteknikk Team vei o
+Dokumentnummer | 26/08776-76 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-82 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-80 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-78 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-77 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/06472-84 | Sak | Helgestillinger Virksomhet Livsmestring 2 bofellesska
+Dokumentnummer | 26/08776-81 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-79 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
+Dokumentnummer | 26/08776-83 | Sak | Helsefagarbeider Virksomhet Livsmestring 1 bofellessk
