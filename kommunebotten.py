@@ -21,7 +21,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 API_KEY = os.environ.get("GEMINI_API_KEY")
 EPOST_AVSENDER = os.environ.get("EPOST_BRUKER")
 EPOST_PASSORD = os.environ.get("EPOST_PASSORD")
-EPOST_MOTTAKER = os.environ.get("EPOST_MOTTAKER_KOMMUNE") or os.environ.get("EPOST_MOTTAKER")
+EPOST_MOTTAKER = os.environ.get("EPOST_MOTTAKER_KOMMUNE")
 
 URL_TIL_LISTEN = "https://sarpsborg.pj.360online.com/"
 SEEN_FILE = "sette_dokumenter.txt"
@@ -39,9 +39,9 @@ GEMINI_MODELLER = list(
     dict.fromkeys(
         [
             GEMINI_MODELL,
-            "gemini-2.5-flash",
-            "gemini-2.0-flash",
-            "gemini-1.5-flash",
+            "gemini-3.1-flash-lite",
+            "gemini-2.5-flash-lite",
+            "gemini-2.0-flash-lite",
         ]
     )
 )
