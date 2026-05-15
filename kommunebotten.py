@@ -30,7 +30,7 @@ MAKS_LAGREDE_IDS = int(os.environ.get("MAKS_LAGREDE_IDS", "5000"))
 AI_BATCH_SIZE = int(os.environ.get("AI_BATCH_SIZE", "30"))
 AI_MIN_SCORE = int(os.environ.get("AI_MIN_SCORE", "7"))
 MAKS_FUNN_I_EPOST = int(os.environ.get("MAKS_FUNN_I_EPOST", "25"))
-GEMINI_MODELL = os.environ.get("GEMINI_MODELL", "gemini-3.1-flash-lite")
+GEMINI_MODELL = os.environ.get("GEMINI_MODELL", "gemini-3-flash-preview")
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
@@ -39,8 +39,8 @@ GEMINI_MODELLER = list(
     dict.fromkeys(
         [
             GEMINI_MODELL,
+            "gemini-3.1-flash-lite",
             "gemini-2.5-flash-lite",
-            "gemini-2.0-flash-lite",
             "gemini-2.0-flash",
         ]
     )
