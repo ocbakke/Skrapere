@@ -1,16 +1,24 @@
-name: Kommunejournalen SA
+name: Kommunejournalen og domstolsjekkeren SA
 
 on:
   schedule:
-    # Kjører kl 06:15 UTC hver dag (07:15 norsk vintertid / 08:15 sommertid)
+    # Kjører kl. 05:12 UTC hver dag
+    # Ca. 06:12 norsk vintertid / 07:12 sommertid
     - cron: '12 5 * * *'
-  workflow_dispatch: # Lar deg teste manuelt med "Run workflow"-knappen
+  workflow_dispatch:
 
 jobs:
-  scrape-kommune:
+  scrape:
     runs-on: ubuntu-latest
+
     permissions:
-      contents: write # Nødvendig for å lagre text-filen med leste saker
+      contents: write
+
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      EPOST_BRUKER: ${{ secrets.EPOST_BRUKER }}
+      EPOST_PASSORD: ${{ secrets.EPOST_PASSORD }}
+      EPOST_MOTTAKER: ${{ secrets.EPOST_MOTTAKER }}
 
     steps:
       - name: Sjekk ut kode
@@ -25,19 +33,22 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Kjør kommune-roboten
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          EPOST_BRUKER: ${{ secrets.EPOST_BRUKER }}
-          EPOST_PASSORD: ${{ secrets.EPOST_PASSORD }}
-          EPOST_MOTTAKER: ${{ secrets.EPOST_MOTTAKER }}
-        # HER ER ENDRINGEN: Kjører kommunebotten.py i stedet
         run: python kommunebotten.py
 
-      - name: Lagre 'sett'-filen tilbake til GitHub
+      - name: Kjør domstolsjekkeren
+        run: python domstolsjekkeren_scraper.py
+
+      - name: Lagre cache tilbake til GitHub
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git add sette_dokumenter.txt
-          git diff --quiet && git diff --staged --quiet || git commit -m "Oppdatert filter for kommunejournalen"
-          git pull --rebase
-          git push
+
+          git add sette_dokumenter.txt cache_sa.json
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Oppdatert cache for scrapers"
+            git pull --rebase
+            git push
+          else
+            echo "Ingen endringer å lagre."
+          fi
