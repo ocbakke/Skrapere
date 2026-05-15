@@ -21,7 +21,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 API_KEY = os.environ.get("GEMINI_API_KEY")
 EPOST_AVSENDER = os.environ.get("EPOST_BRUKER")
 EPOST_PASSORD = os.environ.get("EPOST_PASSORD")
-EPOST_MOTTAKER = os.environ.get("EPOST_MOTTAKER")
+EPOST_MOTTAKER = os.environ.get("EPOST_MOTTAKER_KOMMUNE") or os.environ.get("EPOST_MOTTAKER")
 
 URL_TIL_LISTEN = "https://sarpsborg.pj.360online.com/"
 SEEN_FILE = "sette_dokumenter.txt"
@@ -30,11 +30,21 @@ MAKS_LAGREDE_IDS = int(os.environ.get("MAKS_LAGREDE_IDS", "5000"))
 AI_BATCH_SIZE = int(os.environ.get("AI_BATCH_SIZE", "30"))
 AI_MIN_SCORE = int(os.environ.get("AI_MIN_SCORE", "7"))
 MAKS_FUNN_I_EPOST = int(os.environ.get("MAKS_FUNN_I_EPOST", "25"))
-GEMINI_MODELL = os.environ.get("GEMINI_MODELL", "gemini-3-flash")
+GEMINI_MODELL = os.environ.get("GEMINI_MODELL", "gemini-2.5-flash")
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
 DOKUMENTNUMMER_RE = re.compile(r"\b\d{2}/\d{5}-\d+\b")
+GEMINI_MODELLER = list(
+    dict.fromkeys(
+        [
+            GEMINI_MODELL,
+            "gemini-2.5-flash",
+            "gemini-2.0-flash",
+            "gemini-1.5-flash",
+        ]
+    )
+)
 
 print(f"DEBUG: API-nøkkel funnet: {'JA' if API_KEY else 'NEI'}")
 
@@ -376,8 +386,23 @@ JSON-format:
 Journalposter:
 {saker_json}"""
 
+    siste_feil = None
+    response = None
+    brukt_modell = None
+    for modell in GEMINI_MODELLER:
+        try:
+            response = client.models.generate_content(model=modell, contents=prompt)
+            brukt_modell = modell
+            break
+        except Exception as e:
+            siste_feil = e
+            print(f"AI-feil med modell {modell}: {e}")
+
+    if response is None:
+        print(f"AI-feil: Ingen Gemini-modeller fungerte. Siste feil: {siste_feil}")
+        return [], False
+
     try:
-        response = client.models.generate_content(model=GEMINI_MODELL, contents=prompt)
         data = hent_json_liste_fra_ai_tekst(response.text or "")
         poster_per_id = {post.stabil_id: post for post in liste_med_saker}
         funn = []
@@ -407,7 +432,10 @@ Journalposter:
                 }
             )
 
-        print(f"DEBUG: AI vurderte {len(liste_med_saker)} saker og fant {len(funn)} treff.")
+        print(
+            f"DEBUG: AI vurderte {len(liste_med_saker)} saker med {brukt_modell} "
+            f"og fant {len(funn)} treff."
+        )
         return funn, True
     except Exception as e:
         print(f"AI-feil: {e}")
@@ -539,11 +567,22 @@ def main() -> None:
         ai_godkjente_ids = []
         statistikk["til_ai"] = len(kandidater)
 
+        ai_batcher = 0
+        ai_feil = 0
         for batch in del_i_batcher(kandidater, AI_BATCH_SIZE):
+            ai_batcher += 1
             funn, ok = analyser_batch_med_gemini(batch)
             alle_ai_funn.extend(funn)
             if ok:
                 ai_godkjente_ids.extend(post.stabil_id for post in batch)
+            else:
+                ai_feil += 1
+
+        if kandidater and ai_feil == ai_batcher:
+            raise RuntimeError(
+                "AI-vurdering feilet for alle kandidatbatcher. "
+                "Stopper slik at dette ikke ser ut som 'ingen treff'."
+            )
 
         nye_ids_som_kan_lagres.extend(ai_godkjente_ids)
         lagre_seen_ids(gamle_ids, nye_ids_som_kan_lagres)
