@@ -64,7 +64,7 @@ def analyser_batch_med_gemini(liste_med_saker):
     ID [nummer]: Begrunnelse: [Din begrunnelse] | Saksnummer: [Saksnummer] | Sak: [Sak] | Dokumentnavn: [Dokumentnavn] | Mottaker: [Mottaker eller Avsender] | Journaldato: [Dato]"""
 
     try:
-        response = client.models.generate_content(model="gemini-2.5-flash-lite", contents=prompt)
+        response = client.models.generate_content(model="gemini-3-flash", contents=prompt)
         funn = []
         if response.text:
             print(f"DEBUG: AI vurderte {len(liste_med_saker)} saker.")
