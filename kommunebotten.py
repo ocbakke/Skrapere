@@ -21,10 +21,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 API_KEY = os.environ.get("GEMINI_API_KEY")
 EPOST_AVSENDER = os.environ.get("EPOST_BRUKER")
 EPOST_PASSORD = os.environ.get("EPOST_PASSORD")
-EPOST_MOTTAKER = os.environ.get(
-    "EPOST_MOTTAKER",
-    "ocb@sa.no, redaksjonen@sa.no, johnny.helgesen@sa.no",
-)
+EPOST_MOTTAKER = os.environ.get("EPOST_MOTTAKER")
 
 URL_TIL_LISTEN = "https://sarpsborg.pj.360online.com/"
 SEEN_FILE = "sette_dokumenter.txt"
