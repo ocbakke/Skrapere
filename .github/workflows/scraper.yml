@@ -28,6 +28,7 @@ jobs:
         env:
           EPOST_BRUKER: ${{ secrets.EPOST_BRUKER }}
           EPOST_PASSORD: ${{ secrets.EPOST_PASSORD }}
+          EPOST_MOTTAKER: ${{ secrets.EPOST_MOTTAKER }}
           # Du kan eventuelt legge inn EPOST_MOTTAKER her også om du la den inn i Secrets, 
           # ellers bruker skriptet standardadressen ("redaksjonen@sa.no")
         run: python domstolsjekkeren_scraper.py
