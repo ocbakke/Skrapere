@@ -29,6 +29,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           EPOST_BRUKER: ${{ secrets.EPOST_BRUKER }}
           EPOST_PASSORD: ${{ secrets.EPOST_PASSORD }}
+          EPOST_MOTTAKER: ${{ secrets.EPOST_MOTTAKER }}
         # HER ER ENDRINGEN: Kjører kommunebotten.py i stedet
         run: python kommunebotten.py
 
