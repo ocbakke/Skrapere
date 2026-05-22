@@ -163,6 +163,9 @@ STERKE_NYHETSORD = [
     "tvangsmulkt",
     "ulovlig",
     "varsel",
+    "innsigelse",
+    "bekymring",
+    
 ]
 
 
