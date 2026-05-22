@@ -141,6 +141,8 @@ LEDERSTILLING_ORD = [
     "seksjonsleder",
     "teamleder",
     "virksomhetsleder",
+    "direktør",
+    "sjef",
 ]
 
 STERKE_NYHETSORD = [
