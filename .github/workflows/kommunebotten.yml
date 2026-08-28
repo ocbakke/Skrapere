@@ -4,20 +4,20 @@ on:
   schedule:
     # Kjører kl 06:15 UTC hver dag (07:15 norsk vintertid / 08:15 sommertid)
     - cron: '12 5 * * *'
-  workflow_dispatch: # Lar deg teste manuelt med "Run workflow"-knappen
+  workflow_dispatch:
 
 jobs:
   scrape-kommune:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Nødvendig for å lagre text-filen med leste saker
+      contents: write
 
     steps:
       - name: Sjekk ut kode
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Sett opp Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
 
@@ -30,7 +30,6 @@ jobs:
           EPOST_BRUKER: ${{ secrets.EPOST_BRUKER }}
           EPOST_PASSORD: ${{ secrets.EPOST_PASSORD }}
           EPOST_MOTTAKER_KOMMUNE: ${{ secrets.EPOST_MOTTAKER_KOMMUNE }}
-        # HER ER ENDRINGEN: Kjører kommunebotten.py i stedet
         run: python kommunebotten.py
 
       - name: Lagre 'sett'-filen tilbake til GitHub
